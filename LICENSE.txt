@@ -1,0 +1,82 @@
+-----------------------------------------
+License for Python code in this directory
+-----------------------------------------
+The code in this directory is licensed under the GNU General Public License
+v3. (See LICENSE_GPL_v3.txt in this directory for the license.)
+
+--------------------------------------------------
+License for text in input/ and output/ directories
+--------------------------------------------------
+The Tags field (not present in the original course) is licensed under the
+Creative Commons Attribution 4.0 International (CC BY 4.0). This refers to
+both the Rules column in the Model.txt input file and the Tags column in
+the output file. Other fields are primarily derived from the original
+course (which I believe to be in the public domain in the United States)
+with what I believe to be trivial or mechanical modifications. The
+modifications made to these fields are released under Creative Commons CC0.
+This deck is not affiliated with or endorsed by the author(s) of the
+original course or by the Foreign Service Institute.
+
+URL of a human-readable summary of the CC BY 4.0 license:
+    https://creativecommons.org/licenses/by/4.0/.
+
+URL of the license itself. The summary is not a substitute for the license:
+    https://creativecommons.org/licenses/by/4.0/legalcode.
+
+The Tags field is © 2020-2024 by Ray Griner.
+
+---------------------------------------------------------------------------
+
+Note the disclaimer of warranties in the CC BY 4.0 license:
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+a. Unless otherwise separately undertaken by the Licensor, to the extent
+possible, the Licensor offers the Licensed Material as-is and as-available,
+and makes no representations or warranties of any kind concerning the
+Licensed Material, whether express, implied, statutory, or other. This
+includes, without limitation, warranties of title, merchantability, fitness
+for a particular purpose, non-infringement, absence of latent or other
+defects, accuracy, or the presence or absence of errors, whether or not
+known or discoverable. Where disclaimers of warranties are not allowed in
+full or in part, this disclaimer may not apply to You.
+
+b. To the extent possible, in no event will the Licensor be liable to You
+on any legal theory (including, without limitation, negligence) or
+otherwise for any direct, special, indirect, incidental, consequential,
+punitive, exemplary, or other losses, costs, expenses, or damages arising
+out of this Public License or use of the Licensed Material, even if the
+Licensor has been advised of the possibility of such losses, costs,
+expenses, or damages. Where a limitation of liability is not allowed in
+full or in part, this limitation may not apply to You.
+
+c. The disclaimer of warranties and limitation of liability provided above
+shall be interpreted in a manner that, to the extent possible, most closely
+approximates an absolute disclaimer and waiver of all liability.
+
+---------------------------------------------------------------------------
+
+Note the disclaimer of warranties in the CC0 legal text:
+
+4. Limitations and Disclaimers.
+
+a. No trademark or patent rights held by Affirmer are waived, abandoned, 
+surrendered, licensed or otherwise affected by this document.
+
+b. Affirmer offers the Work as-is and makes no representations or
+warranties of any kind concerning the Work, express, implied, statutory or
+otherwise, including without limitation warranties of title,
+merchantability, fitness for a particular purpose, non infringement, or
+the absence of latent or other defects, accuracy, or the present or absence
+of errors, whether or not discoverable, all to the greatest extent
+permissible under applicable law.
+
+c. Affirmer disclaims responsibility for clearing rights of other persons
+that may apply to the Work or any use thereof, including without limitation
+any person's Copyright and Related Rights in the Work. Further, Affirmer
+disclaims responsibility for obtaining any necessary consents, permissions
+or other rights required for any use of the Work.
+
+d. Affirmer understands and acknowledges that Creative Commons is not a
+party to this document and has no duty or obligation with respect to this
+CC0 or use of the Work.

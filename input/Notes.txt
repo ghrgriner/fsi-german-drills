@@ -1,0 +1,3334 @@
+Id	Unit	Qtype	Qpart	Qnum	Qlet	Prompt2	R1	R2	R3	Subtag
+2325	1	SUB		1	a	Flughafen	Der	ist		m
+2326	1	SUB		1	a	Bahnhof	Der	ist		m
+2327	1	SUB		1	a	Kaffee	Der	ist		m
+2328	1	SUB		1	a	Tee	Der	ist		m
+2329	1	SUB		1	a	Wein	Der	ist		m
+2330	1	SUB		1	b	Restaurant	Das	ist		n
+2331	1	SUB		1	b	Bier	Das	ist		n
+2332	1	SUB		1	b	Wasser	Das	ist		n
+2333	1	SUB		1	b	Hotel	Das	ist		n
+2334	1	SUB		1	b	Café	Das	ist		n
+2335	1	SUB		1	c	Bank	Die	ist		f
+2336	1	SUB		1	c	Milch	Die	ist		f
+2337	1	SUB		1	c	Botschaft	Die	ist		f
+2338	1	SUB		1	d	Streichhölzer	Die	sind		p
+2339	1	SUB		1	d	Zigarren	Die	sind		p
+2340	1	SUB		2	a	Bahnhof	der	ist		m
+2341	1	SUB		2	a	Flughafen	der	ist		m
+2342	1	SUB		2	a	Kaffee	der	ist		m
+2343	1	SUB		2	a	Tee	der	ist		m
+2344	1	SUB		2	a	Wein	der	ist		m
+2345	1	SUB		2	b	Restaurant	das	ist		n
+2346	1	SUB		2	b	Bier	das	ist		n
+2347	1	SUB		2	b	Wasser	das	ist		n
+2348	1	SUB		2	b	Café	das	ist		n
+2349	1	SUB		2	b	Hotel	das	ist		n
+2350	1	SUB		2	c	Bank	die	ist		f
+2351	1	SUB		2	c	Milch	die	ist		f
+2352	1	SUB		2	c	Botschaft	die	ist		f
+2353	1	SUB		2	d	Streichhölzer	die	sind		p
+2354	1	SUB		2	d	Zigarren	die	sind		p
+2355	1	SUB		3	a	Kaffee	der	kostet		m
+2356	1	SUB		3	a	Wein	der	kostet		m
+2357	1	SUB		3	a	Tee	der	kostet		m
+2358	1	SUB		3	b	Bier	das	kostet		n
+2359	1	SUB		3	c	Zigarren	die	kosten		p
+2360	1	SUB		3	c	Streichhölzer	die	kosten		p
+2361	1	SUB		4	a	Bier	das	ist		n
+2362	1	SUB		4	a	Wasser	das	ist		n
+2363	1	SUB		4	a	Hotel	das	ist		n
+2364	1	SUB		4	a	Restaurant	das	ist		n
+2365	1	SUB		4	a	Café	das	ist		n
+2366	1	SUB		4	b	Kaffee	der	ist		m
+2367	1	SUB		4	b	Tee	der	ist		m
+2368	1	SUB		4	b	Wein	der	ist		m
+2369	1	SUB		4	c	Bank	die	ist		f
+2370	1	SUB		4	c	Milch	die	ist		f
+2371	1	SUB		4	d	Zigarren	die	sind		p
+2372	1	SUB		4	d	Streichhölzer	die	sind		p
+2373	1	SUB		5	a	Hotel	Das	ist		n
+2374	1	SUB		5	a	Bier	Das	ist		n
+2375	1	SUB		5	a	Restaurant	Das	ist		n
+2376	1	SUB		5	a	Wasser	Das	ist		n
+2377	1	SUB		5	a	Café	Das	ist		n
+2378	1	SUB		5	b	Wein	Der	ist		m
+2379	1	SUB		5	b	Kaffee	Der	ist		m
+2380	1	SUB		5	b	Tee	Der	ist		m
+2381	1	SUB		5	c	Milch	Die	ist		f
+2382	1	SUB		5	c	Bank	Die	ist		f
+2383	1	SUB		5	d	Zigarren	Die	sind		p
+2384	1	SUB		5	d	Streichhölzer	Die	sind		p
+2385	1	SUB		6	a	Hotel	Das	ist		n
+2386	1	SUB		6	a	Restaurant	Das	ist		n
+2387	1	SUB		6	a	Bier	Das	ist		n
+2388	1	SUB		6	a	Wasser	Das	ist		n
+2389	1	SUB		6	a	Café	Das	ist		n
+2390	1	SUB		6	b	Flughafen	Der	ist		m
+2391	1	SUB		6	b	Bahnhof	Der	ist		m
+2392	1	SUB		6	b	Kaffee	Der	ist		m
+2393	1	SUB		6	b	Tee	Der	ist		m
+2394	1	SUB		6	b	Wein	Der	ist		m
+2395	1	SUB		6	c	Botschaft	Die	ist		f
+2396	1	SUB		6	c	Milch	Die	ist		f
+2397	1	SUB		6	c	Bank	Die	ist		f
+2398	1	SUB		6	d	Streichhölzer	Die	sind		p
+2399	1	SUB		6	d	Zigarren	Die	sind		p
+2400	1	SUB		7	a	Flughafen	der	ist		m
+2401	1	SUB		7	a	Bahnhof	der	ist		m
+2402	1	SUB		7	a	Wein	der	ist		m
+2403	1	SUB		7	a	Tee	der	ist		m
+2404	1	SUB		7	a	Kaffee	der	ist		m
+2405	1	SUB		7	b	Hotel	das	ist		n
+2406	1	SUB		7	b	Restaurant	das	ist		n
+2407	1	SUB		7	b	Bier	das	ist		n
+2408	1	SUB		7	b	Café	das	ist		n
+2409	1	SUB		7	c	Bank	die	ist		f
+2410	1	SUB		7	c	Botschaft	die	ist		f
+2411	1	SUB		7	c	Milch	die	ist		f
+2412	1	SUB		7	d	Streichhölzer	die	sind		p
+2413	1	SUB		7	d	Zigarren	die	sind		p
+2672	2	SUB		1		Er	Er	versteht		
+2673	2	SUB		1		Sie (sg)	Sie	versteht		
+2674	2	SUB		1		Wir	Wir	verstehen		
+2675	2	SUB		1		Sie (pl)	Sie	verstehen		
+2676	2	SUB		1		Frau Kunze	Frau Kunze	versteht		
+2677	2	SUB		1		Fräulein Schneider und ich	Fräulein Schneider und ich	verstehen		
+2678	2	SUB		2		er	ihn			
+2679	2	SUB		2		sie (sg)	sie			
+2680	2	SUB		2		ich	mich			
+2681	2	SUB		2		wir	uns			
+2682	2	SUB		2		sie (pl)	sie			
+2683	2	SUB		2		Herr und Frau Becker	Herrn und Frau Becker			
+2684	2	SUB		3		ich	mir			
+2685	2	SUB		3		er	ihm			
+2686	2	SUB		3		sie (sg)	ihr			
+2687	2	SUB		3		wir	uns			
+2688	2	SUB		3		sie (pl)	ihnen			
+2689	2	SUB		3		Herr Becker	Herrn Becker			
+2690	2	SUB		3		Frau Allen	Frau Allen			
+2691	2	SUB		4		Sie (pl)	Sie	kommen		
+2692	2	SUB		4		Herr Becker	Herr Becker	kommt		
+2693	2	SUB		4		Wir	Wir	kommen		
+2694	2	SUB		4		Sie (sg)	Sie	kommt		
+2695	2	SUB		4		Ich	Ich	komme		
+2696	2	SUB		5		Er	Er	hat		
+2697	2	SUB		5		Frau Kunze	Frau Kunze	hat		
+2698	2	SUB		5		Sie (pl)	Sie	haben		
+2699	2	SUB		5		Wir	Wir	haben		
+2700	2	SUB		5		Sie (sg)	Sie	hat		
+2701	2	SUB		5		Herr und Frau Becker	Herr und Frau Becker	haben		
+2702	2	SUB		6		sie (pl)	sie	Kennen		
+2703	2	SUB		6		sie (sg)	sie	Kennt		
+2704	2	SUB		6		er	er	Kennt		
+2705	2	SUB		6		wir	wir	Kennen		
+2706	2	SUB		6		ich	ich	Kenne		
+2707	2	SUB		6		Herr und Frau Becker	Herr und Frau Becker	Kennen		
+2708	2	SUB		6		Fräulein Schneider	Fräulein Schneider	Kennt		
+2709	2	SUB		7		er	ihn			
+2710	2	SUB		7		sie (sg)	sie			
+2711	2	SUB		7		Herr Allen	Herrn Allen			
+2712	2	SUB		7		Sie	Sie			
+2713	2	SUB		7		Fräulein Schneider	Fräulein Schneider			
+2714	2	SUB		7		sie (pl)	sie			
+2715	2	SUB		8		sie (sg)	ihr			
+2716	2	SUB		8		er	ihm			
+2717	2	SUB		8		sie (pl)	ihnen			
+2718	2	SUB		8		Herr Becker	Herrn Becker			
+2719	2	SUB		9		er	er	bleibt		
+2720	2	SUB		9		sie (sg)	sie	bleibt		
+2721	2	SUB		9		wir	wir	bleiben		
+2722	2	SUB		9		sie (pl)	sie	bleiben		
+2723	2	SUB		9		Herr Becker	Herr Becker	bleibt		
+2724	2	SUB		9		Frau Kunze	Frau Kunze	bleibt		
+2725	2	SUB		10		Herr und Frau Allen	Herr und Frau Allen	Wohnen		
+2726	2	SUB		10		ich	ich	Wohne		
+2727	2	SUB		10		er	er	Wohnt		
+2728	2	SUB		10		sie (pl)	sie	Wohnen		
+2729	2	SUB		10		wir	wir	Wohnen		
+2730	2	SUB		10		sie (sg)	sie	Wohnt		
+2731	2	SUB		11		Sie (sg)	Sie	trifft		
+2732	2	SUB		11		Sie (pl)	Sie	treffen		
+2733	2	SUB		11		Herr Becker und ich	Herr Becker und ich	treffen		
+2734	2	SUB		11		Sie (pl)	Sie	treffen		
+2735	2	SUB		11		Er	Er	trifft		
+2736	2	SUB		11		Ich	Ich	treffe		
+2737	2	SUB		11		Wir	Wir	treffen		
+2738	2	SUB		12		Herr Keller	Herrn Keller			
+2739	2	SUB		12		er	ihn			
+2740	2	SUB		12		Frau Kunze	Frau Kunze			
+2741	2	SUB		12		sie (sg)	sie			
+2742	2	SUB		12		ich	mich			
+2743	2	SUB		12		Fräulein Schneider	Fräulein Schneider			
+2744	2	SUB		12		Herr und Frau Allen	Herrn und Frau Allen			
+2745	2	SUB		12		sie (pl)	sie			
+2746	2	SUB		12		wir	uns			
+2747	2	SUB		13		er	er	möchte		
+2748	2	SUB		13		sie (pl)	sie	möchten		
+2749	2	SUB		13		sie (sg)	sie	möchte		
+2750	2	SUB		13		Herr und Frau Allen	Herr und Frau Allen	möchten		
+2751	2	SUB		14		er	ihm			
+2752	2	SUB		14		sie (sg)	ihr			
+2753	2	SUB		14		sie (pl)	ihnen			
+2754	2	SUB		14		Herr Becker	Herrn Becker			
+2755	2	SUB		14		Fräulein Schneider	Fräulein Schneider			
+2756	2	SUB		14		Herr und Frau Becker	Herrn und Frau Becker			
+2757	2	SUB		15		er	er	isst		
+2758	2	SUB		15		Herr und Frau Allen	Herr und Frau Allen	essen		
+2759	2	SUB		15		sie (sg)	sie	isst		
+2760	2	SUB		15		wir	wir	essen		
+2761	2	SUB		15		Fräulein Schneider	Fräulein Schneider	isst		
+2762	2	SUB		15		sie (pl)	sie	essen		
+2763	2	SUB		16		wir	uns			
+2764	2	SUB		16		sie (sg)	ihr			
+2765	2	SUB		16		er	ihm			
+2766	2	SUB		16		ich	mir			
+2767	2	SUB		16		sie (pl)	ihnen			
+2768	2	SUB		16		Frau Keller	Frau Keller			
+2769	2	SUB		17		er	er	muss		
+2770	2	SUB		17		Frau Becker und ich	Frau Becker und ich	müssen		
+2771	2	SUB		17		sie (sg)	sie	muss		
+2772	2	SUB		17		sie (pl)	sie	müssen		
+2773	2	SUB		17		wir	wir	müssen		
+2774	2	SUB		17		Fräulein Schneider	Fräulein Schneider	muss		
+2775	2	SUB		18		Herr Keller	Herr Keller	kann		
+2776	2	SUB		18		Sie (pl)	Sie	können		
+2777	2	SUB		18		Er	Er	kann		
+2778	2	SUB		18		Wir	Wir	können		
+2779	2	SUB		18		Ich	Ich	kann		
+2780	2	SUB		18		Fräulein Schneider	Fräulein Schneider	kann		
+2781	2	SUB		19		wir	wir	Dürfen		
+2782	2	SUB		19		Herr Becker	Herr Becker	Darf		
+2783	2	SUB		19		sie (sg)	sie	Darf		
+2784	2	SUB		19		sie (pl)	sie	Dürfen		
+2785	2	SUB		19		er	er	Darf		
+2786	2	SUB		20		Wir	Wir	arbeiten		
+2787	2	SUB		20		Sie (pl)	Sie	arbeiten		
+2788	2	SUB		20		Sie (sg)	Sie	arbeitet		
+2789	2	SUB		20		Fräulein Schneider und ich	Fräulein Schneider und ich	arbeiten		
+2790	2	SUB		21		er	er	fährt		
+2791	2	SUB		21		Herr Allen und Herr Becker	Herr Allen und Herr Becker	fahren		
+2792	2	SUB		21		Sie	Sie	fahren		
+2793	2	SUB		21		sie (sg)	sie	fährt		
+2794	2	SUB		21		sie (pl)	sie	fahren		
+2795	2	SUB		21		Frau Allen	Frau Allen	fährt		
+2796	2	SUB		22		Herr Becker und ich	Herr Becker und ich	wollen		
+2797	2	SUB		22		Er	Er	will		
+2798	2	SUB		22		Sie (pl)	Sie	wollen		
+2799	2	SUB		22		Frau Keller	Frau Keller	will		
+2800	2	SUB		22		Sie (sg)	Sie	will		
+2801	2	SUB		22		Ich	Ich	will		
+2802	2	SUB		23	a	Flughafen	der	ist		
+2803	2	SUB		23	a	Bahnhof	der	ist		
+2804	2	SUB		23	a	Wein	der	ist		
+2805	2	SUB		23	a	Kaffee	der	ist		
+2806	2	SUB		23	a	Tee	der	ist		
+2807	2	SUB		23	a	Amerikaner	der	ist		
+2808	2	SUB		23	a	Diplomat	der	ist		
+2809	2	SUB		23	a	Ober	der	ist		
+2810	2	SUB		23	a	Pass	der	ist		
+2811	2	SUB		23	a	Beamte	der	ist		
+2812	2	SUB		23	a	Koffer	der	ist		
+2813	2	SUB		23	a	Zoll	der	ist		
+2814	2	SUB		23	b	Restaurant	das	ist		
+2815	2	SUB		23	b	Café	das	ist		
+2816	2	SUB		23	b	Konsulat	das	ist		
+2817	2	SUB		23	b	Kino	das	ist		
+2818	2	SUB		23	b	Gepäck	das	ist		
+2819	2	SUB		23	b	Bier	das	ist		
+2820	2	SUB		23	b	Essen	das	ist		
+2821	2	SUB		23	b	Hotel	das	ist		
+2822	2	SUB		23	c	Stadt	die	ist		
+2823	2	SUB		23	c	Bank	die	ist		
+2824	2	SUB		23	c	Adresse	die	ist		
+2825	2	SUB		23	c	Dame	die	ist		
+2826	2	SUB		23	c	Amerikanerin	die	ist		
+2827	2	SUB		23	c	Deutsche	die	ist		
+2828	2	SUB		23	c	Milch	die	ist		
+2829	2	SUB		23	c	Botschaft	die	ist		
+2830	2	SUB		23	d	Streichhölzer	die	sind		
+2831	2	SUB		23	d	Zigarren	die	sind		
+2832	2	SUB		23	d	Kartoffeln	die	sind		
+2833	2	SUB		23	d	Eltern	die	sind		
+1	1	SUB		8	a	Herr Becker		er	ist	m
+2	1	SUB		8	a	Flughafen	der	er	ist	m
+3	1	SUB		8	a	Bahnhof	der	er	ist	m
+4	1	SUB		8	a	Wein	der	er	ist	m
+5	1	SUB		8	a	Tee	der	er	ist	m
+6	1	SUB		8	a	Kaffee	der	er	ist	m
+7	1	SUB		8	a	Herr Keller		er	ist	m
+8	1	SUB		8	b	Frau Kunze		sie	ist	f
+9	1	SUB		8	b	Milch	die	sie	ist	f
+10	1	SUB		8	b	Botschaft	die	sie	ist	f
+11	1	SUB		8	b	Bank	die	sie	ist	f
+12	1	SUB		8	b	Frau Schneider		sie	ist	f
+13	1	SUB		8	c	Restaurant	das	es	ist	n
+14	1	SUB		8	c	Bier	das	es	ist	n
+15	1	SUB		8	c	Wasser	das	es	ist	n
+16	1	SUB		8	c	Café	das	es	ist	n
+17	1	SUB		8	c	Hotel	das	es	ist	n
+18	1	SUB		8	d	Streichhölzer	die	sie	sind	p
+19	1	SUB		8	d	Zigarren	die	sie	sind	p
+20	1	SUB		8	d	Herr und Frau Becker		sie	sind	p
+21	3	SUB		1	a	Portier	der			m
+22	3	SUB		1	a	Stadtplan	der			m
+23	3	SUB		1	a	Markt	der			m
+24	3	SUB		1	a	Wagen	der			m
+25	3	SUB		1	a	Omnibus	der			m
+26	3	SUB		1	a	Dom	der			m
+27	3	SUB		1	a	Polizist	der			m
+28	3	SUB		1	a	Wachtmeister	der			m
+29	3	SUB		1	a	Platz	der			m
+30	3	SUB		1	a	Park	der			m
+31	3	SUB		1	a	Ratskeller	der			m
+32	3	SUB		1	a	Parkplatz	der			m
+33	3	SUB		1	b	Theater	das			n
+34	3	SUB		1	b	Glas	das			n
+35	3	SUB		1	b	Hofbräuhaus	das			n
+36	3	SUB		1	b	Geld	das			n
+37	3	SUB		1	b	Museum	das			n
+38	3	SUB		1	b	Rathaus	das			n
+39	3	SUB		1	b	Auto	das			n
+40	3	SUB		1	b	Schloss	das			n
+41	3	SUB		1	c	Strasse	die			f
+42	3	SUB		1	c	Taxe	die			f
+43	3	SUB		1	c	Ecke	die			f
+44	3	SUB		1	c	Strassenbahn	die			f
+45	3	SUB		1	c	Haltestelle	die			f
+46	3	SUB		1	c	Gegend	die			f
+47	3	SUB		1	c	Universität	die			f
+48	3	SUB		1	c	Bank	die			f
+49	3	SUB		2	a	Königsplatz	den			m
+50	3	SUB		2	a	Markt	den			m
+51	3	SUB		2	a	Dom	den			m
+52	3	SUB		2	a	Stadtplan	den			m
+53	3	SUB		2	a	Polizisten	den			m
+54	3	SUB		2	a	Wachtmeister	den			m
+55	3	SUB		2	a	Portier	den			m
+56	3	SUB		2	a	Wagen	den			m
+57	3	SUB		2	a	Omnibus	den			m
+58	3	SUB		2	a	Parkplatz	den			m
+59	3	SUB		2	a	Ratskeller	den			m
+60	3	SUB		2	b	Theater	das			n
+61	3	SUB		2	b	Schloss	das			n
+62	3	SUB		2	b	Geld	das			n
+63	3	SUB		2	b	Museum	das			n
+64	3	SUB		2	b	Rathaus	das			n
+65	3	SUB		2	b	Gepäck	das			n
+66	3	SUB		2	b	Hofbräuhaus	das			n
+67	3	SUB		2	b	Stadttheater	das			n
+68	3	SUB		2	c	Universität	die			f
+69	3	SUB		2	c	Bank	die			f
+70	3	SUB		2	c	Strasse	die			f
+71	3	SUB		2	c	Adresse	die			f
+72	3	SUB		2	c	Strassenbahnhaltestelle	die			f
+73	3	SUB		2	c	Amerikanerin	die			f
+74	3	SUB		2	c	Botschaft	die			f
+75	3	SUB		3	a	Amerikaner	dem			m
+76	3	SUB		3	a	Polizisten	dem			m
+77	3	SUB		3	a	Herrn	dem			m
+78	3	SUB		3	a	Diplomaten	dem			m
+79	3	SUB		3	a	Portier	dem			m
+80	3	SUB		3	a	Wachtmeister	dem			m
+81	3	SUB		3	a	Dom	dem			m
+82	3	SUB		3	a	Parkplatz	dem			m
+83	3	SUB		3	a	Ratskeller	dem			m
+84	3	SUB		3	b	Museum	dem			n
+85	3	SUB		3	b	Rathaus	dem			n
+86	3	SUB		3	b	Geld	dem			n
+87	3	SUB		3	b	Auto	dem			n
+88	3	SUB		3	b	Wetter	dem			n
+89	3	SUB		3	b	Schloss	dem			n
+90	3	SUB		3	b	Stadttheater	dem			n
+91	3	SUB		3	b	Hofbräuhaus	dem			n
+92	3	SUB		3	c	Dame	der			f
+93	3	SUB		3	c	Passkontrolle	der			f
+94	3	SUB		3	c	Reise	der			f
+95	3	SUB		3	c	Bank	der			f
+96	3	SUB		3	c	Strassenbahn	der			f
+97	3	SUB		3	c	Universität	der			f
+98	3	SUB		3	c	Taxe	der			f
+99	3	SUB		4		Rathaus	das			n
+100	3	SUB		4		Konsulat	das			n
+101	3	SUB		4		Flughafen	der			m
+102	3	SUB		4		Bahnhof	der			m
+103	3	SUB		4		Universität	die			f
+104	3	SUB		4		Gepäck	das			n
+105	3	SUB		4		Portier	der			m
+106	3	SUB		4		Beamte	der			m
+107	3	SUB		4		Polizist	der			m
+108	3	SUB		4		Ober	der			m
+109	3	SUB		4		Stadtplan	der			m
+110	3	SUB		4		Kino	das			n
+111	3	SUB		4		Bank	die			f
+112	3	SUB		4		Dom	der			m
+113	3	SUB		4		Schloss	das			n
+114	3	SUB		4		Strassenbahnhaltestelle	die			f
+115	3	SUB		5		Dom	den			m
+116	3	SUB		5		Konsulat	das			n
+117	3	SUB		5		Park	den			m
+118	3	SUB		5		Hotel	das			n
+119	3	SUB		5		Universität	die			f
+120	3	SUB		5		Bahnhof	den			m
+121	3	SUB		5		Botschaft	die			f
+122	3	SUB		5		Flughafen	den			m
+123	3	SUB		5		Kino	das			n
+124	3	SUB		5		Theater	das			n
+125	3	SUB		5		Portier	den			m
+126	3	SUB		5		Zigaretten	die			f
+127	3	SUB		5		Geld	das			n
+128	3	SUB		5		Streichhölzer	die			f
+129	3	SUB		5		Pass	den			m
+2834	3	SUB		6		Wir	Wir	müssen		
+2835	3	SUB		6		Er	Er	muss		
+2836	3	SUB		6		Sie (pl)	Sie	müssen		
+2837	3	SUB		6		Ich	Ich	muss		
+2838	3	SUB		6		Sie (pl)	Sie	müssen		
+2839	3	SUB		6		Herr Keller	Herr Keller	muss		
+2840	3	SUB		6		Herr und Frau Becker	Herr und Frau Becker	müssen		
+2841	3	SUB		7		Er	Er	hat		
+2842	3	SUB		7		Wir	Wir	haben		
+2843	3	SUB		7		Sie (sg)	Sie	hat		
+2844	3	SUB		7		Herr Keller	Herr Keller	hat		
+2845	3	SUB		7		Frau Kunze	Frau Kunze	hat		
+2846	3	SUB		7		Sie (pl)	Sie	haben		
+2847	3	SUB		8		Sie (pl)	Ihnen			
+2848	3	SUB		8		sie (sg)	ihr			
+2849	3	SUB		8		er	ihm			
+2850	3	SUB		8		sie (pl)	ihnen			
+2851	3	SUB		8		d- Eltern	den Eltern			
+2852	3	SUB		8		d- Ober	dem Ober			
+2853	3	SUB		8		Herr Köhler	Herrn Köhler			
+2854	3	SUB		8		d- Wachtmeister	dem Wachtmeister			
+2855	3	SUB		9		wir	wir	wissen		
+2856	3	SUB		9		sie (pl)	sie	wissen		
+2857	3	SUB		9		er	er	weiss		
+2858	3	SUB		9		sie (sg)	sie	weiss		
+2859	3	SUB		9		der Portier	der Portier	weiss		
+2860	3	SUB		9		der Polizist	der Polizist	weiss		
+2861	3	SUB		9		der Beamte	der Beamte	weiss		
+2862	3	SUB		10		Wir	Wir	trinken		
+2863	3	SUB		10		Sie (sg)	Sie	trinkt		
+2864	3	SUB		10		Herr und Frau Becker	Herr und Frau Becker	trinken		
+2865	3	SUB		10		Sie (pl)	Sie	trinken		
+2866	3	SUB		10		Die Eltern	Die Eltern	trinken		
+2867	3	SUB		10		Ich	Ich	trinke		
+2868	3	SUB		11		wir	uns			
+2869	3	SUB		11		ich	mir			
+2870	3	SUB		11		Sie (pl)	Ihnen			
+2871	3	SUB		11		sie (sg)	ihr			
+2872	3	SUB		11		er	ihm			
+2873	3	SUB		11		Herr Keller	Herrn Keller			
+2874	3	SUB		11		sie (pl)	ihnen			
+2875	3	SUB		11		Frau Kunze	Frau Kunze			
+2876	3	SUB		11		d- Diplomat	dem Diplomaten			
+2877	3	SUB		12		wir	wir	möchten		
+2878	3	SUB		12		er	er	möchte		
+2879	3	SUB		12		sie (pl)	sie	möchten		
+2880	3	SUB		12		Herr und Frau Becker	Herr und Frau Becker	möchten		
+2881	3	SUB		12		Fräulein Keller	Fräulein Keller	möchte		
+130	3	SUB		13		Haltestelle	Die	Sie		f
+131	3	SUB		13		Autobus	Der	Er		m
+132	3	SUB		13		Polizist	Der	Er		m
+133	3	SUB		13		Hotel	Das	Es		n
+134	3	SUB		13		Bank	Die	Sie		f
+135	3	SUB		13		Kino	Das	Es		n
+136	3	SUB		13		Restaurant	Das	Es		n
+137	3	SUB		13		Botschaft	Die	Sie		f
+138	3	SUB		13		Park	Der	Er		m
+139	3	SUB		13		Museum	Das	Es		n
+140	3	SUB		13		Strassenbahn	Die	Sie		f
+141	3	SUB		13		Ober	Der	Er		m
+142	3	SUB		14		Bank	der			f
+143	3	SUB		14		Museum	dem			n
+144	3	SUB		14		Hotel	dem			n
+145	3	SUB		14		Café	dem			n
+146	3	SUB		14		Universität	der			f
+147	3	SUB		14		Kino	dem			n
+148	3	SUB		14		Parkplatz	dem			m
+149	3	SUB		14		Botschaft	der			f
+150	3	SUB		14		Restaurant	dem			n
+151	3	SUB		15		Stadtplan	den			m
+152	3	SUB		15		Geld	das			n
+153	3	SUB		15		Pass	den			m
+154	3	SUB		15		Wagen	den			m
+155	3	SUB		15		Zigaretten	die			p
+156	3	SUB		15		Streichhölzer	die			p
+157	3	SUB		15		Gepäck	das			n
+158	3	SUB		16		Kino	welches			n
+159	3	SUB		16		Museum	welches			n
+160	3	SUB		16		Bank	welche			f
+161	3	SUB		16		Hotel	welches			n
+162	3	SUB		16		Café	welches			n
+163	3	SUB		16		Theater	welches			n
+164	3	SUB		16		Park	welchen			m
+165	3	SUB		17		Café	Das			n
+166	3	SUB		17		Museum	Das			n
+167	3	SUB		17		Schloss	Das			n
+168	3	SUB		17		Hotel	Das			n
+169	3	SUB		17		Universität	Die			f
+170	3	SUB		17		Restaurant	Das			n
+171	3	SUB		17		Dom	Der			m
+172	3	SUB		17		Theater	Das			n
+173	3	SUB		17		Ratskeller	Der			m
+174	3	SUB		18		Ratskeller	zum			m
+175	3	SUB		18		Café	zum			n
+176	3	SUB		18		Hotel	zum			n
+177	3	SUB		18		Bank	zur			f
+178	3	SUB		18		Museum	zum			n
+179	3	SUB		18		Universität	zur			f
+180	3	SUB		18		Bahnhof	zum			m
+181	3	SUB		18		Restaurant	zum			n
+182	3	SUB		18		Flughafen	zum			m
+183	3	SUB		18		Botschaft	zur			f
+184	3	SUB		18		Dom	zum			m
+185	3	SUB		19		Park	den			m
+186	3	SUB		19		Ratskeller	den			m
+187	3	SUB		19		Rathaus	das			n
+188	3	SUB		19		Schloss	das			n
+189	3	SUB		19		Bahnhof	den			m
+190	3	SUB		19		Kino	das			n
+191	3	SUB		19		Portier	den			m
+192	3	SUB		19		Wachtmeister	den			m
+193	3	SUB		19		Universität	die			f
+194	3	SUB		19		Bank	die			f
+195	3	SUB		19		Polizisten	den			m
+196	3	SUB		19		Dom	den			m
+197	3	SUB		20		Bahnhof	der	Der		m
+198	3	SUB		20		Museum	das	Das		n
+199	3	SUB		20		Universität	die	Die		f
+200	3	SUB		20		Konsulat	das	Das		n
+201	3	SUB		20		Flughafen	der	Der		m
+202	3	SUB		20		Strassenbahnhaltestelle	die	Die		f
+203	3	SUB		20		Park	der	Der		m
+204	3	SUB		20		Markt	der	Der		m
+205	3	SUB		20		Bank	die	Die		f
+206	3	SUB		20		Dom	der	Der		m
+207	3	SUB		20		Kino	das	Das		n
+208	3	SUB		21		Omnibus	dem			m
+209	3	SUB		21		Strassenbahn	der			f
+210	3	SUB		21		Wagen	dem			m
+211	3	SUB		21		Taxe	der			f
+212	3	SUB		22		Ratskeller	im			m
+213	3	SUB		22		Museum	im			n
+214	3	SUB		22		Schloss	im			n
+215	3	SUB		22		Kino	im			n
+216	3	SUB		22		Stadt	in der			f
+217	3	SUB		22		Universität	in der			f
+218	3	SUB		22		Restaurant	im			n
+219	3	SUB		22		Theater	im			n
+220	3	SUB		22		Bank	in der			f
+221	3	SUB		22		Park	im			m
+222	3	SUB		22		Botschaft	in der			f
+223	3	SUB		22		Rathaus	im			n
+224	3	SUB		23		Restaurant	welches			n
+225	3	SUB		23		Café	welches			n
+226	3	SUB		23		Kino	welches			n
+227	3	SUB		23		Hotel	welches			n
+228	3	SUB		23		Park	welchen			m
+229	3	SUB		23		Theater	welches			n
+230	3	SUB		23		Museum	welches			n
+231	3	SUB		23		Bank	welche			f
+232	3	SUB		23		Botschaft	welche			f
+233	3	SUB		24		Polizist	der	Den	ist	m
+234	3	SUB		24		Portier	der	Den	ist	m
+235	3	SUB		24		Ober	der	Den	ist	m
+236	3	SUB		24		Frau Kunze		Die	ist	f
+237	3	SUB		24		Herr Becker		Den	ist	m
+238	3	SUB		24		Herr und Frau Keller		Die	sind	f
+239	3	SUB		24		Beamte	der	Den	ist	m
+240	3	SUB		24		Fräulein Schneider		Die	ist	f
+241	3	SUB		25		Bank	welcher			f
+242	3	SUB		25		Bahnhof	welchem			m
+243	3	SUB		25		Museum	welchem			n
+244	3	SUB		25		Botschaft	welcher			f
+245	3	SUB		25		Hotel	welchem			n
+246	3	SUB		25		Restaurant	welchem			n
+247	3	SUB		25		Strassenbahnhaltestelle	welcher			f
+248	3	SUB		26		Park	den			m
+249	3	SUB		26		Stadt	die			f
+250	3	SUB		26		Museum	das			n
+251	3	SUB		26		Universität	die			f
+252	3	SUB		26		Restaurant	das			n
+253	3	SUB		27		Bank	zur			f
+254	3	SUB		27		Konsulat	zum			n
+255	3	SUB		27		Hotel	zum			n
+256	3	SUB		27		Universität	zur			f
+257	3	SUB		27		Bahnhof	zum			m
+258	3	SUB		27		Museum	zum			n
+259	3	SUB		27		Botschaft	zur			f
+260	3	SUB		27		Flughafen	zum			m
+261	3	SUB		28		Portier	den			m
+262	3	SUB		28		Polizisten	den			m
+263	3	SUB		28		Eltern	die			f
+264	3	SUB		28		Herrn Brauer				m
+265	3	SUB		28		Ober	den			m
+266	3	SUB		28		Wachtmeister	den			m
+267	3	SUB		28		Frau Becker				f
+268	3	SUB		29		Hotel	dem			n
+269	3	SUB		29		Restaurant	dem			n
+270	3	SUB		29		Bahnhof	dem			m
+271	3	SUB		29		Universität	der			f
+272	3	SUB		29		Museum	dem			n
+273	3	SUB		29		Kino	dem			f
+274	3	SUB		29		Stadttheater	dem			n
+275	3	SUB		29		Rathaus	dem			n
+276	3	SUB		29		Dom	dem			m
+277	3	SUB		29		Botschaft	der			f
+278	3	SUB		29		Konsulat	dem			n
+279	3	SUB		29		Schloss	dem			n
+280	3	SUB		30		Stadtplan	den			m
+281	3	SUB		30		Geld	das			n
+282	3	SUB		30		Streichhölzer	die			p
+283	3	SUB		30		Zigarren	die			p
+284	3	SUB		30		Koffer	den			m
+285	3	SUB		31		Schloss	zum			n
+286	3	SUB		31		Museum	zum			n
+287	3	SUB		31		Bahnhof	zum			m
+288	3	SUB		31		Universität	zur			f
+289	3	SUB		31		Café	zum			n
+290	3	SUB		31		Flughafen	zum			m
+291	3	SUB		31		Dom	zum			m
+292	3	SUB		32		Stadt	diese			f
+293	3	SUB		32		Wetter	dieses			n
+294	3	SUB		32		Park	dieser			m
+295	3	SUB		32		Schloss	dieses			n
+296	3	SUB		32		Rathaus	dieses			n
+297	3	SUB		32		Gegend	diese			f
+298	3	SUB		32		Spaziergang	dieser			m
+299	3	SUB		33		Strasse	diese			f
+300	3	SUB		33		Platz	diesen			m
+301	3	SUB		33		Ecke	diese			f
+302	3	SUB		33		Theater	dieses			n
+303	3	SUB		33		Gegend	diese			f
+304	3	SUB		33		Park	diesen			m
+305	3	SUB		33		Museum	dieses			n
+306	3	SUB		34		Park	Dieser			m
+307	3	SUB		34		Gegend	Diese			f
+308	3	SUB		34		Wagen	Dieser			m
+309	3	SUB		34		Glas	Dieses			n
+310	3	SUB		34		Platz	Dieser			m
+311	3	SUB		34		Seite	Diese			f
+312	3	SUB		34		Schloss	Dieses			n
+313	3	SUB		35		Königsplatz	zum			m
+314	3	SUB		35		Stadttheater	zum			n
+315	3	SUB		35		Ludwigstrasse	zur			f
+316	3	SUB		35		Markt	zum			m
+317	3	SUB		35		Ratskeller	zum			m
+318	3	SUB		35		Rathaus	zum			n
+319	3	SUB		35		Universität	zur			f
+320	3	SUB		36		Café	im			n
+321	3	SUB		36		Taxe	in der			f
+322	3	SUB		36		Auto	im			n
+323	3	SUB		36		Park	im			m
+324	3	SUB		36		Strassenbahn	in der			f
+325	3	SUB		36		Wagen	im			m
+326	3	SUB		36		Omnibus	im			m
+2882	3	SUB		37		besuchen	besucht			
+2883	3	SUB		37		treffen	trifft			
+2884	3	SUB		37		kennen	kennt			
+2885	3	SUB		37		suchen	sucht			
+2886	3	SUB		37		fragen	fragt			
+2887	3	SUB		37		finden	findet			
+327	3	SUB		38		Park	diesem			m
+328	3	SUB		38		Konsulat	diesem			n
+329	3	SUB		38		Strasse	dieser			
+330	3	SUB		38		Platz	diesem			
+331	3	SUB		38		Schloss	diesem			
+332	3	SUB		38		Universität	dieser			
+333	3	SUB		38		Bahnhof	diesem			m
+334	4	SUB	1	1		Koffer	mein			
+335	4	SUB	1	1	a	Pass	mein			
+336	4	SUB	1	1	a	Tabak	mein			
+337	4	SUB	1	1	a	Sohn	mein			
+338	4	SUB	1	1	a	Parkplatz	mein			
+339	4	SUB	1	1	a	Fragebogen	mein			
+340	4	SUB	1	1	b	Hotel	mein			
+341	4	SUB	1	1	b	Bier	mein			n
+342	4	SUB	1	1	b	Gepäck	mein			
+343	4	SUB	1	1	b	Geld	mein			
+344	4	SUB	1	1	b	Visum	mein			
+345	4	SUB	1	1	c	Frau	meine			
+346	4	SUB	1	1	c	Adresse	meine			f
+347	4	SUB	1	1	c	Bank	meine			f
+348	4	SUB	1	1	c	Universität	meine			
+349	4	SUB	1	1	c	Strassenbahn	meine			
+350	4	SUB	1	2		Zigaretten	meine			
+351	4	SUB	1	2		Zigarren	meine			
+352	4	SUB	1	2		Streichhölzer	meine			
+353	4	SUB	1	2		Eltern	meine			
+354	4	SUB	1	3	a	Amerikaner	keinen			m
+355	4	SUB	1	3	a	Polizisten	keinen			
+356	4	SUB	1	3	a	Konsul	keinen			
+357	4	SUB	1	3	a	Park	keinen			
+358	4	SUB	1	3	a	Beamten	keinen			
+359	4	SUB	1	3	a	Herrn Müller	keinen			
+360	4	SUB	1	3	b	Museum	kein			
+361	4	SUB	1	3	b	Hotel	kein			
+362	4	SUB	1	3	b	Theater	kein			
+363	4	SUB	1	3	b	Café	kein			n
+364	4	SUB	1	3	b	Geschäft	kein			
+365	4	SUB	1	3	c	Universität	keine			
+366	4	SUB	1	3	c	Bank	keine			f
+367	4	SUB	1	3	c	Amerikanerin	keine			f
+368	4	SUB	1	3	c	Frau Kunze	keine			
+369	4	SUB	1	3	c	Ludwigstrasse	keine			
+370	4	SUB	1	4	a	Flughafen	einem			
+371	4	SUB	1	4	a	Parkplatz	einem			
+372	4	SUB	1	4	a	Park	einem			
+373	4	SUB	1	4	a	Bahnhof	einem			m
+374	4	SUB	1	4	a	Neubau	einem			
+375	4	SUB	1	4	b	Museum	einem			
+376	4	SUB	1	4	b	Hotel	einem			
+377	4	SUB	1	4	b	Café	einem			n
+378	4	SUB	1	4	b	Theater	einem			
+379	4	SUB	1	4	b	Zigarrengeschäft	einem			
+380	4	SUB	1	4	c	Bank	einer			f
+381	4	SUB	1	4	c	Universität	einer			
+382	4	SUB	1	4	c	Botschaft	einer			f
+383	4	SUB	1	4	c	Stadt	einer			
+384	4	SUB	1	5	a	Koffer	unser			
+385	4	SUB	1	5	a	Parkplatz	unser			
+386	4	SUB	1	5	a	Sohn	unser			
+387	4	SUB	1	5	a	Kollege	unser			
+388	4	SUB	1	5	a	Wagen	unser			
+389	4	SUB	1	5	a	Omnibus	unser			
+390	4	SUB	1	5	b	Hotel	unser			
+391	4	SUB	1	5	b	Gepäck	unser			
+392	4	SUB	1	5	b	Geld	unser			
+393	4	SUB	1	5	b	Formular	unser			
+394	4	SUB	1	5	b	Auto	unser			n
+395	4	SUB	1	5	c	Strassenbahn	unsere			
+396	4	SUB	1	5	c	Bank	unsere			f
+397	4	SUB	1	5	c	Taxe	unsere			
+398	4	SUB	1	5	c	Abteilung	unsere			f
+399	4	SUB	1	5	c	Haltestelle	unsere			
+400	4	SUB	1	6	a	Koffer	Ihren			
+401	4	SUB	1	6	a	Pass	Ihren			
+402	4	SUB	1	6	a	Sohn	Ihren			
+403	4	SUB	1	6	a	Fragebogen	Ihren			
+404	4	SUB	1	6	a	Wagen	Ihren			
+405	4	SUB	1	6	a	Antrag	Ihren			m
+406	4	SUB	1	6	b	Gepäck	Ihr			
+407	4	SUB	1	6	b	Hotel	Ihr			
+408	4	SUB	1	6	b	Visum	Ihr			
+409	4	SUB	1	6	b	Auto	Ihr			n
+410	4	SUB	1	6	b	Formular	Ihr			
+411	4	SUB	1	6	c	Frau	Ihre			
+412	4	SUB	1	6	c	Pfeife	Ihre			
+413	4	SUB	1	6	c	Adresse	Ihre			f
+414	4	SUB	1	6	c	Bank	Ihre			f
+415	4	SUB	1	6	c	Abteilung	Ihre			f
+416	4	SUB	1	6	e	Zigaretten	Ihre			
+417	4	SUB	1	6	e	Zigarren	Ihre			
+418	4	SUB	1	6	e	Streichhölzer	Ihre			
+419	4	SUB	1	6	e	Eltern	Ihre			
+420	4	SUB	2	7		Koffer	ein	einer		
+421	4	SUB	2	7		Omnibus	ein	einer		
+422	4	SUB	2	7		Parkplatz	ein	einer		
+423	4	SUB	2	7		Stadtplan	ein	einer		
+424	4	SUB	2	7		Wagen	ein	einer		
+425	4	SUB	2	7		Polizist	ein	einer		
+426	4	SUB	2	7		Fragebogen	ein	einer		
+427	4	SUB	2	7		Herr	ein	einer		
+428	4	SUB	2	7		Neubau	ein	einer		
+429	4	SUB	2	8		Hotel	ein	keins		
+430	4	SUB	2	8		Auto	ein	keins		n
+431	4	SUB	2	8		Glas	ein	keins		
+432	4	SUB	2	8		Formular	ein	keins		
+433	4	SUB	2	8		Visum	ein	keins		
+434	4	SUB	2	8		Geschäft	ein	keins		
+435	4	SUB	2	9		Koffer	sein	unserer		
+436	4	SUB	2	9		Wagen	sein	unserer		
+437	4	SUB	2	9		Stadtplan	sein	unserer		
+438	4	SUB	2	9		Autobus	sein	unserer		m
+439	4	SUB	2	9		Parkplatz	sein	unserer		
+440	4	SUB	2	9		Antrag	sein	unserer		m
+441	4	SUB	2	10		Hotel	Ihr	unseres		
+442	4	SUB	2	10		Formular	Ihr	unseres		
+443	4	SUB	2	10		Gepäck	Ihr	unseres		
+444	4	SUB	2	10		Geld	Ihr	unseres		
+445	4	SUB	2	10		Bier	Ihr	unseres		n
+446	4	SUB	2	10		Brot	Ihr	unseres		n
+447	4	SUB	2	11		Koffer	einen	keinen		
+448	4	SUB	2	11		Pass	einen	keinen		
+449	4	SUB	2	11		Visum	ein	keins		
+450	4	SUB	2	11		Glas	ein	keins		
+451	4	SUB	2	11		Wagen	einen	keinen		
+452	4	SUB	2	11		Frau	eine	keine		
+453	4	SUB	2	11		Auto	ein	keins		n
+454	4	SUB	2	11		Zigarre	eine	keine		
+455	4	SUB	2	11		Stadtplan	einen	keinen		
+456	4	SUB	2	11		Sohn	einen	keinen		
+457	4	SUB	2	11		Geschäft	ein	keins		
+458	4	SUB	2	11		Pfeife	eine	keine		
+459	4	SUB	2	11		Ausweis	einen	keinen		m
+460	4	SUB	2	11		Verabredung	eine	keine		
+461	4	SUB	2	11		Formular	ein	keins		
+462	4	SUB	2	12		Gepäck	sein	Ihrs		
+463	4	SUB	2	12		Bier	sein	Ihrs		n
+464	4	SUB	2	12		Stadtplan	sein	Ihrer		
+465	4	SUB	2	12		Glas	sein	Ihrs		
+466	4	SUB	2	12		Pfeife	seine	Ihre		
+467	4	SUB	2	12		Auto	sein	Ihrs		n
+468	4	SUB	2	12		Parkplatz	sein	Ihrer		
+469	4	SUB	2	12		Pass	sein	Ihrer		
+470	4	SUB	2	12		Abteilung	seine	Ihre		f
+471	4	SUB	2	12		Tabak	sein	Ihrer		
+472	4	SUB	2	12		Geld	sein	Ihrs		
+473	4	SUB	2	12		Antrag	sein	Ihrer		m
+474	4	SUB	2	12		Zigaretten	seine	Ihre		
+475	4	SUB	2	12		Koffer	sein	Ihrer		
+476	4	SUB	2	12		Adresse	seine	Ihre		f
+477	4	SUB	2	12		Ausweis	sein	Ihrer		m
+478	4	SUB	2	12		Kaffee	sein	Ihrer		
+479	4	SUB	2	12		Taxe	seine	Ihre		
+480	4	SUB	2	13		Pass	welchem	seinem		m
+481	4	SUB	2	13		Antrag	welchem	seinem		m
+482	4	SUB	2	13		Formular	welchem	seinem		n
+483	4	SUB	2	13		Frau	welcher	seiner		f
+484	4	SUB	2	13		Visum	welchem	seinem		n
+485	4	SUB	2	13		Kollegen	welchem	seinem		m
+486	4	SUB	2	13		Heimatstadt	welcher	seiner		f
+487	4	SUB	2	13		Geschäft	welchem	seinem		n
+488	4	SUB	2	13		Pfeife	welcher	seiner		f
+489	4	SUB	2	13		Neubau	welchem	seinem		n
+490	4	SUB	2	13		Ausweis	welchem	seinem		m
+491	4	SUB	2	13		Geschäftsreise	welcher	seiner		f
+492	4	SUB	2	13		Besuchsvisum	welchem	seinem		n
+493	4	SUB	2	13		Adresse	welcher	seiner		f
+3160	4	SUB	3	14		Geld	mein			
+3161	4	SUB	3	14		Mann	Ihr			
+3162	4	SUB	3	14		Eltern	seine			
+3163	4	SUB	3	14		Kino	ein			
+3164	4	SUB	3	14		Koffer	unsere			
+3165	4	SUB	3	14		Gepäck	ihr			
+3166	4	SUB	3	14		Bank	eine			
+3167	4	SUB	3	14		Ausweis	sein			
+3168	4	SUB	3	14		Pass	Ihr			
+3169	4	SUB	3	15		Taxe	unsere			
+3170	4	SUB	3	15		Polizist	kein			
+3171	4	SUB	3	15		Wagen	sein			
+3172	4	SUB	3	15		Strassenbahnhaltestelle	keine			
+3173	4	SUB	3	15		Frau	Ihre			
+3174	4	SUB	3	15		Park	ein			
+3175	4	SUB	3	15		Restaurant	kein			
+3176	4	SUB	3	15		Parkplatz	mein			
+3177	4	SUB	3	15		Visa-Abteilung	keine			
+3178	4	SUB	3	16		Zigaretten	keine			
+3179	4	SUB	3	16		Pass	keinen			
+3180	4	SUB	3	16		Verabredung	keine			
+3181	4	SUB	3	16		Ausweis	keinen			
+3182	4	SUB	3	16		Stadtplan	keinen			
+3183	4	SUB	3	16		Geld	kein			
+3184	4	SUB	3	16		Auto	kein			
+3185	4	SUB	3	16		Eltern	keine			
+3186	4	SUB	3	16		Mann	keinen			
+3187	4	SUB	3	17		Frau	meine			
+3188	4	SUB	3	17		Mann	ihren			
+3189	4	SUB	3	17		Polizisten	einen			
+3190	4	SUB	3	17		Eltern	unsere			
+3191	4	SUB	3	17		Sohn	meinen			
+3192	4	SUB	3	17		Konsul	einen			
+3193	4	SUB	3	17		Kollegen	ihren			
+3194	4	SUB	3	17		Diplomaten	einen			
+3195	4	SUB	3	17		Ober	unseren			
+3196	4	SUB	3	18		Polizisten	einen			
+3197	4	SUB	3	18		Frau	seine			
+3198	4	SUB	3	18		Mann	Ihren			
+3199	4	SUB	3	18		Eltern	unsere			
+3200	4	SUB	3	18		Bekannten	ihren			
+3201	4	SUB	3	18		Portier	unseren			
+3202	4	SUB	3	18		Beamten	keinen			
+3203	4	SUB	3	18		Kollegen	meinen			
+3204	4	SUB	3	18		Vizekonsul	einen			
+3205	4	SUB	3	19		Hotel	einem			
+3206	4	SUB	3	19		Café	unserem			
+3207	4	SUB	3	19		Geschäft	seinem			
+3208	4	SUB	3	19		Abteilung	meiner			
+3209	4	SUB	3	19		Konsulat	einem			
+3210	4	SUB	3	19		Restaurant	ihrem			
+3211	4	SUB	3	19		Bank	einer			
+3212	4	SUB	3	20		Neubau	einem			
+3213	4	SUB	3	20		Nähe	ihrer			
+3214	4	SUB	3	20		Gegend	unserer			
+3215	4	SUB	3	20		Hotel	meinem			
+3216	4	SUB	3	20		Stadt	unserer			
+3217	4	SUB	3	20		Strasse	Ihrer			
+3218	4	SUB	3	20		Schloss	einem			
+3219	4	SUB	3	20		Heimatstadt	meiner			
+3220	4	SUB	3	21		Herrn	einem			
+3221	4	SUB	3	21		Ober	einem			
+3222	4	SUB	3	21		Mann	ihrem			
+3223	4	SUB	3	21		Eltern	unseren			
+3224	4	SUB	3	21		Frau	meiner			
+3225	4	SUB	3	21		Beamten	einem			
+3226	4	SUB	3	21		Dame	einer			
+3227	4	SUB	3	21		Kollegen	meinem			
+3228	4	SUB	3	22		Visum	ein			
+3229	4	SUB	3	22		Pass	einen			
+3230	4	SUB	3	22		Formular	ein			
+3231	4	SUB	3	22		Zigarre	eine			
+3232	4	SUB	3	22		Koffer	keinen			
+3233	4	SUB	3	22		Pfeife	seine			
+3234	4	SUB	3	22		Besuchsvisum	kein			
+3235	4	SUB	3	22		Fragebogen	einen			
+3236	4	SUB	3	22		Zigaretten	keine			
+3237	4	SUB	3	23		Kollegen	meinem			
+3238	4	SUB	3	23		Bekannten	unserem			
+3239	4	SUB	3	23		Sohn	ihrem			
+3240	4	SUB	3	23		Eltern	seinen			
+3241	4	SUB	3	23		Polizisten	einem			
+3242	4	SUB	3	23		Frau	meiner			
+3243	4	SUB	3	23		Mann	ihrem			
+3244	4	SUB	3	23		Abteilung	meiner			
+3245	4	SUB	3	23		Konsul	unserem			
+3246	4	SUB	3	24		Bekannten	einen			
+3247	4	SUB	3	24		Sohn	ihren			
+3248	4	SUB	3	24		Beamten	einen			
+3249	4	SUB	3	24		Eltern	meine			
+3250	4	SUB	3	24		Amerikanerin	eine			
+3251	4	SUB	3	24		Dame	eine			
+3252	4	SUB	3	24		Kollegen	unseren			
+3253	4	SUB	3	24		Diplomaten	einen			
+3254	4	SUB	3	25		Frau	Meine			
+3255	4	SUB	3	25		Kollege	Mein			
+3256	4	SUB	3	25		Sohn	Unser			
+3257	4	SUB	3	25		Mann	Ihr			
+3258	4	SUB	3	25		Eltern	Unsere			
+3259	4	SUB	3	25		Konsul	Unser			
+3260	4	SUB	3	26		Tabak	keinen			
+3261	4	SUB	3	26		Zigarre	eine			
+3262	4	SUB	3	26		Verabredung	eine			
+3263	4	SUB	3	26		Adresse	Ihre			
+3264	4	SUB	3	26		Visum	ein			
+3265	4	SUB	3	26		Pass	seinen			
+3266	4	SUB	3	26		Ausweis	keinen			
+3267	4	SUB	3	26		Antrag	Ihren			
+3268	4	SUB	3	27		Zigarrengeschäft	ein			
+3269	4	SUB	3	27		Konsulat	ein			
+3270	4	SUB	3	27		Neubau	einen			
+3271	4	SUB	3	27		Park	keinen			
+3272	4	SUB	3	27		Restaurant	ein			
+3273	4	SUB	3	27		Museum	kein			
+3274	4	SUB	3	27		Flughafen	einen			
+3275	4	SUB	3	27		Bank	eine			
+3276	4	SUB	3	27		Markt	keinen			
+3277	4	SUB	3	28		Sie	Sie			
+3278	4	SUB	3	28		er	ihn			
+3279	4	SUB	3	28		Ihr- Kollegen	Ihren Kollegen			
+3280	4	SUB	3	28		sie	sie			
+3281	4	SUB	3	28		ihr- Eltern	ihre Eltern			
+3282	4	SUB	3	28		Herr Müller	Herrn Müller			
+3283	4	SUB	3	28		Frau Meyer	Frau Meyer			
+3284	4	SUB	3	28		Ihr- Sohn	Ihren Sohn			
+3285	4	SUB	3	28		sein- Frau	seine Frau			
+3286	4	SUB	3	29		sie (sg)	ihr			
+3287	4	SUB	3	29		mein- Sohn	meinem Sohn			
+3288	4	SUB	3	29		d- Diplomat	dem Diplomaten			
+3289	4	SUB	3	29		sein- Frau	seiner Frau			
+3290	4	SUB	3	29		unser- Kollege	unserem Kollegen			
+3291	4	SUB	3	29		er	ihm			
+3292	4	SUB	3	29		d- Vizekonsul	dem Vizekonsul			
+3293	4	SUB	3	30		rauchen	rauche			
+3294	4	SUB	3	30		arbeiten	arbeite			
+3295	4	SUB	3	30		trinken	trinke			
+3296	4	SUB	3	30		essen	esse			
+3297	4	SUB	3	30		fahren	fahre			
+3298	4	SUB	3	30		bleiben	bleibe			
+3299	4	SUB	3	30		kommen	komme			
+3300	4	SUB	3	30		fragen	frage			
+3301	4	SUB	3	31		a German	Deutscher			
+3302	4	SUB	3	31		a Diplomat	Diplomat			
+3303	4	SUB	3	31		a policeman	Polizist			
+3304	4	SUB	3	31		an American	Amerikaner			
+3305	4	SUB	3	31		a vice-consul	Vizekonsul			
+3306	4	SUB	3	31		Bremer	Bremer			
+3307	4	SUB	3	32		ich	mir			
+3308	4	SUB	3	32		er	ihm			
+3309	4	SUB	3	32		mein- Sohn	meinem Sohn			
+3310	4	SUB	3	32		sie (sg)	ihr			
+3311	4	SUB	3	32		wir	uns			
+3312	4	SUB	3	32		sein- Frau	seiner Frau			
+3313	4	SUB	3	32		unser- Eltern	unseren Eltern			
+3314	4	SUB	3	32		d- Konsul	dem Konsul			
+3315	4	SUB	3	33		er	ihm			
+3316	4	SUB	3	33		sie (pl)	ihnen			
+3317	4	SUB	3	33		ihr- Mann	ihrem Mann			
+3318	4	SUB	3	33		sie (sg)	ihr			
+3319	4	SUB	3	33		sein- Sohn	seinem Sohn			
+3320	4	SUB	3	33		mein- Frau	meiner Frau			
+3321	4	SUB	3	33		Herr Schulze	Herrn Schulze			
+3322	4	SUB	3	33		d- Dame	der Dame			
+3323	4	SUB	3	33		mein- Kollege	meinem Kollegen			
+3324	4	SUB	3	33		unser- Eltern	unseren Eltern			
+3325	4	SUB	3	33		ich	mir			
+3326	4	SUB	3	34		Klima	das			
+3327	4	SUB	3	34		Gegend	diese			
+3328	4	SUB	3	34		Wetter	unser			
+3329	4	SUB	3	34		Zigaretten	diese			
+3330	4	SUB	3	34		Auto	sein			
+3331	4	SUB	3	34		Idee	diese			
+2888	5	SUB		1	a	Roman	der			
+2889	5	SUB		1	a	Brief	der			
+2890	5	SUB		1	a	Bleistift	der			
+2891	5	SUB		1	a	Papierkorb	der			
+2892	5	SUB		1	a	Füller	der			
+2893	5	SUB		1	a	Vater	der			
+2894	5	SUB		1	a	Bruder	der			
+2895	5	SUB		1	b	Haus	das			
+2896	5	SUB		1	b	Buch	das			
+2897	5	SUB		1	b	Briefpapier	das			
+2898	5	SUB		1	b	Etagenhaus	das			
+2899	5	SUB		1	b	Schreibwarengeschäft	das			
+2900	5	SUB		1	c	Wohnung	die			
+2901	5	SUB		1	c	Zeitung	die			
+2902	5	SUB		1	c	Post	die			
+2903	5	SUB		1	c	Briefmarke	die			
+2904	5	SUB		1	c	Bibliothek	die			
+2905	5	SUB		1	c	Schreibmaschine	die			
+2906	5	SUB		1	c	Tinte	die			
+2907	5	SUB		1	c	Sekretärin	die			
+2908	5	SUB		2		Papierkorb	den			
+2909	5	SUB		2		Brief	den			
+2910	5	SUB		2		Tinte	die			
+2911	5	SUB		2		Vater	den			
+2912	5	SUB		2		Briefpapier	das			
+2913	5	SUB		2		Zeitung	die			
+2914	5	SUB		2		Schreibmaschine	die			
+2915	5	SUB		2		Füller	den			
+2916	5	SUB		2		Buch	das			
+2917	5	SUB		2		Bleistift	den			
+2918	5	SUB		2		Briefmarke	die			
+2919	5	SUB		2		Schwester	die			
+2920	5	SUB		3		Roman	dem			
+2921	5	SUB		3		Tochter	der			
+2922	5	SUB		3		Buch	dem			
+2923	5	SUB		3		Bibliothek	der			
+2924	5	SUB		3		Schriftsteller	dem			
+2925	5	SUB		3		Wohnung	der			
+2926	5	SUB		3		Etagenhaus	dem			
+2927	5	SUB		3		Brief	dem			
+2928	5	SUB		3		Zeitung	der			
+2929	5	SUB		3		Papiergeschäft	dem			
+2930	5	SUB		4		ein- Buch	ein Buch	Bücher		
+2931	5	SUB		4		ein- Koffer	einen Koffer	Koffer		
+2932	5	SUB		4		ein- Füller	einen Füller	Füller		
+2933	5	SUB		4		ein- Wagen	einen Wagen	Wagen		
+2934	5	SUB		4		ein- Bruder	einen Bruder	Brüder		
+2935	5	SUB		4		ein- Tochter	eine Tochter	Töchter		
+2936	5	SUB		4		ein- Bleistift	einen Bleistift	Bleistifte		
+2937	5	SUB		4		ein- Geschäft	ein Geschäft	Geschäfte		
+2938	5	SUB		4		ein- Formular	ein Formular	Formulare		
+2939	5	SUB		4		ein- Stadtplan	einen Stadtplan	Stadtpläne		
+2940	5	SUB		4		ein- Sohn	einen Sohn	Söhne		
+2941	5	SUB		4		ein- Haus	ein Haus	Häuser		
+2942	5	SUB		4		ein- Zeitung	eine Zeitung	Zeitungen		
+2943	5	SUB		4		ein- Schreibmaschine	eine Schreibmaschine	Schreibmaschinen		
+2944	5	SUB		4		ein- Pfeife	eine Pfeife	Pfeifen		
+2945	5	SUB		4		ein- Auto	ein Auto	Autos		
+2946	5	SUB		4		ein- Schwester	eine Schwester	Schwestern		
+2947	5	SUB		5		mein- Bleistift	mein Bleistift	Bleistifte		
+2948	5	SUB		5		mein- Fragebogen	mein Fragebogen	Fragebogen		
+2949	5	SUB		5		mein- Brief	mein Brief	Briefe		
+2950	5	SUB		5		mein- Ausweis	mein Ausweis	Ausweise		
+2951	5	SUB		5		mein- Brot	mein Brot	Brote		
+2952	5	SUB		5		mein- Formular	mein Formular	Formulare		
+2953	5	SUB		5		mein- Pass	mein Pass	Pässe		
+2954	5	SUB		5		mein- Antrag	mein Antrag	Anträge		
+2955	5	SUB		5		mein- Buch	mein Buch	Bücher		
+2956	5	SUB		5		mein- Glas	mein Glas	Gläser		
+2957	5	SUB		5		mein- Visum	mein Visum	Visa (Visen)		
+2958	5	SUB		5		mein- Zeitung	meine Zeitung	Zeitungen		
+2959	5	SUB		5		mein- Briefmarke	meine Briefmarke	Briefmarken		
+2960	5	SUB		5		mein- Schreibmaschine	meine Schreibmaschine	Schreibmaschinen		
+2961	5	SUB		6		Bleistift	Bleistifte			
+2962	5	SUB		6		Papierkorb	Papierkörbe			
+2963	5	SUB		6		Adresse	Adressen			
+2964	5	SUB		6		Brief	Briefe			
+2965	5	SUB		6		Herr	Herren			
+2966	5	SUB		6		Café	Cafés			
+2967	5	SUB		6		Dame	Damen			
+2968	5	SUB		6		Geschäft	Geschäfte			
+2969	5	SUB		6		Schreibmaschine	Schreibmaschinen			
+2970	5	SUB		6		Fragebogen	Fragebogen			
+2971	5	SUB		6		Füller	Füller			
+2972	5	SUB		6		Briefmarke	Briefmarken			
+2973	5	SUB		6		Koffer	Koffer			
+2974	5	SUB		6		Omnibus	Omnibusse			
+2975	5	SUB		6		Roman	Romane			
+2976	5	SUB		6		Ausweis	Ausweise			
+2977	5	SUB		6		Konsulat	Konsulate			
+2978	5	SUB		6		Formular	Formulare			
+2979	5	SUB		6		Pass	Pässe			
+2980	5	SUB		6		Antrag	Anträge			
+2981	5	SUB		7		Buch	Bücher			
+2982	5	SUB		7		Zeitung	Zeitungen			
+2983	5	SUB		7		Wagen	Wagen			
+2984	5	SUB		7		Bruder	Brüder			
+2985	5	SUB		7		Tochter	Töchter			
+2986	5	SUB		7		Schwester	Schwestern			
+2987	5	SUB		7		Tante	Tanten			
+2988	5	SUB		7		Parkplatz	Parkplätze			
+2989	5	SUB		7		Haus	Häuser			
+2990	5	SUB		7		Glas	Gläser			
+2991	5	SUB		7		Streichholz	Streichhölzer			
+2992	5	SUB		7		Diplomat	Diplomaten			
+2993	5	SUB		7		Polizist	Polizisten			
+2994	5	SUB		7		Auto	Autos			
+2995	5	SUB		8		Zeitung	Zeitungen			
+2996	5	SUB		8		Amerikaner	Amerikaner			
+2997	5	SUB		8		Frau	Frauen			
+2998	5	SUB		8		Amerikanerin	Amerikanerinnen			
+2999	5	SUB		8		Konsul	Konsuln			
+3000	5	SUB		8		Beamte	Beamten			
+3001	5	SUB		8		Pfeife	Pfeifen			
+3002	5	SUB		8		Taxe	Taxen			
+3003	5	SUB		8		Tante	Tanten			
+3004	5	SUB		8		Zigarette	Zigaretten			
+3005	5	SUB		8		Brief	Briefe			
+3006	5	SUB		8		Fragebogen	Fragebogen			
+3007	5	SUB		8		Briefmarke	Briefmarken			
+3008	5	SUB		8		Pass	Pässe			
+3009	5	SUB		8		Ausweis	Ausweise			
+3010	5	SUB		8		Sekretärin	Sekretärinnen			
+3011	5	SUB		9		Geschäft	Geschäften			
+3012	5	SUB		9		Theater	Theatern			
+3013	5	SUB		9		Flughafen	Flughäfen			
+3014	5	SUB		9		Omnibus	Omnibussen			
+3015	5	SUB		9		Café	Cafés			
+3016	5	SUB		9		Bahnhof	Bahnhöfen			
+3017	5	SUB		9		Stadt	Städten			
+3018	5	SUB		9		Rathaus	Rathäusern			
+3019	5	SUB		9		Schloss	Schlössern			
+3020	5	SUB		9		Kino	Kinos			
+3021	5	SUB		9		Etagenhaus	Etagenhäusern			
+3022	5	SUB		9		Diplomat	Diplomaten			
+3023	5	SUB		9		Polizist	Polizisten			
+3024	5	SUB		9		Museum	Museen			
+3025	5	SUB		9		Bibliothek	Bibliotheken			
+3026	5	SUB		9		Hotel	Hotels			
+3027	5	SUB		9		Universität	Universitäten			
+3028	5	SUB		9		Strasse	Strassen			
+3029	5	SUB		9		Restaurant	Restaurants			
+3030	5	SUB		10		Theater	Theater			
+3031	5	SUB		10		Ratskeller	Ratskeller			
+3032	5	SUB		10		Flughafen	Flughäfen			
+3033	5	SUB		10		Dom	Dome			
+3034	5	SUB		10		Konsulat	Konsulate			
+3035	5	SUB		10		Botschaft	Botschaften			
+3036	5	SUB		10		Generalkonsulat	Generalkonsulate			
+3037	5	SUB		10		Bahnhof	Bahnhöfe			
+3038	5	SUB		10		Stadt	Städte			
+3039	5	SUB		10		Schloss	Schlösser			
+3040	5	SUB		10		Diplomat	Diplomaten			
+3041	5	SUB		10		Polizist	Polizisten			
+3042	5	SUB		10		Museum	Museen			
+3043	5	SUB		10		Bank	Banken			
+3044	5	SUB		10		Zeitung	Zeitungen			
+3045	5	SUB		10		Konsul	Konsuln			
+3046	5	SUB		11		Restaurant	Restaurants			
+3047	5	SUB		11		Park	Parks			
+3048	5	SUB		11		Café	Cafés			
+3049	5	SUB		11		Kino	Kinos			
+3050	5	SUB		11		Hotel	Hotels			
+3051	5	SUB		11		Bank	Banken			
+3052	5	SUB		11		Theater	Theater			
+3053	5	SUB		11		Autobus	Autobusse			
+3054	5	SUB		11		Strassenbahn	Strassenbahnen			
+3055	5	SUB		11		Polizist	Polizisten			
+3056	5	SUB		11		Strassenbahnhaltestelle	Strassenbahnhaltestellen			
+3057	5	SUB		11		Geschäft	Geschäfte			
+3058	5	SUB		11		Etagenhaus	Etagenhäuser			
+3059	5	SUB		11		Wohnung	Wohnungen			
+3060	5	SUB		11		Bibliothek	Bibliotheken			
+3061	5	SUB		11		Universität	Universitäten			
+494	5	SUB		12	a	Amerikaners	des			m
+495	5	SUB		12	a	Diplomaten	des			m
+496	5	SUB		12	a	Schriftstellers	des			m
+497	5	SUB		12	a	Bruders	des			m
+498	5	SUB		12	a	Konsuls	des			m
+499	5	SUB		12	a	Beamten	des			m
+500	5	SUB		12	b	Geschäfts	des			n
+501	5	SUB		12	b	Generalkonsulats	des			n
+502	5	SUB		12	b	Rathauses	des			n
+503	5	SUB		12	b	Museum	des			n
+504	5	SUB		12	b	Restaurants	des			n
+505	5	SUB		12	b	Hotels	des			n
+506	5	SUB		12	c	Botschaft	der			f
+507	5	SUB		12	c	Mutter	der			f
+508	5	SUB		12	c	Bank	der			f
+509	5	SUB		12	c	Tochter	der			f
+510	5	SUB		12	c	Bibliothek	der			f
+511	5	SUB		12	c	Universität	der			f
+512	5	SUB		12	c	Sekretärin	der			f
+513	5	SUB		12	d	Eltern	der			p
+514	5	SUB		12	d	Brüder	der			pl
+515	5	SUB		12	d	Damen	der			pl
+516	5	SUB		12	d	Schwestern	der			p
+517	5	SUB		12	d	Herren	der			p
+518	5	SUB		12	d	Söhne	der			p
+519	5	SUB		13	a	Konsuls	des			
+520	5	SUB		13	a	Schriftstellers	des			
+521	5	SUB		13	a	Diplomaten	des			m
+522	5	SUB		13	a	Vizekonsuls	des			
+523	5	SUB		13	a	Beamten	des			
+524	5	SUB		13	a	Herrn	des			
+525	5	SUB		13	b	Schreibwarengeschäfts	des			
+526	5	SUB		13	b	Kinos	des			
+527	5	SUB		13	b	Konsulats	des			n
+528	5	SUB		13	b	Restaurants	des			
+529	5	SUB		13	b	Etagenhauses	des			
+530	5	SUB		13	b	Theaters	des			
+531	5	SUB		13	c	Mutter	der			
+532	5	SUB		13	c	Bank	der			f
+533	5	SUB		13	c	Bibliothek	der			f
+534	5	SUB		13	c	Tante	der			
+535	5	SUB		13	c	Zeitung	der			
+536	5	SUB		13	c	Dame	der			f
+537	5	SUB		13	c	Sekretärin	der			
+538	5	SUB		13	d	Eltern	der			
+539	5	SUB		13	d	Brüder	der			pl
+540	5	SUB		13	d	Schwestern	der			
+541	5	SUB		13	d	Töchter	der			
+542	5	SUB		13	d	Söhne	der			
+543	5	SUB		14		Hotels	dieses			
+544	5	SUB		14		Frau	dieser			
+545	5	SUB		14		Beamten	dieses			
+546	5	SUB		14		Geschäfts	dieses			
+547	5	SUB		14		Amerikanerin	dieser			f
+548	5	SUB		14		Polizisten	dieses			
+549	5	SUB		14		Konsuls	dieses			
+550	5	SUB		14		Dame	dieser			f
+551	5	SUB		14		Diplomaten	dieses			m
+552	5	SUB		14		Herrn	dieses			
+553	5	SUB		14		Konsulats	dieses			n
+554	5	SUB		15		Diplomaten	eines			m
+555	5	SUB		15		Schriftstellers	eines			
+556	5	SUB		15		Kollegen	eines			
+557	5	SUB		15		Dame	einer			f
+558	5	SUB		15		Vizekonsuls	eines			
+559	5	SUB		15		Schreibwarengeschäfts	eines			
+560	5	SUB		15		Bank	einer			f
+561	5	SUB		15		Amerikaners	eines			m
+562	5	SUB		15		Bibliothek	einer			f
+563	5	SUB		15		Amerikanerin	einer			f
+564	5	SUB		15		Herrn	eines			
+565	5	SUB		16		Bruders	Ihres			m
+566	5	SUB		16		Vaters	Ihres			
+567	5	SUB		16		Schwester	Ihrer			
+568	5	SUB		16		Kollegen	Ihres			
+569	5	SUB		16		Tochter	Ihrer			
+570	5	SUB		16		Sohnes	Ihres			
+571	5	SUB		16		Tante	Ihrer			
+572	5	SUB		16		Mutter	Ihrer			
+573	5	SUB		16		Mannes	Ihres			
+574	5	SUB		16		Bekannten	Ihres			
+575	5	SUB		16		Frau	Ihrer			
+576	5	SUB		17		Hotels	unseres			
+577	5	SUB		17		Tante	unserer			
+578	5	SUB		17		Konsulats	unseres			n
+579	5	SUB		17		Botschaft	unserer			f
+580	5	SUB		17		Schwester	unserer			
+581	5	SUB		17		Eltern	unserer			
+582	5	SUB		17		Konsuls	unseres			
+583	5	SUB		17		Bank	unserer			f
+584	5	SUB		17		Sohnes	unseres			
+585	5	SUB		17		Kollegen	unseres			
+586	5	SUB		18		mein- Mutter	meiner Mutter			
+587	5	SUB		18		unser- Tochter	unserer Tochter			
+588	5	SUB		18		sein- Schwester	seiner Schwester			
+589	5	SUB		18		mein- Sohnes	meines Sohnes			
+590	5	SUB		18		unser- Tante	unserer Tante			
+591	5	SUB		18		sein- Bruders	seines Bruders			
+592	5	SUB		18		ihr- Vaters	ihres Vaters			
+593	5	SUB		18		ein- Bekannten	eines Bekannten			
+594	5	SUB		18		ihr- Eltern	ihrer Eltern			
+595	5	SUB		18		mein- Kollegen	meines Kollegen			
+596	5	SUB		19		Ihr- Kollegen	Ihrer Kollegen			
+597	5	SUB		19		mein- Söhne	meiner Söhne			
+598	5	SUB		19		sein- Eltern	seiner Eltern			
+599	5	SUB		19		unser- Schwestern	unserer Schwestern			
+600	5	SUB		19		mein- Töchter	meiner Töchter			
+601	5	SUB		19		unser- Diplomaten	unserer Diplomaten			
+602	5	SUB		20	a	Bleistifte	einer der			
+603	5	SUB		20	a	Stadtpläne	einer der			
+604	5	SUB		20	a	Söhne	einer der			
+605	5	SUB		20	a	Parkplätze	einer der			
+606	5	SUB		20	a	Brüder	einer der			pl
+607	5	SUB		20	a	Autobusse	einer der			pl
+608	5	SUB		20	a	Geschäftsbriefe	einer der			
+609	5	SUB		20	b	Hotels	eins der			
+610	5	SUB		20	b	Theater	eins der			
+611	5	SUB		20	b	Museen	eins der			
+612	5	SUB		20	b	Konsulate	eins der			n
+613	5	SUB		20	b	Etagenhäuser	eins der			
+614	5	SUB		20	c	Schreibmaschinen	eine der			
+615	5	SUB		20	c	Schwestern	eine der			
+616	5	SUB		20	c	Wohnungen	eine der			
+617	5	SUB		20	c	Türen	eine der			
+618	5	SUB		20	c	Bibliotheken	eine der			f
+619	5	SUB		20	c	Sekretärinnen	eine der			
+620	5	SUB		21	a	Füller	einen der			
+621	5	SUB		21	a	Bleistifte	einen der			
+622	5	SUB		21	a	Stadtpläne	einen der			
+623	5	SUB		21	a	Koffer	einen der			
+624	5	SUB		21	a	Papierkörbe	einen der			
+625	5	SUB		21	a	Fragebogen	einen der			
+626	5	SUB		21	b	Gläser	eins der			
+627	5	SUB		21	b	Autos	eins der			pl
+628	5	SUB		21	b	Formulare	eins der			
+629	5	SUB		21	b	Häuser	eins der			
+630	5	SUB		21	b	Bücher	eins der			pl
+631	5	SUB		21	c	Zeitungen	eine der			
+632	5	SUB		21	c	Pfeifen	eine der			
+633	5	SUB		21	c	Adressen	eine der			f
+634	5	SUB		21	c	Schreibmaschinen	eine der			
+635	5	SUB		21	c	Briefmarken	eine der			f
+636	5	SUB		22		Meine Frau	Meine Frau	ihrer	leiht sich	
+637	5	SUB		22		Unser Kollege	Unser Kollege	seiner	leiht sich	
+638	5	SUB		22		Frau Müller	Frau Müller	ihrer	leiht sich	
+639	5	SUB		22		Er	Er	seiner	leiht sich	
+640	5	SUB		22		Seine Frau	Seine Frau	ihrer	leiht sich	
+641	5	SUB		22		Ihr Mann	Ihr Mann	seiner	leiht sich	
+642	5	SUB		22		Wir	Wir	unserer	leihen uns	
+643	5	SUB		22		Herr Schneider	Herr Schneider	seiner	leiht sich	
+3062	5	SUB		23		Wir	Wir	können	uns	
+3063	5	SUB		23		Seine Töchter	Seine Töchter	können	sich	
+3064	5	SUB		23		Ihre Schwester	Ihre Schwester	kann	sich	
+3065	5	SUB		23		Ich	Ich	kann	mich	
+3066	5	SUB		23		Unser Vater	Unser Vater	kann	sich	
+3067	5	SUB		23		Ihr Mann	Ihr Mann	kann	sich	
+3068	5	SUB		23		Er	Er	kann	sich	
+644	6	SUB		1	a	Wagen	der neue			
+645	6	SUB		1	a	Ober	der neue			
+646	6	SUB		1	a	Kollege	der neue			
+647	6	SUB		1	a	Konsul	der neue			
+648	6	SUB		1	a	Apparat	der neue			m
+649	6	SUB		1	a	Füller	der neue			
+650	6	SUB		1	b	Büro	das neue			n
+651	6	SUB		1	b	Telephon	das neue			
+652	6	SUB		1	b	Generalkonsulat	das neue			n
+653	6	SUB		1	b	Haus	das neue			
+654	6	SUB		1	b	Geschäft	das neue			
+655	6	SUB		1	c	Abteilung	die neue			f
+656	6	SUB		1	c	Nummer	die neue			
+657	6	SUB		1	c	Wohnung	die neue			
+658	6	SUB		1	c	Adresse	die neue			f
+659	6	SUB		1	c	Sekretärin	die neue			
+660	6	SUB		2	a	Portier	den alten			
+661	6	SUB		2	a	Beamten	den alten			
+662	6	SUB		2	a	Schriftsteller	den alten			
+663	6	SUB		2	a	Polizisten	den alten			
+664	6	SUB		2	a	Herrn Becker	den alten			
+665	6	SUB		2	a	Markt	den alten			
+666	6	SUB		2	a	Park	den alten			
+667	6	SUB		2	b	Theater	das alte			
+668	6	SUB		2	b	Haus	das alte			
+669	6	SUB		2	b	Schloss	das alte			
+670	6	SUB		2	b	Museum	das alte			
+671	6	SUB		2	b	Hotel	das alte			
+672	6	SUB		2	c	Universität	die alte			
+673	6	SUB		2	c	Dame	die alte			f
+674	6	SUB		2	c	Bibliothek	die alte			f
+675	6	SUB		2	c	Stadt	die alte			
+676	6	SUB		2	c	Frau	die alte			
+677	6	SUB		3	a	Bahnhof	dem alten			m
+678	6	SUB		3	a	Flughafen	dem alten			
+679	6	SUB		3	a	Parkplatz	dem alten			
+680	6	SUB		3	a	Ratskeller	dem alten			
+681	6	SUB		3	b	Hotel	dem alten			
+682	6	SUB		3	b	Büro	dem alten			n
+683	6	SUB		3	b	Theater	dem alten			
+684	6	SUB		3	b	Museum	dem alten			
+685	6	SUB		3	c	Rathaus	dem alten			
+686	6	SUB		3	c	Universität	der alten			
+687	6	SUB		3	c	Botschaft	der alten			f
+688	6	SUB		3	c	Bibliothek	der alten			f
+689	6	SUB		3	c	Bank	der alten			f
+690	6	SUB		4	a	Bleistift	ein guter			m
+691	6	SUB		4	a	Füller	ein guter			
+692	6	SUB		4	a	Koffer	ein guter			
+693	6	SUB		4	a	Roman	ein guter			
+694	6	SUB		4	a	Parkplatz	ein guter			
+695	6	SUB		4	a	Wein	ein guter			
+696	6	SUB		4	b	Buch	ein gutes			m
+697	6	SUB		4	b	Theater	ein gutes			
+698	6	SUB		4	b	Restaurant	ein gutes			
+699	6	SUB		4	b	Café	ein gutes			n
+700	6	SUB		4	b	Geschäft	ein gutes			
+701	6	SUB		4	c	Universität	eine gute			
+702	6	SUB		4	c	Bibliothek	eine gute			f
+703	6	SUB		4	c	Schreibmaschine	eine gute			
+704	6	SUB		4	c	Zigarre	eine gute			
+705	6	SUB		4	c	Zeitung	eine gute			
+706	6	SUB		5	a	Wagen	einen guten			
+707	6	SUB		5	a	Füller	einen guten			
+708	6	SUB		5	a	Roman	einen guten			
+709	6	SUB		5	a	Wein	einen guten			
+710	6	SUB		5	a	Bleistift	einen guten			m
+711	6	SUB		5	a	Stadtplan	einen guten			
+712	6	SUB		5	b	Buch	ein gutes			m
+713	6	SUB		5	b	Hotel	ein gutes			
+714	6	SUB		5	b	Auto	ein gutes			n
+715	6	SUB		5	b	Café	ein gutes			n
+716	6	SUB		5	b	Restaurant	ein gutes			
+717	6	SUB		5	c	Zeitung	eine gute			
+718	6	SUB		5	c	Universität	eine gute			
+719	6	SUB		5	c	Bibliothek	eine gute			f
+720	6	SUB		5	c	Sekretärin	eine gute			
+721	6	SUB		5	c	Schreibmaschine	eine gute			
+722	6	SUB		6	a	Bekannten	eines alten			
+723	6	SUB		6	a	Kollegen	eines alten			
+724	6	SUB		6	a	Schriftstellers	eines alten			
+725	6	SUB		6	a	Beamten	eines alten			
+726	6	SUB		6	a	Diplomaten	eines alten			m
+727	6	SUB		6	a	Konsuls	eines alten			
+728	6	SUB		6	b	Dame	einer alten			f
+729	6	SUB		6	b	Amerikanerin	einer alten			f
+730	6	SUB		6	b	Tante	einer alten			
+731	6	SUB		6	b	Universität	einer alten			
+732	6	SUB		6	b	Sekretärin	einer alten			
+733	6	SUB		7	a	Geschäfts; ein- gut-	eines guten Geschäfts			
+734	6	SUB		7	a	Hotels; ein- gut-	eines guten Hotels			
+735	6	SUB		7	a	Restaurants; ein- gut-	eines guten Restaurants			
+736	6	SUB		7	a	Cafés; ein- gut-	eines guten Cafés			n
+737	6	SUB		8		alt-	alt			
+738	6	SUB		8		kaputt-	kaputt			
+739	6	SUB		8		schön-	schön			
+740	6	SUB		8		gross-	gross			
+741	6	SUB		8		neu-	neu			
+742	6	SUB		8		gut-	gut			
+743	6	SUB		9		gut-	gut			
+744	6	SUB		9		genau-	genau			
+745	6	SUB		9		neu-	neu			
+746	6	SUB		9		wichtig-	wichtig			
+747	6	SUB		9		besser-	besser			
+748	6	SUB		9		dringend-	dringend			
+749	6	SUB		10		neu-	neu			
+750	6	SUB		10		besser-	besser			
+751	6	SUB		10		gut-	gut			
+752	6	SUB		10		alt-	alt			
+753	6	SUB		10		wichtig-	wichtig			
+3069	6	SUB		11		ich	mir			
+3070	6	SUB		11		wir	uns			
+3071	6	SUB		11		er	ihm			
+3072	6	SUB		11		sie (pl)	ihnen			
+3073	6	SUB		11		sie (sg)	ihr			
+3074	6	SUB		11		Sie	Ihnen			
+3075	6	SUB		11		d- Diplomat	dem Diplomaten			
+3332	6	SUB		11		mein- Tante	meiner Tante			
+3076	6	SUB		11		sein- Eltern	seinen Eltern			
+3077	6	SUB		11		ihr- Bruder	ihrem Bruder			
+3078	6	SUB		11		unser- Schwester	unserer Schwester			
+3079	6	SUB		11		mein- Sekretärin	meiner Sekretärin			
+3080	6	SUB		12		Wir	Wir haben unsere	uns		
+3081	6	SUB		12		Herr Müller	Herr Müller hat seine	sich		
+3082	6	SUB		12		Meine Frau	Meine Frau hat ihre	sich		
+3083	6	SUB		12		Sie (3pl)	Sie haben ihre	sich		
+3084	6	SUB		12		Ihr Mann	Ihr Mann hat seine	sich		
+3085	6	SUB		12		Fräulein König	Fräulein König hat ihre	sich		
+3086	6	SUB		12		Sie (sg)	Sie hat ihre	sich		
+754	6	SUB		13		Füller; alt-	alten Füller			
+755	6	SUB		13		Konsuln; amerikanisch-	amerikanischen Konsuln			
+756	6	SUB		13		Bücher; französisch-	französischen Bücher			pl
+757	6	SUB		13		Zigaretten; deutsch-	deutschen Zigaretten			
+758	6	SUB		13		Zeitungen; alt-	alten Zeitungen			
+759	6	SUB		13		Nummern; wichtig-	wichtigen Nummern			
+760	6	SUB		13		Bleistifte; neu-	neuen Bleistifte			
+761	6	SUB		13		Geschäfte; schön-	schönen Geschäfte			
+762	6	SUB		14		Autos; sein- gross- neu-	seine grossen neuen Autos			pl
+763	6	SUB		14		Restaurants; unser- schön- alt-	unsere schönen alten Restaurants			
+764	6	SUB		14		Füller; mein- alt- kaputt-	meine alten kaputten Füller			
+765	6	SUB		14		Bücher; ihr- neu- französisch-	ihre neuen französischen Bücher			pl
+766	6	SUB		14		Wagen; unser- gross- amerikanisch-	unsere grossen amerikanischen Wagen			
+767	6	SUB		14		Romane; ihr- schön- deutsch-	ihre schönen deutschen Romane			
+768	6	SUB		15		Vizekonsuln; d- neu-	den neuen Vizekonsuln			
+769	6	SUB		15		Schriftstellern; d- französisch-	den französischen Schriftstellern			
+770	6	SUB		15		Amerikanern; d- nett-	den netten Amerikanern			pl
+771	6	SUB		15		Beamten (pl.); d- wichtig-	den wichtigen Beamten			pl
+772	6	SUB		15		Deutschen (pl.); d- alt-	den alten Deutschen			pl
+773	6	SUB		15		Sekretärinnen; d- nett-	den netten Sekretärinnen			
+774	6	SUB		15		Kollegen (pl.); d- amerikanisch-	den amerikanischen Kollegen			
+775	6	SUB		15		Diplomaten (pl.); d- deutsch-	den deutschen Diplomaten			
+776	6	SUB		16		Kino; d- neu- gross-	das neue grosse Kino			
+777	6	SUB		16		Zeitung; d- alt- deutsch-	die alte deutsche Zeitung			
+778	6	SUB		16		Konsul; d- neu- amerikanisch-	der neue amerikanische Konsul			
+779	6	SUB		16		Universität; d- berühmt- alt-	die berühmte alte Universität			
+780	6	SUB		16		Hotel; d- gross- neu-	das grosse neue Hotel			
+781	6	SUB		16		Rathaus; d- berühmt- alt-	das berühmte alte Rathaus			
+782	6	SUB		16		Schreibmaschine; d- kaputt- alt-	die kaputte alte Schreibmaschine			
+783	6	SUB		16		Herr; d- nett- alt-	der nette alte Herr			
+784	6	SUB		17		Zigarren; gut- deutsch-	guten deutschen Zigarren			
+785	6	SUB		17		Bücher; schön- alt-	schönen alten Bücher			pl
+786	6	SUB		17		Zeitungen; neu- amerikanisch-	neuen amerikanischen Zeitungen			
+787	6	SUB		17		Weine; gut- französisch-	guten französischen Weine			
+788	6	SUB		17		Schreibmaschinen; neu- gut-	neuen guten Schreibmaschinen			
+789	6	SUB		17		Briefmarken; berühmt- alt-	berühmten alten Briefmarken			pl
+790	6	SUB		18		Cafés; unser- nett- deutsch-	unsere netten deutschen Cafés			pl
+791	6	SUB		18		Romane; kein- alt- französisch-	keine alten französischen Romane			
+792	6	SUB		18		Schlösser; unser- berühmt- alt-	unsere berühmten alten Schlösser			
+793	6	SUB		18		Abteilungen; ihr- neu- gross-	ihre neuen grossen Abteilungen			pl
+794	6	SUB		18		Geschäfte; sein- schön- gross-	seine schönen grossen Geschäfte			
+795	6	SUB		18		Fragebogen; unser- wichtig- neu-	unsere wichtigen neuen Fragebogen			
+796	6	SUB		18		Wohnungen; ihr- nett- neu-	ihre netten neuen Wohnungen			
+797	6	SUB		18		Geschäftsbriefe; unser- umständlich- deutsch-	unsere umständlichen deutschen Geschäftsbriefe			
+798	6	SUB		19		Hotel; unser- alt- deutsch-	unser altes deutsches Hotel			
+799	6	SUB		19		Schriftsteller; ein- wichtig- amerikanisch-	ein wichtiger amerikanischer Schriftsteller			
+800	6	SUB		19		Schreibmaschine; ihr- schön- neu-	ihre schöne neue Schreibmaschine			
+801	6	SUB		19		Universität; unser- berühmt- alt-	unsere berühmte alte Universität			
+802	6	SUB		19		Füller; sein- alt- kaputt-	sein alter kaputter Füller			
+803	6	SUB		19		Wohnung; unser- gross- alt-	unsere grosse alte Wohnung			
+804	6	SUB		19		Sekretärin; ihr- nett- neu-	ihre nette neue Sekretärin			
+805	6	SUB		19		Roman; sein- gut- neu-	sein guter neuer Roman			
+806	6	SUB		19		Zeitung; ein- neu- französisch-	eine neue französische Zeitung			
+807	6	SUB		20		Wagen; ein- neu- deutsch-	einen neuen deutschen Wagen			
+808	6	SUB		20		Wohnung; ein- schön- gross-	eine schöne grosse Wohnung			
+809	6	SUB		20		Telephon; ein- alt- kaputt-	ein altes kaputtes Telephon			
+810	6	SUB		20		Schreibmaschine; ein- gut- deutsch-	eine gute deutsche Schreibmaschine			
+811	6	SUB		20		Namen; ein- schön- französisch-	einen schönen französischen Namen			
+812	6	SUB		20		Büro; ein- gross- neu-	ein grosses neues Büro			n
+813	6	SUB		20		Sekrertärin; ein- nett- alt-	eine nette alte Sekretärin			
+814	6	SUB		20		Füller; ein- neu- amerikansich-	einen neuen amerikanischen Füller			
+815	6	SUB		20		Kollegen; ein- nett- amerikanisch-	einen netten amerikanischen Kollegen			
+816	6	SUB		21		Füller; ein- der kaputt-	einen der kaputten Füller			
+817	6	SUB		21		Zeitungen; ein- der französisch-	eine der französischen Zeitungen			
+818	6	SUB		21		Fragebogen; ein- der neu-	einen der neuen Fragebogen			
+819	6	SUB		21		Romane; ein- der deutsch-	einen der deutschen Romane			
+820	6	SUB		21		Büros; ein- der neu-	eins der neuen Büros			n
+821	6	SUB		21		Briefmarken; ein- der amerikanisch-	eine der amerikanischen Briefmarken			f
+822	6	SUB		21		Etagenhäuser; ein- der gross-	eins der grossen Etagenhäuser			
+823	6	SUB		21		Wagen; ein- der alt-	einen der alten Wagen			
+824	6	SUB		22		Hotel; ein- gross- neu-	einem grossen neuen Hotel			
+825	6	SUB		22		Stadt; ein- schön- französisch-	einer schönen französischen Stadt			
+826	6	SUB		22		Etagenhaus; ein- gross- amerikanisch-	einem grossen amerikanischen Etagenhaus			
+827	6	SUB		22		Park; ein- schön- alt-	einem schönen alten Park			
+828	6	SUB		22		Haus; ein- nett- detusch-	einem netten deutschen Haus			
+829	6	SUB		22		Wohnung; ein- gross- neu-	einer grossen neuen Wohnung			
+830	6	SUB		22		Neubau; ein- schön- gross-	einem schönen grossen Neubau			
+831	6	SUB		23		Sekretärinnen; ein- sein- neu-	eine seiner neuen Sekretärinnen			
+832	6	SUB		23		Schriftsteller; ein- unser- deutsch-	einen unserer deutschen Schriftsteller			
+833	6	SUB		23		Formulare; ein- Ihr- neu-	eins Ihrer neuen Formulare			
+834	6	SUB		23		Konferenzen; ein- unser- dringend-	eine unserer dringenden Konferenzen			
+835	6	SUB		23		Vizekonsuln; ein- unser- amerikanisch-	einen unserer amerikanischen Vizekonsuln			
+836	6	SUB		23		Einfuhrbestimmungen; ein- Ihr- neu-	eine Ihrer neuen Einfuhrbestimmungen			
+837	6	SUB		23		Briefe; ein- sein- wichtig-	einen seiner wichtigen Briefe			m
+838	6	SUB		23		Geschäfte; ein- ihr- deutsch-	eins ihrer deutschen Geschäfte			
+839	6	CONV		1		Convert underlined noun(s) to plural.	Hier sind die schönen Parks.			
+840	6	CONV		2		Convert underlined noun(s) to plural.	Wo sind meine neuen Bleistifte?			
+841	6	CONV		3		Convert underlined noun(s) to plural.	Hier wohnen unsere guten Bekannten.			
+842	6	CONV		4		Convert underlined noun(s) to plural.	Er kennt die französischen Romane.			
+843	6	CONV		5		Convert underlined noun(s) to plural.	Sie liest die amerikanischen Zeitungen.			
+844	6	CONV		6		Convert underlined noun(s) to plural.	Ihre netten Verwandten besuchen uns heute.			
+845	6	CONV		7		Convert underlined noun(s) to plural.	Wie gefallen Ihnen die grossen Wohnungen?			
+846	6	CONV		8		Convert underlined noun(s) to plural.	Hier sind keine deutschen Beamten.			
+847	6	CONV		9		Convert underlined noun(s) to plural.	Diese schönen Koffer gehören mir nicht.			
+848	6	CONV		10		Convert underlined noun(s) to plural.	Hier gibt es keine grossen Parkplätze.			
+849	6	CONV		11		Convert underlined noun(s) to plural.	Meine amerikanischen Kollegen sind Vizekonsuln.			
+850	6	CONV		12		Convert underlined noun(s) to plural.	Er spricht mit den Sekretärinnen der neuen Abteilungen.			
+851	6	CONV		13		Convert underlined noun(s) to plural.	Wollen Sie das nicht den netten Amerikanerinnen zeigen?			
+852	6	CONV		14		Convert underlined noun(s) to plural.	Hier sind die neuen Schreibmaschinen meiner Schwestern.			
+853	6	CONV		15		Convert underlined noun(s) to plural.	Kennen Sie die netten Bücher dieser Schriftsteller?			
+854	6	CONV		16		Convert underlined noun(s) to plural.	Ich kann mit diesen kaputten Füllern nicht schreiben.			
+855	6	CONV		17		Convert underlined noun(s) to plural.	Sind das die neuen Pfennige?			
+856	7	SUB		1		Wein; deutsch-	deutscher Wein			
+857	7	SUB		1		Wein; französisch-	französischer Wein			
+858	7	SUB		1		Wein; amerikanisch-	amerikanischer Wein			
+859	7	SUB		1		Wein; gut-	guter Wein			
+860	7	SUB		2		Kaffee; gut-	guter Kaffee			
+861	7	SUB		2		Bier; gut-	gutes Bier			n
+862	7	SUB		2		Tee; gut-	guter Tee			
+863	7	SUB		2		Briefpapier; gut-	gutes Briefpapier			n
+864	7	SUB		2		Wäsche; gut-	gute Wäsche			
+865	7	SUB		2		Tabak; gut-	guter Tabak			
+866	7	SUB		2		Wein; gut-	guter Wein			
+867	7	SUB		3		viel- neu-	viele neue			
+868	7	SUB		3		viel- klein-	viele kleine			
+869	7	SUB		3		viel- schön-	viele schöne			
+870	7	SUB		3		viel- alt-	viele alte			
+871	7	SUB		3		viel- gross-	viele grosse			
+872	7	SUB		3		viel- ander-	viele andere			
+873	7	SUB		4		Bücher; gut- deutsch-	gute deutsche Bücher			pl
+874	7	SUB		4		Romane; gut- deutsch-	gute deutsche Romane			
+875	7	SUB		4		Bilder; gut- deutsch-	gute deutsche Bilder			pl
+876	7	SUB		4		Zigarren; gut- deutsch-	gute deutsche Zigarren			
+877	7	SUB		4		Teppiche; gut- deutsch-	gute deutsche Teppiche			
+878	7	SUB		4		Zeitungen; gut- deutsch-	gute deutsche Zeitungen			
+879	7	SUB		5		Bilder; einig- ander-	einige andere Bilder			pl
+880	7	SUB		5		Romane; einig- ander-	einige andere Romane			
+881	7	SUB		5		Stühle; einig- ander-	einige andere Stühle			
+882	7	SUB		5		Möbel; einig- ander-	einige andere Möbel			
+883	7	SUB		5		Bücher; einig- ander-	einige andere Bücher			pl
+884	7	SUB		5		Zeitungen; einig- ander-	einige andere Zeitungen			
+885	7	SUB		6		Wein; gut-	guten Wein			
+886	7	SUB		6		Briefpapier; gut-	gutes Briefpapier			n
+887	7	SUB		6		Tabak; gut-	guten Tabak			
+888	7	SUB		6		Geschirr; gut-	gutes Geschirr			n
+889	7	SUB		6		Wäsche; gut-	gute Wäsche			
+890	7	SUB		6		Kaffee; gut-	guten Kaffee			
+891	7	SUB		6		Bier; gut-	gutes Bier			n
+892	7	SUB		7		Briefpapier; schön-	schönes Briefpapier			n
+893	7	SUB		7		Tabak; amerikanisch-	amerikanischer Tabak			
+894	7	SUB		7		Geschirr; kaputt-	kaputtes Geschirr			n
+895	7	SUB		7		Wein; französisch-	französischer Wein			
+896	7	SUB		7		Wäsche; sauber-	saubere Wäsche			
+897	7	SUB		7		Bier; deutsch-	deutsches Bier			n
+898	7	SUB		7		Frachtgut; wichtig-	wichtiges Frachtgut			
+899	7	SUB		8		Wein; deutsch-	deutschen Wein			
+900	7	SUB		8		Bier; amerikanisch-	amerikanisches Bier			n
+901	7	SUB		8		Tee; englisch-	englischen Tee			
+902	7	SUB		8		Wäsche; neu-	neue Wäsche			
+903	7	SUB		8		Frachtgut; wichtig-	wichtiges Frachtgut			
+904	7	SUB		8		Tabak; gut-	guten Tabak			
+905	7	SUB		8		Briefpapier; schön-	schönes Briefpapier			n
+906	7	SUB		9		Wein; französisch-	französischem Wein			
+907	7	SUB		9		Frachtgut; wichtig-	wichtigem Frachtgut			
+908	7	SUB		9		Bier; deutsch-	deutschem Bier			n
+909	7	SUB		9		Wäsche; neu-	neuer Wäsche			
+910	7	SUB		9		Tabak; amerikanisch-	amerikanischem Tabak			
+911	7	SUB		9		Geschirr; neu-	neuem Geschirr			n
+912	7	SUB		10		Möbel; schön- neu-	schöne neue Möbel			
+913	7	SUB		10		Bilder; einig- berühmt-	einige berühmte Bilder			pl
+914	7	SUB		10		Stühle; viel- kaputt-	viele kaputte Stühle			
+915	7	SUB		10		Schränke; alt- hoh-	alte hohe Schränke			
+916	7	SUB		10		Teppiche; gut- klein-	gute kleine Teppiche			
+917	7	SUB		10		Tische; gross- neu-	grosse neue Tische			
+918	7	SUB		11		Parks; schön-	schöne Parks			
+919	7	SUB		11		Strassen; sauber-	saubere Strassen			
+920	7	SUB		11		Gärten; schön-	schöne Gärten			
+921	7	SUB		11		Neubauten; gross-	grosse Neubauten			
+922	7	SUB		11		Vororte; schön-	schöne Vororte			
+923	7	SUB		12		Parks; schön-	schönen Parks			
+924	7	SUB		12		Strassen; sauber-	sauberen Strassen			
+925	7	SUB		12		Gärten; schön-	schönen Gärten			
+926	7	SUB		12		Neubauten; gross-	grosse Neubauten			
+927	7	SUB		12		Vororte; schön-	schönen Vororte			
+928	7	SUB		13		Bilder; schön-	schöne Bilder			pl
+929	7	SUB		13		Tische; gross-	grosse Tische			
+930	7	SUB		13		Sessel; neu-	neue Sessel			
+931	7	SUB		13		Romane; gut-	gute Romane			
+932	7	SUB		13		Möbel; alt-	alte Möbel			
+933	7	SUB		14		Bilder; schön-	schönen Bilder			pl
+934	7	SUB		14		Tische; gross-	grossen Tische			
+935	7	SUB		14		Sessel; neu-	neuen Sessel			
+936	7	SUB		14		Romane; gut-	guten Romane			
+937	7	SUB		14		Möbel; alt-	alten Möbel			
+938	7	SUB		15		Bilder; schön-	schöne Bilder			pl
+939	7	SUB		15		Tische; gross-	grosse Tische			
+940	7	SUB		15		Sessel; neu-	neue Sessel			
+941	7	SUB		15		Romane; gut-	gute Romane			
+942	7	SUB		15		Möbel; alt-	alte Möbel			
+943	7	SUB		16		Bücher; kein- gut-	keine guten Bücher			pl
+944	7	SUB		16		Möbel; viel- neu-	viele neue Möbel			
+945	7	SUB		16		Fenster; kein- gross-	keine grossen Fenster			
+946	7	SUB		16		Teppiche; drei schön-	drei schöne Teppiche			
+947	7	SUB		16		Zeitungen; einig- französisch-	einige französische Zeitungen			
+948	7	SUB		16		Anträge; kein- neu-	keine neuen Anträge			pl
+949	7	SUB		17		Parks; schön-	schönen Parks			
+950	7	SUB		17		Dom; ein- berühmt-	einem berühmten Dom			
+951	7	SUB		17		Geschäften; viel- gross-	vielen grossen Geschäften			
+952	7	SUB		17		Etagenhäusern; neu- gross-	neuen grossen Etagenhäusern			
+953	7	SUB		17		Museum; ein- berühmt- alt-	einem berühmten alten Museum			
+954	7	SUB		17		Restaurants; viel- gut-	vielen guten Restaurants			
+955	7	SUB		17		Universität; ein- sehr schön-	einer sehr schönen Universität			
+956	7	SUB		18		Garten; ein- klein-	einem kleinen Garten			
+957	7	SUB		18		Garten; klein-	kleinem Garten			
+958	7	SUB		18		Keller; gross-	grossem Keller			
+959	7	SUB		18		Boden; ein- schön-	einem schönen Boden			m
+960	7	SUB		18		Heizung; ausgezeichnet- neu-	ausgezeichneter neuer Heizung			
+961	7	SUB		18		Küche; ein- schön- gross-	einer schönen grossen Küche			
+962	7	SUB		18		Schränken; viel- eingebaut-	vielen eingebauten Schränken			
+963	7	SUB		19		Parks; schön-	schöne Parks	sind		
+964	7	SUB		19		Geschäfte; viel- gross-	viele grosse Geschäfte	sind		
+965	7	SUB		19		Dom; ein- berühmt-	ein berühmter Dom	ist		
+966	7	SUB		19		Etagenhäuser; fünf neu-	fünf neue Etagenhäuser	sind		
+967	7	SUB		19		Museum; ein- berühmt- alt-	ein berühmtes altes Museum	ist		
+968	7	SUB		19		Restaurants; einig- gut-	einige gute Restaurants	sind		
+969	7	SUB		19		Bibliothek; ein- sehr schön-	eine sehr schöne Bibliothek	ist		f
+970	7	SUB		19		Parkplätze; gross-	grosse Parkplätze	sind		
+971	7	SUB		19		Park; ein- schön-	ein schöner Park	ist		
+972	7	SUB		20		Parks; schön-	schöne Parks			
+973	7	SUB		20		Geschäfte; viel- gross-	viele grosse Geschäfte			
+974	7	SUB		20		Dom; ein- berühmt-	einen berühmten Dom			
+975	7	SUB		20		Etagenhäuser; fünf neu-	fünf neue Etagenhäuser			
+976	7	SUB		20		Museum; ein- berühmt- alt-	ein berühmtes altes Museum			
+977	7	SUB		20		Restaurants; einig- gut-	einige gute Restaurants			
+978	7	SUB		20		Bibliothek; ein- sehr schön-	eine sehr schöne Bibliothek			f
+979	7	SUB		20		Parkplätze; gross-	grosse Parkplätze			
+980	7	SUB		20		Park; ein- schön-	einen schönen Park			
+981	7	SUB		21		vor d- Schreibtisch	vor den Schreibtisch			
+982	7	SUB		21		neben d- Tür	neben die Tür			
+983	7	SUB		21		auf d- Teppich	auf den Teppich			m
+984	7	SUB		21		hinter d- Tisch	hinter den Tisch			
+985	7	SUB		21		zwischen d- Betten	zwischen die Betten			
+986	7	SUB		21		in d- Garten	in den Garten			
+987	7	SUB		21		an d- Wand	an die Wand			f
+988	7	SUB		22		Vor d- Schreibtisch	Vor dem Schreibtisch			
+989	7	SUB		22		Neben d- Tür	Neben der Tür			
+990	7	SUB		22		Auf d- Teppich	Auf dem Teppich			m
+991	7	SUB		22		Hinter d- Tisch	Hinter dem Tisch			
+992	7	SUB		22		Zwischen d- Betten	Zwischen den Betten			
+993	7	SUB		22		In d- Garten	Im Garten			m
+994	7	SUB		22		An d- Wand	An der Wand			f
+995	7	SUB		23		hinter d- Sofa	hinter dem Sofa			
+996	7	SUB		23		vor d- Tür	vor der Tür			
+997	7	SUB		23		zwischen d- Stühlen	zwischen den Stühlen			
+998	7	SUB		23		neben d- Rauchtisch	neben dem Rauchtisch			
+999	7	SUB		23		in d- Wohnzimmer	im Wohnzimmer			
+1000	7	SUB		23		unter d- Schreibtisch	unter dem Schreibtisch			
+1001	7	SUB		23		hinter d- Stehlampe	hinter der Stehlampe			
+1002	7	SUB		24		hinter d- Sofa	hinter das Sofa			
+1003	7	SUB		24		vor d- Tür	vor die Tür			
+1004	7	SUB		24		zwischen d- Stühle	zwischen die Stühle			
+1005	7	SUB		24		neben d- Rauchtisch	neben den Rauchtisch			
+1006	7	SUB		24		in d- Wohnzimmer	ins Wohnzimmer			
+1007	7	SUB		24		unter d- Schreibtisch	unter den Schreibtisch			
+1008	7	SUB		24		hinter d- Stehlampe	hinter die Stehlampe			
+1009	7	SUB		25		neben d- Schreibmaschine	neben die Schreibmaschine			
+1010	7	SUB		25		unter d- Lampe	unter die Lampe			
+1011	7	SUB		25		auf d- Tisch	auf den Tisch			m
+1012	7	SUB		25		in d- ander- Zimmer	ins andere Zimmer			
+1013	7	SUB		25		hinter d- Telephonbuch	hinter das Telephonbuch			
+1014	7	SUB		25		neben d- Zeitungen	neben die Zeitungen			
+1015	7	SUB		26		neben d- Schreibmaschine	neben der Schreibmaschine			
+1016	7	SUB		26		unter d- Lampe	unter der Lampe			
+1017	7	SUB		26		auf d- Tisch	auf dem Tisch			m
+1018	7	SUB		26		in d- ander- Zimmer	im anderen Zimmer			
+1019	7	SUB		26		hinter d- Telephonbuch	hinter dem Telephonbuch			
+1020	7	SUB		26		neben d- Zeitungen	neben den Zeitungen			
+1021	7	SUB		27		unter d- Zeitungen	unter den Zeitungen			
+1022	7	SUB		27		zwischen d- Büchern	zwischen den Büchern			
+1023	7	SUB		27		neben d- Schreibmaschine	neben der Schreibmaschine			
+1024	7	SUB		27		in d- Schrank	im Schrank			
+1025	7	SUB		27		hinter d- Lampe	hinter der Lampe			
+1026	7	SUB		27		auf d- Küchentisch	auf dem Küchentisch			
+1027	7	SUB		28		unter d- Zeitungen	unter die Zeitungen			
+1028	7	SUB		28		zwischen d- Bücher	zwischen die Bücher			
+1029	7	SUB		28		neben d- Schreibmaschine	neben die Schreibmaschine			
+1030	7	SUB		28		in d- Schrank	in den Schrank			
+1031	7	SUB		28		hinter d- Lampe	hinter die Lampe			
+1032	7	SUB		28		auf d- Küchentisch	auf den Küchentisch			
+1033	7	SUB		29		über d- Sofa	über dem Sofa			
+1034	7	SUB		29		zwischen d- Fenstern	zwischen den Fenstern			
+1035	7	SUB		29		neben d- Tür	neben der Tür			
+1036	7	SUB		29		über d- Schreibtisch	über dem Schreibtisch			
+1037	7	SUB		29		in d- Wohnzimmer	im Wohnzimmer			
+1038	7	SUB		29		an d- Wand	an der Wand			f
+1039	7	SUB		29		in d- Bibliothek	in der Bibliothek			
+1040	7	SUB		30		über d- Sofa	über das Sofa			
+1041	7	SUB		30		zwischen d- Fenster	zwischen die Fenster			
+1042	7	SUB		30		neben d- Tür	neben die Tür			
+1043	7	SUB		30		über d- Schreibtisch	über den Schreibtisch			
+1044	7	SUB		30		in d- Wohnzimmer	ins Wohnzimmer			
+1045	7	SUB		30		an d- Wand	an die Wand			f
+1046	7	SUB		30		in d- Bibliothek	in die Bibliothek			
+1047	8	SUB		1		Krawatten				
+1048	8	SUB		1		Hemden				
+1049	8	SUB		1		Stühle				
+1050	8	SUB		1		Bleistifte				
+1051	8	SUB		1		Gläser				
+1052	8	SUB		1		Briefmarken				pl
+1053	8	SUB		2		Stoff				
+1054	8	SUB		2		Geld				
+1055	8	SUB		2		Wäsche				
+1056	8	SUB		2		Milch				
+1057	8	SUB		2		Geschirr				n
+1058	8	SUB		2		Papier				
+1059	8	SUB		3		ein-/- Teppiche	Teppiche			
+1060	8	SUB		3		ein-/- Wäsche	Wäsche			
+1061	8	SUB		3		ein-/- Wein	Wein			
+1062	8	SUB		3		ein-/- Socken	Socken			
+1063	8	SUB		3		ein-/- Briefpapier	Briefpapier			
+1064	8	SUB		3		ein-/- Hemden	Hemden			
+1065	8	SUB		3		ein-/- Möbel	Möbel			
+1066	8	SUB		4		ein-/- Stoff	einen Stoff			
+1067	8	SUB		4		ein-/- Anzug	einen Anzug			
+1068	8	SUB		4		ein/- Buch	ein Buch			
+1069	8	SUB		4		ein-/- Jacke	eine Jacke			
+1070	8	SUB		4		ein-/- Koffer	einen Koffer			
+1071	8	SUB		4		ein-/- Krawatte	eine Krawatte			
+1072	8	SUB		4		ein-/- Roman	einen Roman			
+1073	8	SUB		4		ein-/- Zeitung	eine Zeitung			
+1074	8	SUB		4		ein-/- Tabak	einen Tabak			
+1075	8	SUB		5		deutsch-	deutschen			
+1076	8	SUB		5		neu-	neuen			
+1077	8	SUB		5		englisch-	englischen			
+1078	8	SUB		5		alt-	alten			
+1079	8	SUB		5		französisch-	französischen			
+1080	8	SUB		6		alt-	alte			
+1081	8	SUB		6		deutsch-	deutsche			
+1082	8	SUB		6		neu-	neue			
+1083	8	SUB		6		klein-	kleine			
+1084	8	SUB		6		schön-	schöne			
+1085	8	SUB		6		gut-	gute			
+1086	8	SUB		6		bekannt-	bekannte			
+1087	8	SUB		7		Zimmer	ein schönes grosses			
+1088	8	SUB		7		Küche	eine schöne grosse			
+1089	8	SUB		7		Kühlschrank	ein schöner grosser			
+1090	8	SUB		7		Bibliothek	eine schöne grosse			f
+1091	8	SUB		7		Wagen	ein schöner grosser			
+1092	8	SUB		7		Bild	ein schönes grosses			n
+1093	8	SUB		7		Herd	ein schöner grosser			
+1094	8	SUB		7		Fenster	ein schönes grosses			
+1095	8	SUB		8		neu-	Neues			
+1096	8	SUB		8		gut-	Gutes			
+1097	8	SUB		8		ähnlich-	Ähnliches			z
+1098	8	SUB		8		preiswert	Preiswertes			
+1099	8	SUB		8		teuer-	Teueres			
+1100	8	SUB		8		ander-	Anderes			
+1101	8	SUB		9		ander-	Anderes			
+1102	8	SUB		9		ähnlich-	Ähnliches			z
+1103	8	SUB		9		preiswert-	Preiswertes			
+1104	8	SUB		9		passend-	Passendes			
+1105	8	SUB		9		einfarbig-	Einfarbiges			
+1106	8	SUB		9		gemustert-	Gemustertes			
+1107	8	SUB		9		teuer-	Teueres			
+1108	8	SUB		9		gestreift-	Gestreiftes			
+1109	8	SUB		10		Krawatte; d- grau-	die graue Krawatte			
+1110	8	SUB		10		Stoff; d- weiss-	der weisse Stoff			
+1111	8	SUB		10		Buch; d- deutsch-	das deutsche Buch			m
+1112	8	SUB		10		Lampe; d- gross-	die grosse Lampe			
+1113	8	SUB		10		Tisch; d- braun-	der braune Tisch			
+1114	8	SUB		10		Sporthemd; d- gestreift-	das gestreifte Sporthemd			
+1115	8	SUB		10		Koffer; d- grün-	der grüne Koffer			
+1116	8	SUB		11		Anzug; kein- grau-	keinen grauen Anzug			m
+1117	8	SUB		11		Jacke; kein- gestreift-	keine gestreifte Jacke			
+1118	8	SUB		11		Hemd; kein- billig-	kein billiges Hemd			
+1119	8	SUB		11		Socken; kein- farbig-	keine farbigen Socken			
+1120	8	SUB		11		Anzug; kein- braun-	keinen braunen Anzug			m
+1121	8	SUB		12		Bild; mein- neu-	mein neues Bild			n
+1122	8	SUB		12		Anzug; sein- hellgrau-	sein hellgrauer Anzug			m
+1123	8	SUB		12		Auto; unser- deutsch-	unser deutsches Auto			n
+1124	8	SUB		12		Bücherschrank; mein- eingebaut-	mein eingebauter Bücherschrank			m
+1125	8	SUB		12		Bibliothek; unser- alt-	unsere alte Bibliothek			f
+1126	8	SUB		12		Roman; ihr- ander-	ihr anderer Roman			
+1127	8	SUB		13		Hemd; dies- weiss-	Dieses weisse Hemd			
+1128	8	SUB		13		Koffer; dies- gross-	Diesen grossen Koffer			
+1129	8	SUB		13		Bild; dies- alt-	Dieses alte Bild			n
+1130	8	SUB		13		Stoff; dies- gemustert-	Diesen gemusterten Stoff			
+1131	8	SUB		13		Jacke; dies- grün-	Diese grüne Jacke			
+1132	8	SUB		13		Geschirr; dies- preiswert-	Dieses preiswerte Geschirr			n
+1133	8	SUB		14		Geschäft; ein- gut-	ein gutes Geschäft			
+1134	8	SUB		14		Schloss; ein- alt-	ein altes Schloss			
+1135	8	SUB		14		Bibliothek; ein- schön-	eine schöne Bibliothek			f
+1136	8	SUB		14		Café; ein- deutsch-	ein deutsches Café			n
+1137	8	SUB		14		Parkplatz; ein- gross-	einen grossen Parkplatz			
+1138	8	SUB		14		Hotel; ein- ausgezeichnet-	ein ausgezeichnetes Hotel			
+1139	8	SUB		15		Wagen; Ihr- neu-	Ihrem neuen Wagen			
+1140	8	SUB		15		Brief; sein- lang-	seinem langen Brief			m
+1141	8	SUB		15		Heizung; Ihr- neu-	Ihrer neuen Heizung			
+1142	8	SUB		15		Kühlschrank; dies- alt-	diesem alten Kühlschrank			
+1143	8	SUB		15		Einfuhrbestimmungen; unser- neu-	unseren neuen Einfuhrbestimmungen			
+1144	8	SUB		15		Elektroherd; d- teur-	dem teuren Elektroherd			
+1145	8	SUB		15		Geschirr; Ihr- deutsch-	Ihrem deutschen Geschirr			n
+1146	8	SUB		16		Wagen; Ihr- grün-	Ihr grüner Wagen			
+1147	8	SUB		16		Auto; sein- deutsch-	Sein deutsches Auto			n
+1148	8	SUB		16		Bücherschrank; ihr- eingebaut-	Ihr eingebauter Bücherschrank			m
+1149	8	SUB		16		Krawatte; sein- einfarbig-	Seine einfarbige Krawatte			
+1150	8	SUB		16		Rathaus; unser- neu-	Unser neues Rathaus			
+1151	8	SUB		17		Möbel; neu-	neue Möbel			
+1152	8	SUB		17		Gläser; passend-	passende Gläser			
+1153	8	SUB		17		Zigarren; leicht-	leichte Zigarren			
+1154	8	SUB		17		Papierkörbe; gross-	grosse Papierkörbe			
+1155	8	SUB		17		Bilder; gut-	gute Bilder			pl
+1156	8	SUB		17		Koffer; preiswert-	preiswerte Koffer			
+1157	8	SUB		17		Bücher; deutsch-	deutsche Bücher			pl
+1158	8	SUB		18		Anzüge; ein- d- braun-	einen der braunen Anzüge			pl
+1159	8	SUB		18		Krawatten; ein- d- schön-	eine der schönen Krawatten			
+1160	8	SUB		18		Hemden; ein- d- weiss-	eins der weissen Hemden			
+1161	8	SUB		18		Anzüge; ein- d- grau-	einen der grauen Anzüge			pl
+1162	8	SUB		18		Jacken; ein- d- neu-	eine der neuen Jacken			
+1163	8	SUB		18		Bücher; ein- d- deutsch-	eins der deutschen Bücher			n
+1164	8	SUB		18		Stoffe; ein- d- englisch-	einen der englischen Stoffe			
+1165	8	SUB		19		Anzug; Ihr- neu-	Ihrem neuen Anzug			m
+1166	8	SUB		19		Hemd; sein- farbig-	seinem farbigen Hemd			
+1167	8	SUB		19		Anzug; Ihr- braun-	Ihrem braunen Anzug			m
+1168	8	SUB		19		Jacke; mein- grau-	meiner grauen Jacke			
+1169	8	SUB		19		Stoff; dies- einfarbig-	diesem einfarbigen Stoff			
+1170	8	SUB		20		Stoffes; dies- hellgrau-	dieses hellgrauen Stoffes			
+1171	8	SUB		20		Unterwäsche; dies- neu-	dieser neuen Unterwäsche			
+1172	8	SUB		20		Teppichs; dies- einfarbig-	dieses einfarbigen Teppichs			
+1173	8	SUB		20		Socken; dies- grün-	dieser grünen Socken			
+1174	8	SUB		20		Sporthemd; dies- farbig-	dieses farbigen Sporthemdes			
+1175	8	SUB		20		Krawatte; dies- gemustert-	dieser gemusterten Krawatte			
+1176	8	SUB		20		Hemden; dies- deutsch-	dieser deutschen Hemden			
+1177	8	SUB		21		Anzüge; gut-	gute Anzüge			pl
+1178	8	SUB		21		Bücher; deutsch-	deutsche Bücher			pl
+1179	8	SUB		21		Hemden; gestreift-	gestreifte Hemden			
+1180	8	SUB		21		Krawatten; einfarbig-	einfarbige Krawatten			
+1181	8	SUB		21		Briefmarken; alt-	alte Briefmarken			pl
+1182	8	SUB		21		Koffer; leicht-	leichte Koffer			
+1183	8	SUB		21		Wolldecken; weiss-	weisse Wolldecken			
+1184	8	SUB		22		d- neu- Jacke Ihr- Frau	die neue Jacke Ihrer Frau			f
+1185	8	SUB		22		d- alt- Rathaus unser- Stadt	das alte Rathaus unserer Stadt			f
+1186	8	SUB		22		d- grau- Sommeranzug mein- Mannes	der graue Sommeranzug meines Mannes			m
+1187	8	SUB		22		d- auffällig- Krawatte mein- Bruders	die auffällige Krawatte meines Bruders			m
+1188	8	SUB		22		d- neu- Wohnung mein- Eltern	die neue Wohnung meiner Eltern			pl
+1189	8	SUB		22		d- gestreift- Jacke Ihr- Frau	die gestreifte Jacke Ihrer Frau			f
+1190	8	SUB		23		Hemden; weiss-	weisse Hemden			
+1191	8	SUB		23		Socken; gut-	gute Socken			
+1192	8	SUB		23		Zigaretten; englisch-	englische Zigaretten			
+1193	8	SUB		23		Sporthemden; gestreift-	gestreifte Sporthemden			
+1194	8	SUB		23		Wagen; amerikanisch-	amerikanische Wagen			
+1195	8	SUB		23		Möbel; deutsch-	deutsche Möbel			
+1196	8	SUB		24		Wohnungen; all- neu-	Alle neuen Wohnungen			
+1197	8	SUB		24		Stoffe; all- englisch-	Alle englischen Stoffe			
+1198	8	SUB		24		Autos; all- amerikanisch-	Alle amerikanischen Autos			pl
+1199	8	SUB		24		Briefmarken; all- berühmt-	Alle berühmten Briefmarken			pl
+1200	8	SUB		24		Wolldecken; all- gut-	Alle guten Wolldecken			
+1201	8	SUB		25		Geschäfte; gross-	grosse Geschäfte			
+1202	8	SUB		25		Parks; klein-	kleine Parks			
+1203	8	SUB		25		Neubauten; schön-	schöne Neubauten			
+1204	8	SUB		25		Hotels; teur-	teure Hotels			
+1205	8	SUB		25		Strassen; schlecht-	schlechte Strassen			
+1206	8	SUB		25		Schaufenster; gross-	grosse Schaufenster			
+1207	8	SUB		25		Etagenhäuser; neu-	neue Etagenhäuser			
+1208	8	SUB		26		Teppiche; kein- gross-	keine grossen Teppiche			
+1209	8	SUB		26		Kinos; kein- gut-	keine guten Kinos			
+1210	8	SUB		26		Wagen; kein- deutsch-	keine deutschen Wagen			
+1211	8	SUB		26		Schreibmaschinen; kein- amerikanisch-	keine amerikanischen Schreibmaschine			
+1212	8	SUB		26		Krawatten; kein- einfarbig-	keine einfarbigen Krawatten			
+1213	8	SUB		26		Hemden; kein- gestreift-	keine gestreiften Hemden			
+1214	8	SUB		27		Möbeln; all- neu-	allen neuen Möbeln			
+1215	8	SUB		27		Stoffen; all- englisch-	allen englischen Stoffen			
+1216	8	SUB		27		Sporthemden; all- gestreift-	allen gestreiften Sporthemden			
+1217	8	SUB		27		Teppichen; all- gemustert-	allen gemusterten Teppichen			
+1218	8	SUB		27		Krawatten; all- einfarbig-	allen einfarbigen Krawatten			
+1219	8	SUB		28		Diplomaten; amerikanisch-	amerikanischen Diplomaten			
+1220	8	SUB		28		Freunden; englisch-	englischen Freunden			
+1221	8	SUB		28		Herren; alt-	alten Herren			
+1222	8	SUB		28		Bekannten; deutsch-	deutschen Bekannten			
+1223	8	SUB		28		Beamten; französisch-	französischen Beamten			
+1224	8	SUB		29		Deutsche; jung-	junge Deutsche			pl
+1225	8	SUB		29		Beamte; amerikanisch-	amerikanische Beamte			m
+1226	8	SUB		29		Diplomaten; französisch-	französische Diplomaten			
+1227	8	SUB		29		Bremer; nett-	nette Bremer			m
+1228	8	SUB		29		Schriftsteller; deutsch-	deutsche Schriftsteller			
+1229	8	SUB		30		Hemden; einig- weiss-	einige weisse Hemden			
+1230	8	SUB		30		Krawatten; ein paar einfarbig-	ein paar einfarbige Krawatten			
+1231	8	SUB		30		Zeitungen; all- französisch-	alle französischen Zeitungen			
+1232	8	SUB		30		Bilder; dies- klein-	diese kleinen Bilder			pl
+1233	8	SUB		30		Briefmarken; einig- deutsch-	einige deutsche Briefmarken			pl
+1234	8	SUB		30		Wolldecken; ein paar gut-	ein paar gute Wolldecken			
+1235	8	SUB		30		Socken; kein- grün-	keine grünen Socken			
+1236	9	SUB	1	1		Regen; viel-	viel Regen			
+1237	9	SUB	1	1		Schnee; viel-	viel Schnee			
+1238	9	SUB	1	1		Besuch; viel-	viel Besuch			m
+1239	9	SUB	1	1		Gepäck; viel-	viel Gepäck			
+1240	9	SUB	1	1		Zeit; viel-	viel Zeit			
+1241	9	SUB	1	2		Geld; wenig-	wenig Geld			
+1242	9	SUB	1	2		Zeit; wenig-	wenig Zeit			
+1243	9	SUB	1	2		Hunger; wenig-	wenig Hunger			
+1244	9	SUB	1	2		Durst; wenig-	wenig Durst			
+1245	9	SUB	1	2		Gepäck; wenig-	wenig Gepäck			
+1246	9	SUB	1	2		Tabak; wenig-	wenig Tabak			
+1247	9	SUB	1	2		Tinte; wenig-	wenig Tinte			
+1248	9	SUB	1	2		Briefpapier; wenig-	wenig Briefpapier			n
+1249	9	SUB	1	3		Zeit; mehr-	mehr Zeit			
+1250	9	SUB	1	3		Geld; mehr-	mehr Geld			
+1251	9	SUB	1	3		Gepäck; mehr-	mehr Gepäck			
+1252	9	SUB	1	3		Geschirr; mehr-	mehr Geschirr			n
+1253	9	SUB	1	3		Besuch; mehr-	mehr Besuch			m
+1254	9	SUB	1	3		Durst; mehr-	mehr Durst			
+1255	9	SUB	1	3		Hunger; mehr-	mehr Hunger			
+1256	9	SUB	1	4		Bier; wenig-	wenig Bier			n
+1257	9	SUB	1	4		Wasser; wenig	wenig Wasser			
+1258	9	SUB	1	4		Tee; wenig-	wenig Tee			
+1259	9	SUB	1	4		Kaffee; wenig-	wenig Kaffee			
+1260	9	SUB	1	4		Wein; wenig-	wenig Wein			
+1261	9	SUB	1	4		Milch; wenig-	wenig Milch			
+1262	9	SUB	1	5		Gepäck; weniger-	weniger Gepäck			
+1263	9	SUB	1	5		Geld; weniger-	weniger Geld			
+1264	9	SUB	1	5		Zeit; weniger-	weniger Zeit			
+1265	9	SUB	1	5		Besuch; weniger-	weniger Besuch			m
+1266	9	SUB	1	5		Tabak; weniger-	weniger Tabak			
+1267	9	SUB	1	5		Briefpapier; weniger-	weniger Briefpapier			n
+1268	9	SUB	1	7		Bier; viel-	viel Bier			n
+1269	9	SUB	1	7		Wasser; viel-	viel Wasser			
+1270	9	SUB	1	7		Tee; viel-	viel Tee			
+1271	9	SUB	1	7		Kaffee; viel-	viel Kaffee			
+1272	9	SUB	1	7		Wein; viel-	viel Wein			
+1273	9	SUB	1	7		Milch; viel-	viel Milch			
+1274	9	SUB	1	8		Schnee; mehr-	mehr Schnee			
+1275	9	SUB	1	8		Regen; mehr-	mehr Regen			
+1276	9	SUB	1	8		Geschäfte; weniger-	weniger Geschäfte			
+1277	9	SUB	1	8		Parkplätze; mehr-	mehr Parkplätze			
+1278	9	SUB	1	8		Cafés; weniger-	weniger Cafés			pl
+1279	9	SUB	1	8		Taxen; mehr	mehr Taxen			
+1280	9	SUB	1	8		Gewitter; weniger-	weniger Gewitter			
+1281	9	SUB	1	9		heiss-	heiss			
+1282	9	SUB	1	9		kalt-	kalt			
+1283	9	SUB	1	9		feucht-	feucht			
+1284	9	SUB	1	9		warm-	warm			
+1285	9	SUB	1	9		kühl-	kühl			
+1286	9	SUB	1	9		schön-	schön			
+1287	9	SUB	1	9		ruhig-	ruhig			
+1288	9	SUB	1	10		meine Eltern	Meine Eltern	werden		
+1289	9	SUB	1	10		ich	Ich	werde		
+1290	9	SUB	1	10		sie (sg)	Sie	wird		
+1291	9	SUB	1	10		sein Bruder	Sein Bruder	wird		
+1292	9	SUB	1	10		Herr und Frau Wilson	Herr und Frau Wilson	werden		
+1293	9	SUB	1	10		ihre Schwester	Ihre Schwester	wird		
+1294	9	SUB	1	11		er	Er	will	seine	
+1295	9	SUB	1	11		sie (sg)	Sie	will	ihre	
+1296	9	SUB	1	11		Sie	Sie	wollen	Ihre	
+1297	9	SUB	1	11		meine Schwester	Meine Schwester	will	ihre	
+1298	9	SUB	1	11		Ihre Frau	Ihre Frau	will	ihre	
+1299	9	SUB	1	12		sie (pl)	Sie	ihre		pl
+1300	9	SUB	1	12		meine Brüder	Meine Bruder	ihre		pl
+1301	9	SUB	1	12		Herr Becker und Herr Wilson	Herr Becker und Herr Wilson	ihre		pl
+1302	9	SUB	1	12		die Damen	Die Damen	ihre		pl
+1303	9	SUB	1	13		mir	Mir			
+1304	9	SUB	1	13		ihm	Ihm			
+1305	9	SUB	1	13		ihr	Ihr			
+1306	9	SUB	1	13		uns	Uns			
+1307	9	SUB	1	13		ihnen	Ihnen			
+1308	9	SUB	1	13		meiner Frau	Meiner Frau			
+1309	9	SUB	1	13		Ihrer Mutter	Ihrer Mutter			
+1310	9	SUB	1	13		unseren Eltern	Unseren Eltern			
+1311	9	SUB	1	14		Ihnen				
+1312	9	SUB	1	14		Ihrer Tochter				
+1313	9	SUB	1	14		ihnen				
+1314	9	SUB	1	14		ihm				
+1315	9	SUB	1	14		seinen Eltern				
+1316	9	SUB	1	15		Alpen; d-	die Alpen			pl
+1317	9	SUB	1	15		Berge; d-	die Berge			pl
+1318	9	SUB	1	15		Gebirge; d-	die Gebirge			
+1319	9	SUB	1	15		Besuch; d-	den Besuch			m
+1320	9	SUB	1	15		Sommer; d-	den Sommer			
+1321	9	SUB	1	15		Frühling; d-	den Frühling			
+1322	9	SUB	1	15		Mai	Mai			
+1323	9	SUB	1	15		Brief; d-	den Brief			m
+1324	9	SUB	1	15		Reise; d-	die Reise			
+1325	9	SUB	1	16		Radio; d-	das Radio			
+1326	9	SUB	1	16		Heizung; d-	die Heizung			
+1327	9	SUB	1	16		Elektroherd; d-	den Elektroherd			
+1328	9	SUB	1	16		Gasherd; d-	den Gasherd			
+1329	9	SUB	2	1		schnell- (comp.)	schneller			
+1330	9	SUB	2	1		langsam- (comp.)	langsamer			
+1331	9	SUB	2	1		gut- (comp.)	besser			
+1332	9	SUB	2	1		ruhig- (comp.)	ruhiger			
+1333	9	SUB	2	1		weit- (comp.)	weiter			
+1334	9	SUB	2	1		schlecht- (comp.)	schlechter			
+1335	9	SUB	2	2		gross- (sup.)	am grössten			z
+1336	9	SUB	2	2		klein- (sup.)	am kleinsten			z
+1337	9	SUB	2	2		schön- (sup.)	am schönsten			z
+1338	9	SUB	2	2		alt- (sup.)	am ältesten			z
+1339	9	SUB	2	2		gemütlich- (sup.)	am gemütlichsten			z
+1340	9	SUB	2	2		neu- (sup.)	am neusten			z
+1341	9	SUB	2	2		billig- (sup.)	am billigsten			z
+1342	9	SUB	2	2		hoch- (sup.)	am höchsten			z
+1343	9	SUB	2	3		schön- (sup.)	die schönste			
+1344	9	SUB	2	3		lang- (sup.)	die längste			
+1345	9	SUB	2	3		kurz- (sup.)	die kürzeste			
+1346	9	SUB	2	3		warm- (sup.)	die wärmste			
+1347	9	SUB	2	3		kalt- (sup.)	die kälteste			
+1348	9	SUB	2	3		kühl- (sup.)	die kühlste			
+1349	9	SUB	2	4		heiss- (comp.)	heisser			
+1350	9	SUB	2	4		kalt- (comp.)	kälter			
+1351	9	SUB	2	4		feucht- (comp.)	feuchter			
+1352	9	SUB	2	4		warm- (comp.)	wärmer			
+1353	9	SUB	2	4		kühl- (comp.)	kühler			
+1354	9	SUB	2	4		schön- (comp.)	schöner			
+1355	9	SUB	2	4		ruhig- (comp.)	ruhiger			
+1356	9	SUB	2	5		schön- (sup.)	am schönsten			
+1357	9	SUB	2	5		warm- (sup.)	am wärmsten			
+1358	9	SUB	2	5		kalt- (sup.)	am kältesten			
+1359	9	SUB	2	5		heiss- (sup.)	am heissesten			
+1360	9	SUB	2	5		kühl- (sup.)	am kühlsten			
+1361	9	SUB	2	5		ruhig- (sup.)	am ruhigsten			
+1362	9	SUB	2	5		preiswert- (sup.)	am preiswertesten			
+1363	9	SUB	2	6		Anzug; teuer- (sup.)	den teuersten Anzug			m
+1364	9	SUB	2	6		Mantel; gut- (sup.)	den besten Mantel			
+1365	9	SUB	2	6		Krawatte; schön- (sup.)	die schönste Krawatte			
+1366	9	SUB	2	6		Roman; kurz- (sup.)	den kürzesten Roman			
+1367	9	SUB	2	6		Hemd; billig- (sup.)	das billigste Hemd			
+1368	9	SUB	2	6		Jacke; warm- (sup.)	die wärmste Jacke			
+1369	9	SUB	2	6		Briefpapier-; gut- (sup.)	das beste Briefpapier			n
+1370	9	SUB	2	6		Lampe; schön- (sup.)	die schönste Lampe			
+1371	9	SUB	2	6		Teppich; gross- (sup.)	den grössten Teppich			
+1372	9	SUB	2	7		gross-; mein-	grösser	meins		
+1373	9	SUB	2	7		schön-; unser-	schöner	unseres		
+1374	9	SUB	2	7		klein-; sein-	kleiner	seins		
+1375	9	SUB	2	7		alt-; ihr	älter	ihrs		
+1376	9	SUB	2	7		neu-; mein-	neuer	meins		
+1377	9	SUB	2	7		gemütlich-; unser-	gemütlicher	unseres		
+1378	9	SUB	2	8		billig- (sup.)	billigster			
+1379	9	SUB	2	8		gut- (sup.)	bester			
+1380	9	SUB	2	8		leicht- (sup.)	leichtester			
+1381	9	SUB	2	8		gross- (sup.)	grösster			
+1382	9	SUB	2	8		teuer- (sup.)	teuerster			
+1383	9	SUB	2	8		klein- (sup.)	kleinster			
+1384	9	SUB	2	9		gross- (comp.)	grösseres			
+1385	9	SUB	2	9		schön- (comp.)	schöneres			
+1386	9	SUB	2	9		klein- (comp.)	kleineres			
+1387	9	SUB	2	9		gemütlich- (comp.)	gemütlicheres			
+1388	9	SUB	2	9		ruhig- (comp.)	ruhigeres			
+1389	9	SUB	2	9		nett- (comp.)	netteres			
+1390	9	SUB	2	9		gut- (comp.)	besseres			
+1391	9	SUB	2	10		gross- (sup.)	dem grössten			
+1392	9	SUB	2	10		alt- (sup.)	dem ältesten			
+1393	9	SUB	2	10		schön- (sup.)	dem schönsten			
+1394	9	SUB	2	10		gut- (sup.)	dem besten			
+1395	9	SUB	2	10		neu- (sup.)	dem neusten			
+1396	9	SUB	2	10		teuer- (sup.)	dem teuersten			
+1397	9	SUB	2	11		unser- schön (sup.)	unsere schönsten			
+1398	9	SUB	2	11		unser- preiswert (sup.)	unsere preiswertesten			
+1399	9	SUB	2	11		unser- gut (sup.)	unsere besten			
+1400	9	SUB	2	11		unser- einfach (sup.)	unsere einfachsten			
+1401	9	SUB	2	11		unser- teuer (sup.)	unsere teuersten			
+1402	9	SUB	2	11		unser- neu (sup.)	unsere neusten			
+1403	9	SUB	2	11		unser- billig (sup.)	unsere billigsten			
+1404	9	SUB	2	12		ein- gross- (comp.)	eine grössere			
+1405	9	SUB	2	12		ein- billig- (comp.)	eine billigere			
+1406	9	SUB	2	12		ein- klein- (comp.)	eine kleinere			
+1407	9	SUB	2	12		ein- schön- (comp.)	eine schönere			
+1408	9	SUB	2	12		ein- gut- (comp.)	eine bessere			
+1409	9	SUB	2	12		ein- einfach- (comp.)	eine einfachere			
+1410	9	SUB	2	12		ein- nett- (comp.)	eine nettere			
+1411	9	SUB	2	13		klein- (sup.)	kleinstes			
+1412	9	SUB	2	13		neu- (sup.)	neustes			
+1413	9	SUB	2	13		gut- (sup.)	bestes			
+1414	9	SUB	2	13		teuer- (sup.)	teuerstes			
+1415	9	SUB	2	13		preiswert- (sup.)	preiswertestes			
+1416	9	SUB	2	13		billig- (sup.)	billigstes			
+1417	9	SUB	2	13		gross- (sup.)	grösstes			
+1418	9	SUB	2	13		leicht- (sup.)	leichtestes			
+1419	9	SUB	2	14		d- schön (sup.)	die schönsten			
+1420	9	SUB	2	14		d- heiss- (sup.)	die heissesten			
+1421	9	SUB	2	14		d- kurz- (sup.)	die kürzesten			
+1422	9	SUB	2	14		d- kalt- (sup.)	die kältesten			
+1423	9	SUB	2	14		d- feucht- (sup.)	die feuchtesten			
+1424	9	SUB	2	14		d- kühl- (sup.)	die kühlsten			
+1425	9	SUB	2	14		d- lang- (sup.)	die längsten			
+1426	9	SUB	2	14		d- warm- (sup.)	die wärmsten			
+1427	9	SUB	2	14		d- ruhig- (sup.)	die ruhigsten			
+1428	9	SUB	2	15		Zimmer; d- klein- (comp.)	das kleinere Zimmer			
+1429	9	SUB	2	15		Wagen; d- preiswert- (comp.)	den preiswerteren Wagen			
+1430	9	SUB	2	15		Wolldecke; d- dick- (comp.)	die dickere Wolldecke			
+1431	9	SUB	2	15		Wein; d- alt- (comp.)	den älteren Wein			
+1432	9	SUB	2	15		Aktentasche; d- gut- (comp.)	die bessere Aktentasche			f
+1433	9	SUB	2	15		Hemd; d- gross- (comp.)	das grössere Hemd			
+1434	9	SUB	2	15		Briefpapier; d- gut- (comp.)	das bessere Briefpapier			n
+1435	9	SUB	2	16		Buch; d- neu- (sup.)	das neuste Buch			m
+1436	9	SUB	2	16		Roman; d- berühmt- (sup.)	den berühmtesten Roman			
+1437	9	SUB	2	16		Tochter; d- klein- (sup.)	die kleinste Tochter			
+1438	9	SUB	2	16		Schwester; d- alt- (sup.)	die älteste Schwester			
+1439	9	SUB	2	16		Geschäft; d- gross- (sup.)	das grösste Geschäft			
+1440	9	SUB	2	16		Kollege; d- neu- (sup.)	den neusten Kollegen			
+1441	9	SUB	2	17		Stadt; d- alt- (sup.)	der ältesten Stadt			
+1442	9	SUB	2	17		Museum; d- berühmt- (sup.)	des berühmtesten Museums			
+1443	9	SUB	2	17		Universität; d- schön- (sup.)	der schönsten Universität			
+1444	9	SUB	2	17		Dom; d- hoch- (sup.)	des höchsten Doms			
+1445	9	SUB	2	17		Auto; d- neu- (sup.)	des neusten Autos			n
+1446	9	SUB	2	17		Rathaus; d- alt- (sup.)	des ältesten Rathauses			
+1447	9	SUB	2	18		Bibliothek; ein- schön (comp.)	einer schöneren Bibliothek			f
+1448	9	SUB	2	18		Neubau; ein- gross- (comp.)	einem grösseren Neubau			
+1449	9	SUB	2	18		Hotel; ein- klein- (comp.)	einem kleineren Hotel			
+1450	9	SUB	2	18		Theater; ein- gut- (comp.)	einem besseren Theater			
+1451	9	SUB	2	18		Geschäft; ein- alt- (comp.)	einem älteren Geschäft			
+1452	9	SUB	2	18		Bank; ein- neu- (comp.)	einer neueren Bank			f
+1453	9	SUB	2	18		Büro; ein- klein- (comp.)	einem kleineren Büro			n
+1454	9	SUB	2	18		Abteilung; ein- wichtig- (comp.)	einer wichtigeren Abteilung			f
+1455	9	SUB	2	19		Tisch; d- gross- (sup.)	der grösste Tisch			
+1456	9	SUB	2	19		Wein; d- preiswert- (sup.)	der preiswerteste Wein			
+1457	9	SUB	2	19		Aktentasche; d- teuer- (sup.)	die teuerste Aktentasche			f
+1458	9	SUB	2	19		Briefpapier; d- gut- (sup.)	das beste Briefpapier			n
+1459	9	SUB	2	20		Restaurants; gut- (comp.)	bessere Restaurants			
+1460	9	SUB	2	20		Parks; schön- (comp.)	schönere Parks			
+1461	9	SUB	2	20		Häuser; alt- (comp.)	ältere Häuser			
+1462	9	SUB	2	20		Hotels; preiswert- (comp.)	preiswertere Hotels			
+1463	9	SUB	2	20		Geschäfte; klein- (comp.)	kleinere Geschäfte			
+1464	9	SUB	2	20		Etagenhäuser; gross- (comp.)	grössere Etagenhäuser			
+1465	9	SUB	2	21		Restaurant; ein- gut- (comp.)	ein besseres Restaurant			
+1466	9	SUB	2	21		Bibliothek; ein- alt- (comp.)	eine ältere Bibliothek			f
+1467	9	SUB	2	21		Café; ein- nett- (comp.)	ein netteres Café			n
+1468	9	SUB	2	21		Bank; ein- gross- (comp.)	eine grössere Bank			f
+1469	9	SUB	2	21		Geschäft; ein- preiswert- (comp.)	ein preiswerteres Geschäft			
+1470	9	SUB	2	21		Neubau; ein- klein- (comp.)	einen kleineren Neubau			
+1471	9	CONV		1		Negative comparisons (not as X as)	nicht so windig wie			
+1472	9	CONV		2		Negative comparisons (not as X as)	nicht so kühl wie			
+1473	9	CONV		3		Negative comparisons (not as X as)	nicht so heiss wie			
+1474	9	CONV		4		Negative comparisons (not as X as)	nicht so gut wie			
+1475	9	CONV		5		Negative comparisons (not as X as)	nicht so wenig	wie		
+1476	9	CONV		6		Negative comparisons (not as X as)	nicht so gut wie			
+1477	9	CONV		7		Negative comparisons (not as X as)	nicht so gross wie			
+1478	9	CONV		8		Negative comparisons (not as X as)	nicht so gut wie			
+1479	9	CONV		9		Negative comparisons (not as X as)	nicht so interessant wie			
+1480	9	CONV		10		Negative comparisons (not as X as)	nicht so dringend und wichtig wie			
+1481	9	CONV		11		Negative comparisons (not as X as)	nicht so leicht wie			
+1482	9	CONV		12		Negative comparisons (not as X as)	nicht so gern	wie		
+1483	9	CONV		13		Negative comparisons (not as X as)	nicht so viel	wie		
+1484	9	CONV		14		Negative comparisons (not as X as)	nicht so gemütlich wie			
+1485	9	CONV		15		Negative comparisons (not as X as)	nicht so hoch wie			
+1486	9	CONV		16		Negative comparisons (not as X as)	nicht so oft wie			
+1487	9	CONV		17		Negative comparisons (not as X as)	nicht so viele	wie		
+3101	10	SUB	1	1		when	wann			
+3102	10	SUB	1	1		whether	ob			
+3103	10	SUB	1	1		why	warum			
+3104	10	SUB	1	1		with whom	mit wem			
+3105	10	SUB	1	1		at what hour	um wieviel Uhr			
+3106	10	SUB	1	2		that	dass			
+3107	10	SUB	1	2		when	wann			
+3108	10	SUB	1	2		whether	ob			
+3109	10	SUB	1	2		with whom	mit wem			
+3110	10	SUB	1	2		why	warum			
+3111	10	SUB	1	3		1 week	einer Woche			
+3112	10	SUB	1	3		6 months	sechs Monaten			
+3113	10	SUB	1	3		3 days	drei Tagen			
+3114	10	SUB	1	3		half a year	einem halben Jahr			
+3115	10	SUB	1	3		1 hour	einer Stunde			
+3116	10	SUB	1	3		2 weeks	zwei Wochen			
+3117	10	SUB	1	3		half an hour	einer halben Stunde			
+3118	10	SUB	1	4		evenings	abends			
+3119	10	SUB	1	4		afternoons (nachmittag)	nachmittags			
+3120	10	SUB	1	4		mornings	morgens			
+3121	10	SUB	1	4		afternoons (mittag)	mittags			
+3122	10	SUB	1	5		a cup of coffee	eine Tasse Kaffee			
+3123	10	SUB	1	5		a piece of cake	ein Stück Kuchen			
+3124	10	SUB	1	5		a glass of apple juice	ein Glas Apfelsaft			
+3125	10	SUB	1	5		a cup of tea	eine Tasse Tee			
+3126	10	SUB	1	5		a glass of Moselwein	ein Glas Moselwein			
+3127	10	SUB	1	5		a glass of beer	ein Glas Bier			
+3128	10	SUB	1	5		a cup of milk	eine Tasse Milch			
+3129	10	SUB	1	6		sein- Beruf	seinem Beruf			
+3130	10	SUB	1	6		Ihr- Arbeit	Ihrer Arbeit			
+3131	10	SUB	1	6		d- Wetter	dem Wetter			
+3132	10	SUB	1	6		d- Grösse d- Wagens	der Grösse des Wagens			
+3133	10	SUB	1	6		mein- Frau	meiner Frau			
+3134	10	SUB	1	6		d- Reise mein- Kollegen (sg)	der Reise meines Kollegen			
+3135	10	SUB	1	6		d- Besuch sein- Eltern	dem Besuch seiner Eltern			
+3136	10	SUB	1	7		lives in Munich	in München wohnt			
+3137	10	SUB	1	7		has two children	zwei Kinder hat			
+3138	10	SUB	1	7		speaks German well	gut deutsch spricht			
+3139	10	SUB	1	7		works in the consulate	im Konsulat arbeitet			
+3140	10	SUB	1	7		drives to Germany	nach Deutschland fährt			
+3141	10	SUB	1	7		comes by Omnibus	mit dem Omnibus kommt			
+3142	10	SUB	1	8		comes home	nach Hause kommt			
+3143	10	SUB	1	8		drives to Berlin	nach Berlin fährt			
+3144	10	SUB	1	8		eats lunch	zu Mittag isst			
+3145	10	SUB	1	8		writes his letters	seine Briefe schreibt			
+3146	10	SUB	1	8		goes to the cinema	ins Kino geht			
+3147	10	SUB	1	8		takes a walk	einen Spaziergang macht			
+3148	10	SUB	1	9		can speak German	deutsch sprechen kann			
+3149	10	SUB	1	9		wants to write letters	Briefe schreiben will			
+3150	10	SUB	1	9		would like to buy the suit	den Anzug kaufen möchte			
+3151	10	SUB	1	9		must work so much	soviel arbeiten muss			
+3152	10	SUB	1	9		will come not later than one	schon um eins kommen wird			
+3153	10	SUB	1	9		can soon drive to Germany	bald nach Deutschland fahren kann			
+3154	10	SUB	1	10		she is arriving today or tomorrow	sie heute oder morgen ankommt			
+3155	10	SUB	1	10		he is departing at 4 or 6 o'clock	er um sechs oder um vier Uhr abfährt			
+3156	10	SUB	1	10		it is located in the park or Kurhaus	es im Park oder im Kurhaus stattfindet			
+3157	10	SUB	1	10		she is calling sooner or later	sie bald oder später anruft			
+3158	10	SUB	1	10		we are moving in on the first or the third	wir am ersten oder am dritten einziehen			
+3159	10	SUB	1	10		he is picking him up now or later	er ihn gleich oder nachher abholt			
+1488	10	SUB	2	1		18. Mai	der achtzehnte Mai			
+1489	10	SUB	2	1		22. Juni	der zweiundzwanzigste Juni			
+1490	10	SUB	2	1		3. April	der dritte April			
+1491	10	SUB	2	1		1. Januar	der erste Januar			
+1492	10	SUB	2	1		2. September	der zweite September			
+1493	10	SUB	2	1		5. August	der fünfte August			
+1494	10	SUB	2	1		19. Dezember	der neunzehnte Dezember			
+1495	10	SUB	2	2		20. April	am zwanzigsten April			
+1496	10	SUB	2	2		16. Mai	am sechzehnten Mai			
+1497	10	SUB	2	2		4. Juli	am vierten Juli			
+1498	10	SUB	2	2		12. September	am zwölften September			
+1499	10	SUB	2	2		23. Oktober	am dreiundzwanzigsten Oktober			
+1500	10	SUB	2	2		6. Juni	am sechsten Juni			
+1501	10	SUB	2	2		31. Dezember	am einunddreissigsten Dezember			
+1502	10	SUB	2	3		2. Mai	den zweiten Mai			
+1503	10	SUB	2	3		22. Februar	den zweiundzwanzigsten Februar			
+1504	10	SUB	2	3		10. März	den zehnten März			
+1505	10	SUB	2	3		6. April	den sechsten April			
+1506	10	SUB	2	3		13. Mai	den dreizehnten Mai			
+1507	10	SUB	2	3		26. Juni	den sechsundzwanzigsten Juni			
+1508	10	SUB	2	3		7. Juli	den siebten (siebenten) Juli			
+1509	10	SUB	2	3		19. August	den neunzehnten August			
+1510	10	SUB	2	3		11. Oktober	den elften Oktober			
+1511	10	SUB	2	3		10. November	den zehnten November			
+1512	10	SUB	2	4		23. Mai	Der dreiundzwanzigste Mai			
+1513	10	SUB	2	4		1. Dezember	Der erste Dezember			
+1514	10	SUB	2	4		14. September	Der vierzehnte September			
+1515	10	SUB	2	4		2. Januar	Der zweite Januar			
+1516	10	SUB	2	4		8. August	Der achte August			
+1517	10	SUB	2	4		15. Juni	Der fünfzehnte Juni			
+1518	10	SUB	2	4		28. Mai	Der achtundzwanzigste Mai			
+1519	10	SUB	2	4		10. Januar	Der zehnte Januar			
+1520	10	SUB	2	5		6. Juni	Am sechsten Juni			
+1521	10	SUB	2	5		17. April	Am siebzehnten April			
+1522	10	SUB	2	5		3. Februar	Am dritten Februar			
+1523	10	SUB	2	5		9. Dezember	Am neunten Dezember			
+1524	10	SUB	2	5		30. August	Am dreissigsten August			
+1525	10	SUB	2	5		27. März	Am siebenundzwanzigsten März			
+1526	10	SUB	2	5		3. November	Am dritten November			
+1527	10	SUB	2	6		8:15	acht Uhr fünfzehn			
+1528	10	SUB	2	6		8:45	acht Uhr fünfundvierzig			
+1529	10	SUB	2	6		7:30	sieben Uhr dreissig			
+1530	10	SUB	2	6		6:20	sechs Uhr zwanzig			
+1531	10	SUB	2	6		5:15	fünf Uhr fünfzehn			
+1532	10	SUB	2	6		9:00	neun Uhr			
+1533	10	SUB	2	6		4:10	vier Uhr zehn			
+1534	10	SUB	2	7		12:30	halb eins			
+1535	10	SUB	2	7		12:00	zwölf			
+1536	10	SUB	2	7		6:30	halb sieben			
+1537	10	SUB	2	7		12:15	viertel eins			
+1538	10	SUB	2	7		7:45	dreiviertel acht			
+1539	10	SUB	2	7		6:00	sechs			
+1540	10	SUB	2	7		1:30	halb zwei			
+1541	10	SUB	2	8		6:45	viertel vor sieben			
+1542	10	SUB	2	8		6:10	zehn nach sechs			
+1543	10	SUB	2	8		2:45	viertel vor drei			
+1544	10	SUB	2	8		11:05	fünf nach elf			
+1545	10	SUB	2	8		3:40	zwanzig vor vier			
+1546	10	SUB	2	8		5:15	viertel nach fünf			
+1547	10	SUB	2	8		9:55	fünf vor zehn			
+1548	10	CONV	1	1		Change the order of elements by beginning each sentence with the underlined word(s).	Nächsten Monat fahren wir in die Berge.			z
+1549	10	CONV	1	2		Change the order of elements by beginning each sentence with the underlined word(s).	Heute scheint die Sonne sehr schön.			z
+1550	10	CONV	1	3		Change the order of elements by beginning each sentence with the underlined word(s).	Was wir machen sollen, weiss ich nicht.			z
+1551	10	CONV	1	4		Change the order of elements by beginning each sentence with the underlined word(s).	Wenn mein Mann nach Hause kommt, gehen wir zusammen einkaufen.			z
+1552	10	CONV	1	5		Change the order of elements by beginning each sentence with the underlined word(s).	Am Sonntag kommen wir zu Ihnen, wenn wir Zeit haben.			z
+1553	10	CONV	1	6		Change the order of elements by beginning each sentence with the underlined word(s).	Seine Frau werden wir leider nicht mehr sehen können.			z
+1554	10	CONV	1	7		Change the order of elements by beginning each sentence with the underlined word(s).	Da ich mittags nach Hause gehe, essen wir gewöhnlich um eins.			z
+1555	10	CONV	1	8		Change the order of elements by beginning each sentence with the underlined word(s).	Meistens, wenn ich ins Restaurant gehe, bestelle ich Rumpsteak mit Röstkartoffeln.			z
+1556	10	CONV	1	9		Change the order of elements by beginning each sentence with the underlined word(s).	Um diese Zeit essen wir immer.			z
+1557	10	CONV	1	10		Change the order of elements by beginning each sentence with the underlined word(s).	Ihn kennen wir nicht, aber sie.			z
+1558	10	CONV	1	11		Change the order of elements by beginning each sentence with the underlined word(s).	Das Geld für eine grosse Reise habe ich nicht.			z
+1559	10	CONV	2	1		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Mein Kollege hat ein neues Auto und wir fahren öfters zusammen in die Berge.			z
+1560	10	CONV	2	2		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Ich möchte ihn sehr gern besuchen, aber er wohnt zu weit von hier.			z
+1561	10	CONV	2	3		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Ich möchte die Lampe kaufen, aber ich habe kein Geld.			z
+1562	10	CONV	2	4		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Sie können eine Taxe nehmen, oder Sie können mit Ihrem Wagen fahren.			z
+1563	10	CONV	2	5		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Nehmen Sie Rumpsteak oder essen Sie lieber Kalbsleber?			z
+1564	10	CONV	2	6		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Der Vizekonsul gibt ihr ein Formular und sie füllt es aus.			z
+1565	10	CONV	2	7		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Meine Frau hat Appetit auf Bratwurst mit Sauerkraut, aber ich esse lieber Forelle blau.			z
+1566	10	CONV	2	8		Combine the following pair of sentences into a larger sentence using <u>und</u>, <u>aber</u>, or <u>oder</u>.	Herr Becker nimmt den Hörer ab und die Sekretärin meldet sich.			z
+1567	10	CONV	3	1		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, wann Herr Becker einzieht.			z
+1568	10	CONV	3	2		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, wann Herr Becker ankommt.			z
+1569	10	CONV	3	3		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, wen Herr Becker anruft.			z
+1570	10	CONV	3	4		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, wieviel Herr Becker ausgibt.			z
+1571	10	CONV	3	5		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, warum Herr Becker abfährt.			z
+1572	10	CONV	3	6		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, was Herr Becker gerade ausfüllt.			z
+1573	10	CONV	3	7		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, wen Herr Becker abholt.			z
+1574	10	CONV	3	8		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, was Herr Becker einpackt.			z
+1575	10	CONV	3	9		Change the questions to clauses in the sentence beginning: <u>Ich kann Ihnen nicht sagen</u>	Ich kann Ihnen nicht sagen, mit wem Herr Becker die Herren bekannt macht.			z
+1576	10	CONV	4	1		Change the questions to clauses in the sentence beginning: <u>Ich weiss nicht</u>	Ich weiss nicht, bei wem Herr Meyer klingelt.			z
+1577	10	CONV	4	2		Change the questions to clauses in the sentence beginning: <u>Ich weiss nicht</u>	Ich weiss nicht, mit wem Herr Meyer spricht.			z
+1578	10	CONV	4	3		Change the questions to clauses in the sentence beginning: <u>Ich weiss nicht</u>	Ich weiss nicht, auf was Herr Meyer sich freut.			z
+1579	10	CONV	4	4		Change the questions to clauses in the sentence beginning: <u>Ich weiss nicht</u>	Ich weiss nicht, an wen Herr Meyer schreibt.			z
+1580	10	CONV	4	5		Change the questions to clauses in the sentence beginning: <u>Ich weiss nicht</u>	Ich weiss nicht, zu wem Herr Meyer geht.			z
+1581	10	CONV	4	6		Change the questions to clauses in the sentence beginning: <u>Ich weiss nicht</u>	Ich weiss nicht, mit wem Herr Meyer spricht.			z
+1582	10	CONV	4	7		Change the questions to clauses in the sentence beginning: <u>Ich weiss nicht</u>	Ich weiss nicht, neben wem Herr Meyer wohnt.			z
+3087	11	SUB		1		this morning	heute morgen			
+3088	11	SUB		1		this evening	heute abend			
+3089	11	SUB		1		this afternoon (nachmittag)	heute nachmittag			
+3090	11	SUB		1		this afternoon (mittag)	heute mittag			
+2414	11	SUB		2		d- Autobus	den Autobus			
+2415	11	SUB		2		d- Strassenbahn	die Strassenbahn			
+2416	11	SUB		2		d- englisch- Konsul	den englischen Konsul			
+2417	11	SUB		2		Herr Schneider	Herrn Schneider			
+2418	11	SUB		2		d- Beamten	den Beamten			
+2419	11	SUB		2		d- französischen Diplomaten	die französischen Diplomaten			
+2420	11	SUB		2		Frau Kunze	Frau Kunze			
+2421	11	SUB		2		d- Polizisten	den Polizisten			
+2422	11	SUB		2		Ihr- Bruder	Ihren Bruder			
+2423	11	SUB		2		sein- Freund	seinen Freund			
+2424	11	SUB		2		Ihr- Tante	Ihre Tante			
+2671	11	SUB		3		d- Schuhe besohlen	die Schuhe besohlen			
+2425	11	SUB		3		d- Wagen waschen	den Wagen waschen			
+2426	11	SUB		3		d- Anzug reinigen	den Anzug reinigen			
+2427	11	SUB		3		d- Formulare ausfüllen	die Formulare ausfüllen			
+2428	11	SUB		3		d- Kisten heraufbringen	die Kisten heraufbringen			
+2429	11	SUB		3		d- Oberhemden waschen	die Oberhemden waschen			
+2430	11	SUB		3		d- Briefe schreiben	die Briefe schreiben			
+2431	11	SUB		3		d- Artikel übersetzen	den Artikel übersetzen			
+2432	11	SUB		4		dein- grau- Anzug	deinen grauen Anzug			
+2433	11	SUB		4		mein- braun- Jacke	meine braune Jacke			
+2434	11	SUB		4		sein- hellgrau- Pullover	seinen hellgrauen Pullover			
+2435	11	SUB		4		unser- weiss- Wolldecken	unsere weissen Wolldecken			
+2436	11	SUB		4		dein- gemustert- Krawatte	deine gemusterte Krawatte			
+3333	11	SUB		5		d- blau- Anzug	den blauen Anzug			
+2437	11	SUB		5		dein- schwarz- Schuhe	deine schwarzen Schuhe			
+2438	11	SUB		5		dein- weiss- Oberhemd	dein weisses Oberhemd			
+2439	11	SUB		5		d- lang- Artikel	den langen Artikel			
+2440	11	SUB		5		d- neu- Zeitung	die neue Zeitung			
+2441	11	SUB		5		d- sauber- Wäsche	die saubere Wäsche			
+2442	11	SUB		5		dein- warm- Pullover	deinen warmen Pullover			
+2443	11	SUB		5		d- alt- Mantel	den alten Mantel			
+2444	11	SUB		5		dein- kurz- Jacke	deine kurze Jacke			
+2445	11	SUB		6		nicht zu spät kommen	nicht zu spät kommst			
+2446	11	SUB		6		nicht den Omnibus verpassen	nicht den Omnibus verpasst			
+2447	11	SUB		6		noch zum Zahnarzt kommen	noch zum Zahnarzt kommst			
+2448	11	SUB		6		noch mitfahren können	noch mitfahren kannst			
+2449	11	SUB		6		nicht das Konzert verpassen	nicht das Konzert verpasst			
+2450	11	SUB		7		d- Schuhe abholen	die Schuhe abholen			
+2451	11	SUB		7		zu d- Frisör gehen	zum Frisör gehen			
+2452	11	SUB		7		d- Wäsche abholen	die Wäsche abholen			
+2453	11	SUB		7		d- Reinigung bezahlen	die Reinigung bezahlen			
+2454	11	SUB		7		zu d- Apotheke fahren	zur Apotheke fahren			
+2455	11	SUB		7		d- Bücher kaufen	die Bücher kaufen			
+2456	11	SUB		8		d- Vortrag von Professor Albers	den Vortrag von Professor Albers			
+2457	11	SUB		8		d- Besprechung in d- Handelskammer	die Besprechung in der Handelskammer			
+2458	11	SUB		8		d- Artikel in dies- Zeitung	den Artikel in dieser Zeitung			
+2459	11	SUB		8		d- Schulausflug d- Kinder	den Schulausflug der Kinder			
+2460	11	SUB		8		d- Unterlagen für d- Konferenz	die Unterlagen für die Konferenz			
+2461	11	SUB		8		d- neu- Zollbestimunngen	die neuen Zollbestimmungen			
+2462	11	SUB		8		unser- Fahrt nach Deutschland	unsere Fahrt nach Deutschland			
+2463	11	SUB		9		du	dir			
+2464	11	SUB		9		ihr	euch			
+2465	11	SUB		9		sie (pl)	ihnen			
+2466	11	SUB		9		er	ihm			
+2467	11	SUB		9		sie (sg)	ihr			
+2468	11	SUB		9		Sie	Ihnen			
+3091	11	SUB		10		are not withdrawing (the) money	hebst das Geld nicht ab			
+3092	11	SUB		10		try on the jacket first	probierst die Jacke zuerst an			
+3093	11	SUB		10		call up Herr Jones soon	rufst Herrn Jones bald an			
+3094	11	SUB		10		fill the form out now	füllst das Formular jetzt aus			
+3095	11	SUB		10		do not pack up the box	packst die Kisten nicht aus			
+3096	11	SUB		10		tell him that	richtest ihm das aus			
+3097	11	SUB		10		drive to Munich (with)	fährst nach München mit			
+3098	11	SUB		10		come by this evening	kommst heute abend vorbei			
+3099	11	SUB		10		come back soon	kommst bald zurück			
+3100	11	SUB		10		are taking care of the luggage	kümmerst dich um das Gepäck			
+3334	11	SUB		10		take the suitcase (with)	nimmst den Koffer mit			
+2469	11	SUB		11		ich	mich			
+2470	11	SUB		11		du	dich			
+2471	11	SUB		11		er	ihn			
+2472	11	SUB		11		Sie	Sie			
+2473	11	SUB		11		ihr	euch			
+2474	11	SUB		11		wir	uns			
+2475	11	SUB		11		dein- Eltern	deine Eltern			
+2476	11	SUB		11		eur- Freunde	eure Freunde			
+2477	11	SUB		11		Ihr- Tante	Ihre Tante			
+2478	11	SUB		11		d- Konsul	den Konsul			
+2479	11	SUB		11		d- Damen	die Damen			
+2480	11	SUB		11		Herr Becker	Herrn Becker			
+2481	11	SUB		12		Herr Dr. Bergmann	Herrn Dr. Bergmann			
+2482	11	SUB		12		Herr Professor Albers	Herrn Professor Albers			
+2483	11	SUB		12		Herr Wachtmeister König	Herrn Wachtmeister König			
+2484	11	SUB		12		Konsul Jones	Konsul Jones			
+2485	11	SUB		12		Herr Dr. Müller	Herrn Dr. Müller			
+2486	11	SUB		13		d- Briefe schreiben	die Briefe schreiben			
+2487	11	SUB		13		d- Artikel übersetzen	den Artikel übersetzen			
+2488	11	SUB		13		d- Mantel reinigen	den Mantel reinigen			
+2489	11	SUB		13		d- Schuhe besohlen	die Schuhe besohlen			
+2490	11	SUB		13		dies- Formulare ausfüllen	diese Formulare ausfüllen			
+2491	11	SUB		13		d- Kisten heraufbringen	die Kisten heraufbringen			
+2492	11	SUB		13		d- Unterlagen bringen	die Unterlagen bringen			
+2493	11	SUB		14		von d- Botschaft	von der Botschaft			
+2494	11	SUB		14		von d- Generalkonsulat	vom Generalkonsulat			
+2495	11	SUB		14		von d- Arbeitsamt	vom Arbeitsamt			
+2496	11	SUB		14		von d- Handelskammer	von der Handelskammer			
+2497	11	SUB		14		von d- Apotheke	von der Apotheke			
+2498	11	SUB		14		von d- Rathaus	vom Rathaus			
+2499	11	SUB		14		von d- Post	von der Post			
+2500	11	SUB		14		von d- Zoll	vom Zoll			
+2501	11	SUB		15		du	Wäschst du dir			
+2502	11	SUB		15		Sie	Waschen Sie sich			
+2503	11	SUB		15		ihr	Wascht ihr euch			
+2504	11	SUB		15		sie (sg)	Wäscht sie sich			
+2505	11	SUB		16		bei d- Frisör	beim Frisör			
+2506	11	SUB		16		bei d- Wäscherei	bei der Wäscherei			
+2507	11	SUB		16		bei d- Schuster	beim Schuster			
+2508	11	SUB		16		bei d- Reinigung	bei der Reinigung			
+2509	11	SUB		16		bei d- Uhrmacher	beim Uhrmacher			
+2510	11	SUB		16		bei d- Zahnarzt	beim Zahnarzt			
+2511	11	SUB		16		bei d- Bank	bei der Bank			
+2512	11	SUB		16		bei d- Apotheke	bei der Apotheke			
+2513	11	SUB		17		Wir	Wir müssen uns			
+2514	11	SUB		17		Sie (pl)	Sie müssen sich			
+2515	11	SUB		17		Ihr	Ihr müsst euch			
+2516	11	SUB		17		Er	Er muss sich			
+2517	11	SUB		17		Unsere Kinder	Unsere Kinder müssen sich			
+2518	11	SUB		17		Sie (sg)	Sie muss sich			
+1583	11	CONV	1	1		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Kommst du um fünf nach Hause?	Kommt ihr um fünf nach Hause?		z
+1584	11	CONV	1	2		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Gehst du heute nachmittag zum Schuster?	Geht ihr heute nachmittag zum Schuster?		z
+1585	11	CONV	1	3		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Bestellst du die Bücher bald?	Bestellt ihr die Bücher bald?		z
+1586	11	CONV	1	4		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Verschläfst du dich oft?	Verschlaft ihr euch oft?		z
+1587	11	CONV	1	5		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Kämmst du dir öfters die Haare?	Kämmt ihr euch öfters die Haare?		z
+1588	11	CONV	1	6		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Diktierst du gewöhnlich so schnell?	Diktiert ihr gewöhnlich so schnell?		z
+1589	11	CONV	1	7		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Fährst du mittags meistens nach Hause?	Fahrt ihr mittags meistens nach Hause?		z
+1590	11	CONV	1	8		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Läufst du immer so langsam?	Lauft ihr immer so langsam?		z
+1591	11	CONV	1	9		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Vergisst du die Briefe auch nicht?	Vergesst ihr die Briefe auch nicht?		z
+1592	11	CONV	1	10		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Willst du den Vortrag halten?	Wollt ihr den Vortrag halten?		z
+1593	11	CONV	1	11		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Wohnst du in der Stadt oder im Vorort?	Wohnt ihr in der Stadt oder im Vorort?		z
+1594	11	CONV	1	12		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Wäschst du deine Wäsche selbst oder bringst du sie in die Wäscherei?	Wascht ihr eure Wäsche selbst oder bringt ihr sie in die Wäscherei?		z
+1595	11	CONV	1	13		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Ziehst du in die Stadt?	Zieht ihr in die Stadt?		z
+1596	11	CONV	1	14		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Wechselst du das Geld in der Bank?	Wechselt ihr das Geld in der Bank?		z
+1597	11	CONV	1	15		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Vermietest du eins deiner Zimmer?	Vermietet ihr eins eurer Zimmer?		z
+1598	11	CONV	1	16		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Tust du das gern?	Tut ihr das gern?		z
+1599	11	CONV	1	17		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Triffst du sie immer auf dem Nachhauseweg?	Trefft ihr sie immer auf dem Nachhauseweg?		z
+1600	11	CONV	1	18		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Trägst du heute deinen neuen Anzug?	Tragt ihr heute eure neuen Anzüge?		z
+1601	11	CONV	1	19		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Stehst du schon lange da?	Steht ihr schon lange da?		z
+1602	11	CONV	1	20		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Sitzt du gern in diesem Sessel?	Sitzt ihr gern in diesem Sessel?		z
+1603	11	CONV	1	21		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Setzt du dich wieder an diesen Tisch?	Setzt ihr euch wieder an diesen Tisch?		z
+1604	11	CONV	1	22		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Schreibst du einen anderen Artikel?	Schreibt ihr einen anderen Artikel?		z
+1605	11	CONV	1	23		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Nimmst du wieder Kalbsleder mit Kartoffelpüree?	Nehmt ihr wieder Kalbsleber mit Kartoffelpüree?		z
+1606	11	CONV	1	24		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Mietest du die Wohnung in der Schubertstrasse?	Mietet ihr die Wohnung in der Schubertstrasse?		z
+1607	11	CONV	1	25		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Legst du die Briefe immer auf den Schreibtisch?	Legt ihr die Briefe immer auf den Schreibtisch?		z
+1608	11	CONV	1	26		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Leihst du uns die Schreibmaschine?	Leiht ihr uns die Schreibmaschine?		z
+1609	11	CONV	1	27		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Lebst du schon lange in Deutschland?	Lebt ihr schon lange in Deutschland?		z
+1610	11	CONV	1	28		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Kennst du den Uhrmacher gut?	Kennt ihr den Uhrmacher gut?		z
+1611	11	CONV	1	29		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Kaufst du deine Anzüge im Herrenkonfektionsgeschäft?	Kauft ihr eure Anzüge im Herrenkonfektionsgeschäft?		z
+1612	11	CONV	1	30		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Hörst du die Nachrichten um sieben oder um acht?	Hört ihr die Nachrichten um sieben oder um acht?		z
+1613	11	CONV	1	31		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Holst du heute deine Eltern ab?	Holt ihr heute eure Eltern ab?		z
+1614	11	CONV	1	32		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Hilfst du beim Einrichten?	Helft ihr beim Einrichten?		z
+1615	11	CONV	1	33		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Heisst du Bauer oder Brauer?	Heisst ihr Bauer oder Brauer?		z
+1616	11	CONV	1	34		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Hältst du vor dem Hotel?	Haltet ihr vor dem Hotel?		z
+1617	11	CONV	1	35		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Hast du die Unterlagen bei dir?	Habt ihr die Unterlagen bei euch?		z
+1618	11	CONV	1	36		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Gibst du ihm ein Frühstücksbrot?	Gebt ihr ihm ein Frühstücksbrot?		z
+1619	11	CONV	1	37		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Findest du den Artikel?	Findet ihr den Artikel?		z
+1620	11	CONV	1	38		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Isst du abends gewöhnlich warm?	Esst ihr abends gewöhnlich warm?		z
+1621	11	CONV	1	39		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Denkst du, dass es in Deutschland kälter ist als hier?	Denkt ihr, dass es in Deutschland kälter ist als hier?		z
+1622	11	CONV	1	40		Convert the <u>er</u>-form to the <u>du</u>-form and <u>ihr</u>-form.	Brauchst du ein neues Auto?	Braucht ihr ein neues Auto?		z
+1623	11	CONV	2	1		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Zeig' mir bitte dein Gepäck.	Zeigt mir bitte euer Gepäck.		z
+1624	11	CONV	2	2		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Geh' hier durch den Park.	Geht hier durch den Park.		
+1625	11	CONV	2	3		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Komm' doch mal am nächsten Sonntag zu uns.	Kommt doch mal am nächsten Sonntag zu uns.		
+1626	11	CONV	2	4		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Entschuldige, dass ich störe.	Entschuldigt, dass ich störe.		
+1627	11	CONV	2	5		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Sieh mal diese dunklen Wolken am Himmel.	Seht mal diese dunklen Wolken am Himmel.		
+1628	11	CONV	2	6		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Sag' ihm doch bitte, er möchte mich anrufen.	Sagt ihm doch bitte, er möchte mich anrufen.		
+1629	11	CONV	2	7		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Bring' doch bitte die Wäsche in die Wäscherei.	Bringt doch bitte die Wäsche in die Wäscherei.		
+1630	11	CONV	2	8		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Komm' doch bitte nicht zu spät.	Kommt doch bitte nicht zu spät.		
+1631	11	CONV	2	9		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Bleib' bitte noch eine Stunde hier.	Bleibt bitte noch eine Stunde hier.		
+1632	11	CONV	2	10		Convert the <u>Sie</u>-form to the <u>du</u>-form and <u>ihr</u>-form	Lies doch mal diesen Artikel.	Lest doch mal diesen Artikel.		
+1633	11	CONV	3	1		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass Professor Albers heute den Vortrag hält.			
+1634	11	CONV	3	2		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass sie beim Frisör ist.			
+1635	11	CONV	3	3		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass die Schuhe beim Schuster sind.			
+1636	11	CONV	3	4		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass er am Frühstückstisch sitzt.			
+1637	11	CONV	3	5		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass die Hemden noch in der Wäscherei sind.			
+1638	11	CONV	3	6		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass Beckers ihr Haus vermieten.			
+1639	11	CONV	3	7		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass die Besprechung heute nicht stattfindet.			
+1640	11	CONV	3	8		Change the sentence to a clause in the sentence beginning with <u>Ihr wisst doch, dass ...</u>	Ihr wisst doch, dass unser Auto noch in der Reparaturwerkstatt ist.			
+1641	11	CONV	4	1		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, wann er sich die Haare schneiden lassen will?			
+1642	11	CONV	4	2		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, wo ich mir die Schuhe besohlen lassen kann?			
+1643	11	CONV	4	3		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, wo ich den Anzug reinigen lassen soll?			
+1644	11	CONV	4	4		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, warum er den Artikel übersetzen lassen möchte?			
+1645	11	CONV	4	5		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, wo wir uns die Sachen einpacken lassen können?			
+1646	11	CONV	4	6		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, wo du die Hemden waschen lassen willst?			
+1647	11	CONV	4	7		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, ob ich mich vorstellen lassen muss?			
+1648	11	CONV	4	8		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, wann ich deine Eltern abholen lassen darf?			
+1649	11	CONV	4	9		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, wen ich nach Hause bringen lassen muss?			
+1650	11	CONV	4	10		Change the question to a clause in the question beginning with <u>Weisst du, ...</u>	Weisst du, was ich Herrn Becker ausrichten lassen soll?			
+1651	12	SUB		1		hören	gehört			
+1652	12	SUB		1		lesen	gelesen			
+1653	12	SUB		1		sehen	gesehen			
+1654	12	SUB		1		bestellen	bestellt			
+1655	12	SUB		1		bekommen	bekommen			
+1656	12	SUB		1		ausrichten	ausgerichtet			
+1657	12	SUB		1		beantragen	beantragt			
+1658	12	SUB		1		finden	gefunden			
+1659	12	SUB		1		bezahlen	bezahlt			
+1660	12	SUB		1		holen	geholt			
+1661	12	SUB		1		tun	getan			
+1662	12	SUB		1		vorhaben	vorgehabt			
+1663	12	SUB		1		vergessen	vergessen			
+1664	12	SUB		2		abfahren	abgefahren			
+1665	12	SUB		2		zurückkommen	zurückgekommen			
+1666	12	SUB		2		einziehen	eingezogen			
+1667	12	SUB		2		hingehen	hingegangen			
+1668	12	SUB		2		ankommen	angekommen			
+1669	12	SUB		2		auswandern	ausgewandert			
+1670	12	SUB		2		vorbeikommen	vorbeigekommen			
+1671	12	SUB		3		Aufführung	die			
+1672	12	SUB		3		Konzert	das			
+1673	12	SUB		3		Oper	die			
+1674	12	SUB		3		Ansichtskarte	die			
+1675	12	SUB		3		Theater	das			
+1676	12	SUB		3		Briefmarken	die			
+1677	12	SUB		3		Aussicht	die			
+1678	12	SUB		3		Berliner Philharmoniker	die			
+1679	12	SUB		3		Seereise	die			
+1680	12	SUB		4		Unser- Tochter	Unsere Tochter	ist		
+1681	12	SUB		4		Mein- Frau	Meine Frau	ist		
+1682	12	SUB		4		Wir	Wir	sind		
+1683	12	SUB		4		Mein- Vater	Mein Vater	ist		
+1684	12	SUB		4		Ich	Ich	bin		
+1685	12	SUB		4		Unser- Kinder	Unsere Kinder	sind		
+1686	12	SUB		4		Die Eltern meiner Frau	Die Eltern meiner Frau	sind		
+1687	12	SUB		5		Oper; in d-	in der Oper			
+1688	12	SUB		5		Stadt; in d-	in der Stadt			
+1689	12	SUB		5		Theater; in d-	im Theater			
+1690	12	SUB		5		auf d- Empfang im Schwimmbad	auf dem Empfang im Schwimmbad			
+1691	12	SUB		5		Generalkonsul; bei d-	beim Generalkonsul			
+1692	12	SUB		5		Botschaft; in d-	in der Botschaft			
+1693	12	SUB		5		bei Schwarz und Co.	bei Schwarz und Co.			
+1694	12	SUB		6		2. März	am zweiten März			
+1695	12	SUB		6		Freitag	am Freitag			
+1696	12	SUB		6		gestern	gestern			
+1697	12	SUB		6		vorig- Woche	vorige Woche			
+1698	12	SUB		6		heute	heute			
+1699	12	SUB		6		vorhin	vorhin			
+1700	12	SUB		6		in dies- Woche	in dieser Woche			
+1701	12	SUB		7		vier Wochen	vier Wochen			
+1702	12	SUB		7		lange	lange			
+1703	12	SUB		7		ein- Monat	einen Monat			
+1704	12	SUB		7		sechs Jahre	sechs Jahre			
+1705	12	SUB		7		anderthalb Monate	anderthalb Monate			
+1706	12	SUB		7		sechs Wochen	sechs Wochen			
+1707	12	SUB		8		letzt- Sommer	letztem Sommer			
+1708	12	SUB		8		vorig- Herbst	vorigem Herbst			
+1709	12	SUB		8		1. April	dem ersten April			
+1710	12	SUB		8		letzt- Winter	letztem Winter			
+1711	12	SUB		8		22. Juni	dem 22. Juni			
+1712	12	SUB		8		ein- halb- Jahr	einem halben Jahr			
+1713	12	SUB		9		acht Tagen	acht Tagen			
+1714	12	SUB		9		drei Wochen	drei Wochen			
+1715	12	SUB		9		vierzehn Tagen	vierzehn Tagen			
+1716	12	SUB		9		ein- Woche	einer Woche			
+1717	12	SUB		9		zwei Tagen	zwei Tagen			
+1718	12	SUB		10		sehr lange	sehr lange			
+1719	12	SUB		10		ein- Stunde	eine Stunde			
+1720	12	SUB		10		drei Tage	drei Tage			
+1721	12	SUB		10		zwei Wochen	zwei Wochen			
+1722	12	SUB		10		ein- halb- Jahr	ein halbes Jahr			
+1723	12	SUB		10		zwei Monate	zwei Monate			
+1724	12	SUB		10		nicht lange	nicht lange			
+1725	12	SUB		10		vier Stunden	vier Stunden			
+1726	12	SUB		11		drei Monaten	drei Monaten			
+1727	12	SUB		11		ein- Jahr	einem Jahr			
+1728	12	SUB		11		kurz-	kurzem			
+1729	12	SUB		11		sechs Wochen	sechs Wochen			
+1730	12	SUB		11		ein- halb- Jahr	einem halben Jahr			
+1731	12	SUB		11		vierzehn Tagen	vierzehn Tagen			
+1732	12	SUB		11		ein- Woche	einer Woche			
+1733	12	SUB		11		anderthalb Jahren	anderthalb Jahren			
+1734	12	SUB		12		sechs Monate	sechs Monate			
+1735	12	SUB		12		zwei Wochen	zwei Wochen			
+1736	12	SUB		12		vierzehn Tage	vierzehn Tage			
+1737	12	SUB		12		anderthalb Jahre	anderthalb Jahre			
+1738	12	SUB		12		lange	lange			
+1739	12	SUB		12		ein- halb- Jahr	ein halbes Jahr			
+1740	12	SUB		12		drei Monate	drei Monate			
+1741	12	SUB		12		ein- ganz- Monat	einen ganzen Monat			
+1742	12	SUB		13		zwei Jahre	zwei Jahre			
+1743	12	SUB		13		drei Monate	drei Monate			
+1744	12	SUB		13		vier Tage	vier Tage			
+1745	12	SUB		13		ein- Monat	einen Monat			
+1746	12	SUB		13		ein- Woche	eine Woche			
+1747	12	SUB		13		ein- Tag	einen Tag			
+1748	12	SUB		14		kennenlernen	kennengelernt			
+1749	12	SUB		14		fragen	gefragt			
+1750	12	SUB		14		abholen	abgeholt			
+1751	12	SUB		14		treffen	getroffen			
+1752	12	SUB		14		verpassen	verpasst			
+1753	12	SUB		14		besuchen	besucht			
+1754	12	SUB		14		anrufen	angerufen			
+1755	12	SUB		14		mitnehmen	mitgenommen			
+1756	12	SUB		14		sprechen	gesprochen			
+1757	12	SUB		15		hören	gehört			
+1758	12	SUB		15		sehen	gesehen			
+1759	12	SUB		15		wissen	gewusst			
+1760	12	SUB		15		lesen	gelesen			
+1761	12	SUB		15		denken	gedacht			
+1762	12	SUB		15		erwarten	erwartet			
+1763	12	SUB		16		zwei Monaten	zwei Monaten			
+1764	12	SUB		16		zwei Wochen	zwei Wochen			
+1765	12	SUB		16		drei Tagen	drei Tagen			
+1766	12	SUB		16		ein- halb- Stunde	einer halben Stunde			
+1767	12	SUB		16		zwanzig Minuten	zwanzig Minuten			
+1768	12	SUB		16		kurz-	kurzem			
+1769	12	SUB		16		anderthalb Stunden	anderthalb Stunden			
+1770	12	SUB		17		Landrat	der			
+1771	12	SUB		17		Konsul	der			
+1772	12	SUB		17		Professor	der			
+1773	12	SUB		17		französische Schriftsteller	der			
+1774	12	SUB		17		Leiter des Gesundheitsamtes	der			
+1775	12	SUB		17		Redakteur	der			
+1776	12	SUB		17		englische Diplomat	der			
+1777	12	SUB		17		Generalkonsul	der			
+1778	12	CONV		1		Change to perfect tense.	Wann haben Sie das Geld abgehoben?			
+1779	12	CONV		2		Change to perfect tense.	Er hat ihr ein Glas Moselwein angeboten.			
+1780	12	CONV		3		Change to perfect tense.	Wann haben Sie angefangen?			
+1781	12	CONV		4		Change to perfect tense.	Die Sekretärin hat das Gespräch angemeldet.			
+1782	12	CONV		5		Change to perfect tense.	Sie hat die braune Jacke anprobiert.			
+1783	12	CONV		6		Change to perfect tense.	Das haben wir uns nicht leisten können.			
+1784	12	CONV		7		Change to perfect tense.	Er hat sich ein sauberes Oberhemd angezogen.			
+1785	12	CONV		8		Change to perfect tense.	Wo hat sie gearbeitet?			
+1786	12	CONV		9		Change to perfect tense.	Ich habe oft in diesem Restaurant gegessen.			
+1787	12	CONV		10		Change to perfect tense.	Was haben Sie ihm ausgerichtet?			
+1788	12	CONV		11		Change to perfect tense.	Sie ist nach Amerika ausgewandert.			
+1789	12	CONV		12		Change to perfect tense.	Hast du dich heute für die Karten angestellt?			
+1790	12	CONV		13		Change to perfect tense.	Ich habe ein Visum beantragt.			
+1791	12	CONV		14		Change to perfect tense.	Hoffentlich hat er sich beeilt.			
+1792	12	CONV		15		Change to perfect tense.	Er hat sich beim Arbeitsamt erkundigt.			
+1793	12	CONV		16		Change to perfect tense.	Sie hat ihn mit Dr. Becker bekannt gemacht.			
+1794	12	CONV		17		Change to perfect tense.	Habt ihr heute die Pässe bekommen?			
+1795	12	CONV		18		Change to perfect tense.	Wann haben Sie ihre Tochter besucht?			
+1796	12	CONV		19		Change to perfect tense.	Hast du heute die Miete bezahlt?			
+1797	12	CONV		20		Change to perfect tense.	Wie lange seid ihr in München geblieben?			
+1798	12	CONV		21		Change to perfect tense.	Die Männer haben die Kisten in den Keller getragen.			
+1799	12	CONV		22		Change to perfect tense.	Sie hat ihm die Ansichtskarten gebracht.			
+1800	12	CONV		23		Change to perfect tense.	Er hat seinen Namen buchstabiert.			
+1801	12	CONV		24		Change to perfect tense.	In diese Tankstelle habe ich die Reifen wechseln lassen.			
+1802	12	CONV		25		Change to perfect tense.	Wo seid ihr heute hingegangen?			
+1803	12	CONV		26		Change to perfect tense.	Hast du noch zur Apotheke gehen müssen?			
+1804	12	CONV		27		Change to perfect tense.	Wann hast du dein Zimmer eingerichtet?			
+1805	12	CONV		28		Change to perfect tense.	Die Sonne hat den ganzen Tag geschienen.			
+1806	12	CONV		29		Change to perfect tense.	Wann ist er nach Deutschland gefahren?			
+1807	12	CONV		30		Change to perfect tense.	Hoffentlich haben Sie die Zollbestimmungen gefunden.			
+1808	12	CONV		31		Change to perfect tense.	Der Frisör hat ihm die Haare geschnitten.			
+1809	12	CONV		32		Change to perfect tense.	Sie hat sich auf seinen Besuch gefreut.			
+1810	12	CONV		33		Change to perfect tense.	Sind Sie heute in die Stadt gegangen?			
+1811	12	CONV		34		Change to perfect tense.	Das Buch hat ihr nicht gefallen.			
+1812	12	CONV		35		Change to perfect tense.	Sie haben ihm den Artikel gegeben, nicht wahr?			
+1813	12	CONV		36		Change to perfect tense.	Haben Sie sich an unser Klima gewöhnen können?			
+1814	12	CONV		37		Change to perfect tense.	Hat er das Buch gehabt?			
+1815	12	CONV		38		Change to perfect tense.	Hat Ihnen Frau Meyer beim Einrichten geholfen?			
+1816	12	CONV		39		Change to perfect tense.	Sie hat gerade die Schuhe abgeholt.			
+1817	12	CONV		40		Change to perfect tense.	Ich habe seinen Antrag bearbeitet.			
+1818	12	CONV		41		Change to perfect tense.	Haben Sie Herrn Becker gekannt?			
+1819	12	CONV		42		Change to perfect tense.	Der Generalkonsul ist heute gekommen.			
+1820	12	CONV		43		Change to perfect tense.	Er hat das Geld in der Bank gewechselt.			
+1821	12	CONV		44		Change to perfect tense.	Ich habe dir das Buch geliehen.			
+1822	12	CONV		45		Change to perfect tense.	Er hat gerade den Artikel in der Zeitung gelesen.			
+1823	12	CONV		46		Change to perfect tense.	Der Ausweis hat auf seinem Schreibtisch gelegen.			
+1824	12	CONV		47		Change to perfect tense.	Haben Sie die Formulare mitgenommen?			
+1825	12	CONV		48		Change to perfect tense.	Hast du heute den Brief geschrieben?			
+1826	12	CONV		49		Change to perfect tense.	Wir haben meistens an diesem Tisch gesessen.			
+1827	12	CONV		50		Change to perfect tense.	Er hat sehr langsam gesprochen.			
+1828	12	CONV		51		Change to perfect tense.	Er hat sich immer grosse Mühe gegeben.			
+1829	12	CONV		52		Change to perfect tense.	Das habe ich gern für Sie getan.			
+1830	12	CONV		53		Change to perfect tense.	Habt ihr ihn gut verstanden?			
+1831	12	CONV		54		Change to perfect tense.	Wo hast du studiert?			
+1832	12	CONV		55		Change to perfect tense.	Ihr seid wieder zu spät gekommen.			
+1833	12	CONV		56		Change to perfect tense.	Er hat sich nicht um sie gekümmert.			
+1834	12	CONV		57		Change to perfect tense.	Hat er sich die Hände gewaschen?			
+1835	12	CONV		58		Change to perfect tense.	Du hast doch diesen Artikel übersetzt, nicht wahr?			
+1836	12	CONV		59		Change to perfect tense.	Ihr habt euch fast jeden Tag verschlafen.			
+1837	12	CONV		60		Change to perfect tense.	Der Redakteur hat sich gerade mit dem Landrat unterhalten.			
+1838	13	CONV	2	1.1		Convert present to past or vice-versa.	Er war heute in der Stadt.			
+1839	13	CONV	2	1.2		Convert perfect to future or vice.versa.	Ich werde um fünf Uhr bei Ihnen sein.			ich
+1840	13	CONV	2	2.1		Convert present to past or vice-versa.	Ich hatte leider keine Zigaretten bei mir.			
+1841	13	CONV	2	2.2		Convert perfect to future or vice.versa.	Er wird keine Zeit haben.			er
+1842	13	CONV	2	3.1		Convert present to past or vice-versa.	Sie wusste auch nicht, wann er kommt.			
+1843	13	CONV	2	3.2		Convert perfect to future or vice.versa.	Sie wird es wissen.			sie
+1844	13	CONV	2	4.1		Convert present to past or vice-versa.	Die Bilder gefielen mir gut.			
+1845	13	CONV	2	4.2		Convert perfect to future or vice.versa.	Der Film wird den Kindern gut gefallen.			er
+1846	13	CONV	2	5.1		Convert present to past or vice-versa.	Wir brachten sie zum Hotel.			
+1847	13	CONV	2	5.2		Convert perfect to future or vice.versa.	Die Sekretärin wird Ihnen die Unterlagen bringen.			sie
+1848	13	CONV	2	6.1		Convert present to past or vice-versa.	Ich las gerade einen langen Bericht.			
+1849	13	CONV	2	6.2		Convert perfect to future or vice.versa.	Ich werde den Artikel lesen.			ich
+1850	13	CONV	2	7.1		Convert present to past or vice-versa.	Ich kam kurz vor acht bei dir vorbei.			
+1851	13	CONV	2	7.2		Convert perfect to future or vice.versa.	Wann wird sie nach Berlin kommen?			siepl
+1852	13	CONV	2	8.1		Convert present to past or vice-versa.	Er nahm den deutschen Photoapparat.			
+1853	13	CONV	2	8.2		Convert perfect to future or vice.versa.	Ich werde den grauen Anzug nehmen.			ich
+1854	13	CONV	2	9.1		Convert present to past or vice-versa.	Er ging um neun Uhr ins Büro.			
+1855	13	CONV	2	9.2		Convert perfect to future or vice.versa.	Wirst du oft ins Theater gehen?			du
+1856	13	CONV	2	10.1		Convert present to past or vice-versa.	Heute machten wir eine Bergtour.			
+1857	13	CONV	2	10.2		Convert perfect to future or vice.versa.	Was werden Sie denn heute in der Stadt machen?			siepl
+1858	13	CONV	2	11.1		Convert present to past or vice-versa.	Herr Schreiner fuhr nach Deutschland.			
+1859	13	CONV	2	11.2		Convert perfect to future or vice.versa.	Der Gewerkschaftssekretär wird zur Konferenz nach Washington fahren.			er
+1860	13	CONV	2	12.1		Convert present to past or vice-versa.	Herr und Frau Bergmann sahen sich die neuen Häuser an.			
+1861	13	CONV	2	12.2		Convert perfect to future or vice.versa.	Ich werde mir die Ausstellung ansehen.			ich
+1862	13	CONV	2	13.1		Convert present to past or vice-versa.	Ich hörte, dass Sie in Bad Pyrmont waren.			
+1863	13	CONV	2	13.2		Convert perfect to future or vice.versa.	Wir werden heute mittag den Vortrag hören.			wir
+1864	13	CONV	2	14.1		Convert present to past or vice-versa.	Die Studenten gaben sich grosse Mühe.			
+1865	13	CONV	2	14.2		Convert perfect to future or vice.versa.	Die Sekretärin wird ihm die Unterlagen geben.			sie
+1866	13	CONV	2	15.1		Convert present to past or vice-versa.	In der Zeitung stand heute ein ausführlicher Artikel darüber.			
+1867	13	CONV	2	15.2		Convert perfect to future or vice.versa.	Wie lange wird der Wagen hier stehen?			er
+1868	13	CONV	2	16.1		Convert present to past or vice-versa.	Er verpasste wahrscheinlich den Omnibus.			
+1869	13	CONV	2	16.2		Convert perfect to future or vice.versa.	Schade, dass ich das Konzert verpassen werde.			ich
+1870	13	CONV	2	17.1		Convert present to past or vice-versa.	Sie bedankte sich für die Bücher.			
+1871	13	CONV	2	17.2		Convert perfect to future or vice.versa.	Ich werde mich für den Brief bedanken.			ich
+1872	13	CONV	2	18.1		Convert present to past or vice-versa.	Frau Seiffert freute sich sehr auf die Oper.			
+1873	13	CONV	2	18.2		Convert perfect to future or vice.versa.	Meine Frau wird sich sehr über den Brief freuen.			sie
+1874	13	CONV	2	19.1		Convert present to past or vice-versa.	Frau Becker rief ihre Bekannten an.			
+1875	13	CONV	2	19.2		Convert perfect to future or vice.versa.	Ich werde Sie heute mittag anrufen.			ich
+1876	13	CONV	2	20.1		Convert present to past or vice-versa.	Diese modernen Möbel gefielen uns nicht.			
+1877	13	CONV	2	20.2		Convert perfect to future or vice.versa.	Es wird ihm in Berlin gut gefallen.			es
+1878	13	CONV	2	21.1		Convert present to past or vice-versa.	Herr Walter traf einen Bekannten.			
+1879	13	CONV	2	21.2		Convert perfect to future or vice.versa.	Er wird sie in der Stadt treffen.			er
+1880	13	CONV	2	22.1		Convert present to past or vice-versa.	Der Sohn meiner Bekannten studierte in Marburg.			
+1881	13	CONV	2	22.2		Convert perfect to future or vice.versa.	Mein Bruder wird im Ausland studieren.			er
+1882	13	CONV	2	23.1		Convert present to past or vice-versa.	Ich musste heute ins Auswärtige Amt gehen.			
+1883	13	CONV	2	23.2		Convert perfect to future or vice.versa.	Sie wird lange anstehen müssen.			siepl
+1884	13	CONV	2	24.1		Convert present to past or vice-versa.	Er zeigte dem Generalkonsul den Bericht.			
+1885	13	CONV	2	24.2		Convert perfect to future or vice.versa.	Ich werde ihm das Buch zeigen.			ich
+1886	13	CONV	2	25.1		Convert present to past or vice-versa.	Sagen Sie mir bitte, um was es sich handelte.			
+1887	13	CONV	2	25.2		Convert perfect to future or vice.versa.	Ich weiss nicht, um was es sich handeln wird.			es
+1888	13	CONV	2	26.1		Convert present to past or vice-versa.	Ich tat das gern für ihn.			
+1889	13	CONV	2	26.2		Convert perfect to future or vice.versa.	Ich werde das gern für Sie tun.			siepl
+1890	13	CONV	2	27.1		Convert present to past or vice-versa.	Herr Ulrich unterhielt sich mit seiner Frau über die Ausstellung.			
+1891	13	CONV	2	27.2		Convert perfect to future or vice.versa.	Ich werde mich mit ihm über die Reise unterhalten.			ich
+2519	15	SUB	1	1		machen	gemacht			
+2520	15	SUB	1	1		sagen	gesagt			
+2521	15	SUB	1	1		vermuten	vermutet			
+2522	15	SUB	1	1		erzählen	erzählt			
+2523	15	SUB	1	1		verwechseln	verwechselt			
+2524	15	SUB	1	1		ändern	geändert			
+2525	15	SUB	1	2		machen	gemacht			
+2526	15	SUB	1	2		einpacken	eingepackt			
+2527	15	SUB	1	2		beschädigen	beschädigt			
+2528	15	SUB	1	2		anfangen	angefangen			
+2529	15	SUB	1	2		reinigen	gereinigt			
+2530	15	SUB	1	3		machen	gemacht			
+2531	15	SUB	1	3		erledigen	erledigt			
+2532	15	SUB	1	3		abholen	abgeholt			
+2533	15	SUB	1	3		wegschaffen	weggeschafft			
+2534	15	SUB	1	3		saubermachen	saubergemacht			
+2535	15	SUB	1	4		machen	gemacht			
+2536	15	SUB	1	4		auspacken	ausgepackt			
+2537	15	SUB	1	4		wiederaufbauen	wiederaufgebaut			
+2538	15	SUB	1	4		zerstören	zerstört			
+2539	15	SUB	1	4		entfernen	entfernt			
+2540	15	SUB	1	4		besichtigen	besichtigt			
+2541	15	SUB	1	5		machen	gemacht			
+2542	15	SUB	1	5		wiederholen	wiederholt			
+2543	15	SUB	1	5		übersetzen	übersetzt			
+2544	15	SUB	1	5		bezahlen	bezahlt			
+2545	15	SUB	1	5		tun	getan			
+2546	15	SUB	1	5		bestellen	bestellt			
+2547	15	SUB	1	6		sehen	gesehen			
+2548	15	SUB	1	6		lesen	gelesen			
+2549	15	SUB	1	6		trinken	getrunken			
+2550	15	SUB	1	6		versuchen	versucht			
+2551	15	SUB	1	6		essen	gegessen			
+2552	15	SUB	1	6		hören	gehört			
+2553	15	SUB	1	7		ankommen	angekommen			
+2554	15	SUB	1	7		abfahren	abgefahren			
+2555	15	SUB	1	7		einziehen	eingezogen			
+2556	15	SUB	1	7		'raufsteigen	'raufgestiegen			
+2557	15	SUB	1	7		weiterfahren	weitergefahren			
+2558	15	SUB	1	8		herausbekommen	herausbekommen			
+2559	15	SUB	1	8		reservieren	reserviert			
+2560	15	SUB	1	8		erledigen	erledigt			
+2561	15	SUB	1	8		beabsichtigen	beabsichtigt			
+2562	15	SUB	1	8		ausfüllen	ausgefüllt			
+2563	15	SUB	1	8		entwerfen	entworfen			
+2564	15	SUB	1	9		tun	getan			
+2565	15	SUB	1	9		herausbekommen	herausbekommen			
+2566	15	SUB	1	9		nennen	genannt			
+2567	15	SUB	1	9		erzählen	erzählt			
+2568	15	SUB	1	9		entfernen	entfernt			
+2569	15	SUB	1	10		gehen	gegangen			
+2570	15	SUB	1	10		fahren	gefahren			
+2571	15	SUB	1	10		laufen	gelaufen			
+2572	15	SUB	1	10		reiten	geritten			
+2573	15	SUB	1	10		rennen	gerannt			
+2574	15	SUB	1	11		versuchen	versucht			
+2575	15	SUB	1	11		anbieten	angeboten			
+2576	15	SUB	1	11		beantragen	beantragt			
+2577	15	SUB	1	11		sagen	gesagt			
+2578	15	SUB	1	11		schreiben	geschrieben			
+2579	15	SUB	1	11		zeigen	gezeigt			
+2580	15	SUB	1	11		vergessen	vergessen			
+2581	15	SUB	1	11		übersetzen	übersetzt			
+2582	15	SUB	1	11		beabsichtigen	beabsichtigt			
+2583	15	SUB	1	11		beginnen	begonnen			
+2584	15	SUB	1	11		spielen	gespielt			
+2585	15	SUB	1	11		verwechseln	verwechselt			
+2586	15	SUB	2	1		Diskussion; ein- kurz-	eine kurze Diskussion			
+2587	15	SUB	2	1		Abstecher; ein- kurz-	einen kurzen Abstecher			
+2588	15	SUB	2	1		Bericht; ein- kurz-	einen kurzen Bericht			
+2589	15	SUB	2	1		Spaziergang; ein- kurz-	einen kurzen Spaziergang			
+2590	15	SUB	2	1		Autofahrt; ein- kurz-	eine kurze Autofahrt			
+2591	15	SUB	2	2		Strasse; ein- interessant-	eine interessante Strasse			
+2592	15	SUB	2	2		Bericht; ein- interessant-	ein interessanter Bericht			
+2593	15	SUB	2	2		Diskussion; ein- interessant-	eine interessante Diskussion			
+2594	15	SUB	2	2		Frau; ein- interessant-	eine interessante Frau			
+2595	15	SUB	2	2		Kirche; ein- interessant-	eine interessante Kirche			
+2596	15	SUB	2	2		Bau; ein- interessant-	ein interessanter Bau			
+2597	15	SUB	2	2		Viertel; ein- interessant-	ein interessantes Viertel			
+2598	15	SUB	2	2		Projekt; ein- interssant-	ein interessantes Projekt			
+2599	15	SUB	2	3		Kurfürstendamm; von d-	vom Kurfürstendamm			
+2600	15	SUB	2	3		Innenstadt; von d-	von der Innenstadt			
+2601	15	SUB	2	3		Hansaviertel; von d-	vom Hansaviertel			
+2602	15	SUB	2	3		Industriemesse; von d-	von der Industriemesse			
+2603	15	SUB	2	3		Bauausstellung; von d-	von der Bauausstellung			
+2604	15	SUB	2	3		Tiergarten; von d-	vom Tiergarten			
+2605	15	SUB	2	3		Kongresshalle; von d-	von der Kongresshalle			
+2606	15	SUB	2	4		Bericht; ein- ausführlich-	einen ausführlichen Bericht			
+2607	15	SUB	2	4		Auskunft; ein- ausführlich-	eine ausführliche Auskunft			
+2608	15	SUB	2	4		Erklärung; ein- ausführlich-	eine ausführliche Erklärung			
+2609	15	SUB	2	4		Artikel; ein- ausführlich-	einen ausführlichen Artikel			
+2610	15	SUB	2	4		Brief; ein- ausführlich-	einen ausführlichen Brief			
+2611	15	SUB	2	5		Ausstellung; ein- faszinierend-	eine faszinierende Ausstellung			
+2612	15	SUB	2	5		Tour; ein- faszinierend-	eine faszinierende Tour			
+2613	15	SUB	2	5		Abenteuer; ein- faszinierend-	ein faszinierendes Abenteuer			
+2614	15	SUB	2	5		Projekt; ein- faszinierend-	ein faszinierendes Projekt			
+2615	15	SUB	2	5		Aufführung; ein- faszinierend-	eine faszinierende Aufführung			
+2616	15	SUB	2	5		Frau; ein- faszinierend-	eine faszinierende Frau			
+2617	15	SUB	2	6		Ausstellung; ein- interessant-	einer interessanten Ausstellung			
+2618	15	SUB	2	6		Bericht; ein- interessant-	einem interessanten Bericht			
+2619	15	SUB	2	6		Diskussion; ein- interessant-	einer interessanten Diskussion			
+2620	15	SUB	2	6		Lektüre; ein- interessant-	einer interessanten Lektüre			
+2621	15	SUB	2	6		Projekt; ein- interessant-	einem interessanten Projekt			
+2622	15	SUB	2	6		Tagung; ein- interessant-	einer interessanten Tagung			
+2623	15	SUB	2	6		Abenteuer; ein- interessant-	einem interessanten Abenteuer			
+2624	15	SUB	2	7		Bad	Bäder			
+2625	15	SUB	2	7		Kirche	Kirchen			
+2626	15	SUB	2	7		Kurort	Kurorte			
+2627	15	SUB	2	7		Betrieb	Betriebe			
+2628	15	SUB	2	7		Stadt	Städte			
+2629	15	SUB	2	8		Kirche	Kirchen			
+2630	15	SUB	2	8		Reitweg	Reitwege			
+2631	15	SUB	2	8		Jagd	Jagden			
+2632	15	SUB	2	8		Ruine	Ruinen			
+2633	15	SUB	2	8		Schild	Schilder			
+2634	15	SUB	2	8		Tier	Tiere			
+2635	15	SUB	2	8		Wald	Wälder			
+2636	15	SUB	2	8		Lindenbaum	Lindenbäume			
+2637	15	SUB	2	8		Raum	Räume			
+2638	15	SUB	2	8		Ausstellung	Ausstellungen			
+2639	15	SUB	2	8		Ministerium	Ministerien			
+2640	15	SUB	2	8		Kiosk	Kioske			
+2641	15	SUB	2	8		Bad	Bäder			
+2642	15	SUB	2	9		d- Reichstagsgebäude	dem Reichstagsgebäude			
+2643	15	SUB	2	9		d- Kongresshalle	der Kongresshalle			
+2644	15	SUB	2	9		d- Wirtschaftsministerium	dem Wirtschaftsministerium			
+2645	15	SUB	2	9		d- Auswärtige Amt	dem Auswärtigen Amt			
+2646	15	SUB	2	9		d- Botschaft	der Botschaft			
+2647	15	SUB	2	9		d- Opernhaus	dem Opernhaus			
+2648	15	SUB	2	10		Dies- Kirche	Diese Kirche			
+2649	15	SUB	2	10		Dies- Gebäude	Dieses Gebäude			
+2650	15	SUB	2	10		Dies- Projekt	Dieses Projekt			
+2651	15	SUB	2	10		Dies- Halle	Diese Halle			
+2652	15	SUB	2	10		Dies- Wohnhaus	Dieses Wohnhaus			
+2653	15	SUB	2	10		Dies- Viertel	Dieses Viertel			
+2654	15	SUB	2	10		Dies- Neubau	Dieser Neubau			
+2655	15	SUB	2	11		Bericht	Berichten			
+2656	15	SUB	2	11		Betrieb	Betrieben			
+2657	15	SUB	2	11		Beitrag	Beiträgen			
+2658	15	SUB	2	11		Projekt	Projekten			
+2659	15	SUB	2	11		Bestellung	Bestellungen			
+2660	15	SUB	2	11		Diskussion	Diskussionen			
+2661	15	SUB	2	11		Konferenz	Konferenzen			
+2662	15	SUB	2	11		Gewerkschaft	Gewerkschaften			
+2663	15	SUB	2	12		Ausstellung	Ausstellungen			
+2664	15	SUB	2	12		Ministerium	Ministerien			
+2665	15	SUB	2	12		Kirche	Kirchen			
+2666	15	SUB	2	12		Ruine	Ruinen			
+2667	15	SUB	2	12		Raum	Räume			
+2668	15	SUB	2	12		Projekt	Projekte			
+2669	15	SUB	2	12		Betrieb	Betriebe			
+1892	15	CONV	1	1.1		Convert to passive.	Der Brief wird von ihm geschrieben.			er
+1893	15	CONV	1	1.2		Convert to passive.	Der Brief ist von ihm geschrieben worden.			er
+1894	15	CONV	1	1.3		Convert to passive.	Der Brief wurde von ihm geschrieben.			er
+1895	15	CONV	1	1.4		Convert to passive.	Der Brief wird von ihm geschrieben werden.			er
+1896	15	CONV	1	2.1		Convert to passive.	Die Schuhe werden von ihm geputzt.			siepl
+1897	15	CONV	1	2.2		Convert to passive.	Die Schuhe sind von ihm geputzt worden.			siepl
+1898	15	CONV	1	2.3		Convert to passive.	Die Schuhe wurden von ihm geputzt.			siepl
+1899	15	CONV	1	2.4		Convert to passive.	Die Schuhe werden von ihm geputzt werden.			siepl
+1900	15	CONV	1	3.1		Convert to passive.	Der Brief wird von ihr geschrieben.			er
+1901	15	CONV	1	3.2		Convert to passive.	Der Brief ist von ihr geschrieben worden.			er
+1902	15	CONV	1	3.3		Convert to passive.	Der Brief wurde von ihr geschrieben.			er
+1903	15	CONV	1	3.4		Convert to passive.	Der Brief wird von ihr geschrieben werden.			er
+1904	15	CONV	1	4.1		Convert to passive.	Der Meldeschein wird von Herrn Schmidt ausgefüllt.			er
+1905	15	CONV	1	4.2		Convert to passive.	Der Meldeschein ist von Herrn Schmidt ausgefüllt worden.			er
+1906	15	CONV	1	4.3		Convert to passive.	Der Meldeschein wurde von Herrn Schmidt ausgefüllt.			er
+1907	15	CONV	1	4.4		Convert to passive.	Der Meldeschein wird von Herrn Schmidt ausgefüllt werden.			er
+1908	15	CONV	1	5.1		Convert to passive.	Die Tagungsräume werden von ihnen besichtigt.			siepl
+1909	15	CONV	1	5.2		Convert to passive.	Die Tagungsräume sind von ihnen besichtigt worden.			siepl
+1910	15	CONV	1	5.3		Convert to passive.	Die Tagungsräume wurden von ihnen besichtigt.			siepl
+1911	15	CONV	1	5.4		Convert to passive.	Die Tagungsräume werden von ihnen besichtigt werden.			siepl
+1912	15	CONV	1	6.1		Convert to passive.	Der Antrag wird vom Arbeitsamt bearbeitet.			er
+1913	15	CONV	1	6.2		Convert to passive.	Der Antrag ist vom Arbeitsamt bearbeitet worden.			er
+1914	15	CONV	1	6.3		Convert to passive.	Der Antrag wurde vom Arbeitsamt bearbeitet.			er
+1915	15	CONV	1	6.4		Convert to passive.	Der Antrag wird vom Arbeitsamt bearbeitet werden.			er
+1916	15	CONV	1	7.1		Convert to passive.	Die neuen Bauten werden von unseren Architekten entworfen.			siepl
+1917	15	CONV	1	7.2		Convert to passive.	Die neuen Bauten sind von unseren Architekten entworfen worden.			siepl
+1918	15	CONV	1	7.3		Convert to passive.	Die neuen Bauten wurden von unseren Architekten entworfen.			siepl
+1919	15	CONV	1	7.4		Convert to passive.	Die neuen Bauten werden von unseren Architekten entworfen werden.			siepl
+1920	15	CONV	2	1		Convert to passive.	Ich bin von dem Betriebsleiter inzwischen angerufen worden.			ich
+1921	15	CONV	2	2		Convert to passive.	Der Brief ist von der Sekretärin geschrieben worden.			er
+1922	15	CONV	2	3		Convert to passive.	Der Artikel ist von Herrn Meyer übersetzt worden.			er
+1923	15	CONV	2	4		Convert to passive.	Der Vortrag ist gestern von Professor Albers gehalten worden.			er
+1924	15	CONV	2	5		Convert to passive.	Ist die Arbeit von Herrn Müller erledigt worden?			sie
+1925	15	CONV	2	6		Convert to passive.	Für Herrn Allen ist vom Hotel ein Zimmer reserviert worden.			es
+1926	15	CONV	2	7		Convert to passive.	Die Fahrkarte ist von meiner Sekretärin gestern gelöst worden.			sie
+1927	15	CONV	2	8		Convert to passive.	Herr Allen wurde von Herrn Meyer zum Zug begleitet.			er
+1928	15	CONV	2	9		Convert to passive.	Das beschädigte Auto wurde von den Männern abgeholt.			es
+1929	15	CONV	2	10		Convert to passive.	Die Koffer wurden von Herrn Schneider zur Gepäckaufgabe gebracht.			siepl
+1930	15	CONV	2	11		Convert to passive.	Der Anzug wurde von Frau Meyer aufgebügelt.			er
+1931	15	CONV	2	12		Convert to passive.	Von Herrn Schumann wurde ein Bericht über neue Konzernbildungen und Kartellfragen gegeben.			er
+1932	15	CONV	2	13		Convert to passive.	Von dem Gewerkschaftssekretär wurden langatmige Erklärungen abgegeben.			siepl
+1933	15	CONV	2	14		Convert to passive.	Frau Köhler wurde von Herrn Martin angerufen.			sie
+1934	15	CONV	2	15		Convert to passive.	Ich werde von ihr mit dem Auswärtigen Amt verbunden.			ich
+1935	15	CONV	2	16		Convert to passive.	Der braune Anzug wird gerade von ihm anprobiert.			er
+1936	15	CONV	2	17		Convert to passive.	Die Sekretärin wird gerade von dem Konsul ein Brief diktiert.			sie
+1937	15	CONV	2	18		Convert to passive.	Die Kisten werden gerade von Herrn und Frau Meyer ausgepackt.			siepl
+1938	15	CONV	2	19		Convert to passive.	Das Radio wird von ihr angestellt.			es
+1939	15	CONV	2	20		Convert to passive.	Der grosse Koffer wurde von dem Gepäckträger ins Abteil getragen.			er
+1940	15	CONV	2	21		Convert to passive.	Von wem ist der Anfang geschrieben worden?			er
+1941	15	CONV	2	22		Convert to passive.	Sie wird von mir in die Stadt begleitet.			siepl
+1942	15	CONV	2	23		Convert to passive.	Ihr Gepäck ist von dem Pagen auf Ihr Zimmer gebracht worden.			er
+1943	15	CONV	2	24		Convert to passive.	Heute wird das Reichstagsgebäude von den ausländischen Architekten besichtigt.			es
+1944	15	CONV	2	25		Convert to passive.	Die Schuhe sind von Herrn Meyer im Hotel vor die Zimmertür gestellt worden.			siepl
+1945	15	CONV	3	1		Convert passive to a sentence starting with 'Man'.	Man baut die zerstörten Gebäude wieder auf.			man
+1946	15	CONV	3	2		Convert passive to a sentence starting with 'Man'.	Man hat die zerstörten Gebäude wieder aufgebaut.			man
+1947	15	CONV	3	3		Convert passive to a sentence starting with 'Man'.	Man baute die zerstörten Gebäude wieder auf.			man
+1948	15	CONV	3	4		Convert passive to a sentence starting with 'Man'.	Man wird die zerstörten Gebäude wieder aufbauen.			man
+1949	15	CONV	3	5		Convert passive to a sentence starting with 'Man'.	Man hat die Bauausstellung schon am Anfang des Monats geschlossen.			man
+1950	15	CONV	3	6		Convert passive to a sentence starting with 'Man'.	Man entfernte die Lindenbäume schon vor dem Kriege.			man
+1951	15	CONV	3	7		Convert passive to a sentence starting with 'Man'.	Man erwartete viele Architekten zur Bauausstellung.			man
+1952	15	CONV	3	8		Convert passive to a sentence starting with 'Man'.	Man wird den Antrag bald bearbeiten.			man
+1953	15	CONV	3	9		Convert passive to a sentence starting with 'Man'.	Man hat die grossen Koffer zum Bahnhof gebracht.			man
+1954	15	CONV	3	10		Convert passive to a sentence starting with 'Man'.	Man hat den Bericht in der Botschaft übersetzt.			man
+1955	15	CONV	3	11		Convert passive to a sentence starting with 'Man'.	Man vermietet jetzt die neuen Wohnungen.			man
+1956	15	CONV	3	12		Convert passive to a sentence starting with 'Man'.	Man reservierte den Tisch am Fenster für uns.			man
+1957	15	CONV	3	13		Convert passive to a sentence starting with 'Man'.	Man hat die Koffer in der Gepäckaufgabe verwechselt.			man
+1958	15	CONV	3	14		Convert passive to a sentence starting with 'Man'.	Man wird die Ausstellung bald schliessen.			man
+1959	15	CONV	3	15		Convert passive to a sentence starting with 'Man'.	Man hat den Brand zu spät gesehen.			man
+1960	16	SUB		1		Bilder	die	die		pl
+1961	16	SUB		1		Bücher	die	die		pl
+1962	16	SUB		1		Wolldecken	die	die		pl
+1963	16	SUB		1		Ansichtskarten	die	die		pl
+1964	16	SUB		1		Häuser	die	die		pl
+1965	16	SUB		1		Gläser	die	die		pl
+1966	16	SUB		1		Lieder	die	die		pl
+1967	16	SUB		2		Restaurant	das	das		n
+1968	16	SUB		2		Geschäft	das	das		n
+1969	16	SUB		2		Wäscherei	die	die		f
+1970	16	SUB		2		Betrieb	der	der		m
+1971	16	SUB		2		Gasthof	der	der		m
+1972	16	SUB		2		Reparaturwerkstatt	die	die		f
+1973	16	SUB		2		Café	das	das		n
+1974	16	SUB		3		Stoff	der	den		m
+1975	16	SUB		3		Teppich	der	den		m
+1976	16	SUB		3		Möbel	die	die		f
+1977	16	SUB		3		Sessel	der	den		m
+1978	16	SUB		3		Tisch	der	den		m
+1979	16	SUB		3		Lampe	die	die		f
+1980	16	SUB		3		Bilder	die	die		pl
+1981	16	SUB		3		Steppdecken	die	die		pl
+1982	16	SUB		3		Wein	der	den		m
+1983	16	SUB		3		Herd	der	den		m
+1984	16	SUB		3		Kühlschrank	der	den		m
+1985	16	SUB		4		Zeitung	Die	um die		f
+1986	16	SUB		4		Bericht	Der	um den		m
+1987	16	SUB		4		Artikel	Der	um den		m
+1988	16	SUB		4		Buch	Das	um das		n
+1989	16	SUB		4		Unterlagen	Die	um die		f
+1990	16	SUB		4		Autokarte	Die	um die		f
+1991	16	SUB		4		Lektüre	Die	um die		f
+1992	16	SUB		4		Zigaretten	Die	um die		pl
+1993	16	SUB		4		Briefpapier	Das	um das		n
+1994	16	SUB		5		Herr	Der	dem		m
+1995	16	SUB		5		Ehepaar	Das	dem		n
+1996	16	SUB		5		Familie	Die	der		f
+1997	16	SUB		5		Dame	Die	der		f
+1998	16	SUB		5		Beckers		denen		pl
+1999	16	SUB		5		Architekt	Der	dem		m
+2000	16	SUB		5		Lehrerin	Die	der		f
+2001	16	SUB		5		Redakteur	Der	dem		m
+2002	16	SUB		5		Professor	Der	dem		m
+2003	16	SUB		6		Zahnarzt	Der	dem		m
+2004	16	SUB		6		Ehepaar	Das	dem		n
+2005	16	SUB		6		Damen	Die	denen		pl
+2006	16	SUB		6		Frau Keller		der		f
+2007	16	SUB		6		Herr	Der	dem		m
+2008	16	SUB		6		Uhrmacher	Der	dem		m
+2009	16	SUB		6		Familie	Die	der		f
+2010	16	SUB		7		Geschäft	Das	in dem		n
+2011	16	SUB		7		Gebäude	Das	in dem		n
+2012	16	SUB		7		Betrieb	Der	in dem		m
+2013	16	SUB		7		Wäscherei	Die	in der		f
+2014	16	SUB		7		Apotheke	Die	in der		f
+2015	16	SUB		7		Gasthof	Der	in dem		m
+2016	16	SUB		7		Bank	Die	in der		f
+2017	16	SUB		8		Herr	der	dessen		m
+2018	16	SUB		8		Dame	die	deren		f
+2019	16	SUB		8		Ehepaar	das	dessen		n
+2020	16	SUB		8		Zahnarzt	der	dessen		m
+2021	16	SUB		8		Architekt	der	dessen		m
+2022	16	SUB		8		Diplomaten	der	dessen		m
+2023	16	SUB		8		Lehrerin	die	deren		f
+2024	16	SUB		9		Abreise	die	die		f
+2025	16	SUB		9		Vortrag	den	der		m
+2026	16	SUB		9		Verhandlung	die	die		f
+2027	16	SUB		9		Ausflug	den	der		m
+2028	16	SUB		9		Autofahrt	die	die		f
+2029	16	SUB		9		Tagung	die	die		f
+2030	16	SUB		9		Konzert	das	das		n
+2031	16	SUB		9		Bergtour	die	die		f
+2032	16	SUB		9		Rückreise	die	die		f
+2033	16	SUB		10		Film	den	der		m
+2034	16	SUB		10		Ausstellung	die	die		f
+2035	16	SUB		10		Aufführung	die	die		f
+2036	16	SUB		10		Artikel	den	der		m
+2037	16	SUB		10		Insel	die	die		f
+2038	16	SUB		10		Ausflug	den	der		m
+2039	16	SUB		10		Vortrag	den	der		m
+2040	16	SUB		10		Bergtour	die	die		f
+2041	16	SUB		10		Nordseebad	das	das		n
+2042	16	SUB		11		Geschäftsbrief	den	der		m
+2043	16	SUB		11		Artikel	den	der		m
+2044	16	SUB		11		Bericht	den	der		m
+2045	16	SUB		11		Zollbestimmungen	die	die		f
+2046	16	SUB		11		Zeitung	die	die		f
+2047	16	SUB		11		Buch	das	das		n
+2048	16	SUB		11		Roman	den	der		m
+2049	16	SUB		12		d- Professor	den Professor	an den		m
+2050	16	SUB		12		d- Dame	die Dame	an die		f
+2051	16	SUB		12		d- Architekt	den Architekten	an den		m.wm
+2052	16	SUB		12		d- Ehepaar	das Ehepaar	an das		n
+2053	16	SUB		12		d- Familie	die Familie	an die		f
+2054	16	SUB		12		d- Beamte	den Beamten	an den		m.wm
+2055	16	SUB		12		d- Konsul	den Konsul	an den		m
+2056	16	SUB		12		d- Betriebsleiter	den Betriebsleiter	an den		m
+2057	16	SUB		12		d- Zahnarzt	den Zahnarzt	an den		m
+2058	16	SUB		13		Generalkonsul	den	dem		m
+2059	16	SUB		13		Dame	die	der		f
+2060	16	SUB		13		Ehepaar	das	dem		n
+2061	16	SUB		13		Familie	die	der		f
+2062	16	SUB		13		Professor	den	dem		m
+2063	16	SUB		13		Sportlehrerin	die	der		f
+2064	16	SUB		13		Landrat	den	dem		m
+2065	16	SUB		13		Redakteur	den	dem		m
+2066	16	SUB		14		d- Ehepaar	das Ehepaar	dem		n
+2067	16	SUB		14		d- Zahnarzt	den Zahnarzt	dem		m
+2068	16	SUB		14		d- Herr	den Herrn	dem		m.wm
+2069	16	SUB		14		d- Familie	die Familie	der		f
+2070	16	SUB		14		d- Professor	den Professor	dem		m
+2071	16	SUB		14		d- Lehrerin	die Lehrerin	der		f
+2072	16	SUB		14		d- Konsul	den Konsul	dem		m
+2073	16	SUB		14		d- Dame	die Dame	der		f
+2074	16	SUB		15		Aufträge	Die	mit denen		pl
+2075	16	SUB		15		Projekte	Die	mit denen		pl
+2076	16	SUB		15		Formulare	Die	mit denen		pl
+2077	16	SUB		15		Briefe	Die	mit denen		pl
+2078	16	SUB		15		Berichte	Die	mit denen		pl
+2079	16	SUB		15		Bücher	Die	mit denen		pl
+2080	16	SUB		16		Kongresshalle	die	deren		pl
+2081	16	SUB		16		Reichstagsgebäude	das	dessen		n
+2082	16	SUB		16		Jagdschloss	das	dessen		n
+2083	16	SUB		16		Gedächtniskirche	die	deren		
+2084	16	SUB		16		Siegessäule	die	deren		
+2085	16	SUB		17		Segelregatta	der	die		f
+2086	16	SUB		17		Messe	der	die		f
+2087	16	SUB		17		Tagung	der	die		f
+2088	16	SUB		17		Bauausstellung	der	die		f
+2089	16	SUB		17		Konferenz	der	die		f
+2090	16	SUB		17		Besprechung	der	die		f
+2091	16	SUB		17		Aufführung	der	die		f
+2092	16	SUB		18		d- Empfangschef	dem Empfangschef	der		m
+2093	16	SUB		18		d- Beamte	dem Beamten	der		m
+2094	16	SUB		18		d- Frau	der Frau	die		f
+2095	16	SUB		18		d- Vizekonsul	dem Vizekonsul	der		m
+2096	16	SUB		18		d- Lehrer oder d- Lehrerin	dem Lehrer oder Lehrerin	die		m
+2097	16	SUB		18		Herr Keller	Herrn Keller	der		m
+2098	16	SUB		18		d- Sekretärin	der Sekretärin	die		f
+2099	16	SUB		18		d- Betriebsleiter	dem Betriebsleiter	der		n
+2100	16	SUB		19		Bericht	dem	den		m
+2101	16	SUB		19		Artikel	dem	den		m
+2102	16	SUB		19		Buch	dem	das		n
+2103	16	SUB		19		Brief	dem	den		m
+2104	16	SUB		19		Bestimmungen	den	die		pl
+2105	16	SUB		20		ein- Dame	einer Dame	die		f
+2106	16	SUB		20		ein- Herr	einem Herrn	den		m.wm
+2107	16	SUB		20		ein- Zahnarzt	einem Zahnarzt	den		m
+2108	16	SUB		20		ein- Familie	einer Familie	die		f
+2109	16	SUB		20		ein- Ehepaar	einem Ehepaar	das		n
+2110	16	SUB		20		ein- Architekt	einem Architekten	den		m.wm
+2111	16	SUB		20		ein- Konsul	einem Konsul	den		m
+2112	16	SUB		20		ein- Beamte	einem Beamten	den		m.wm
+2113	16	SUB		20		ein- Redakteur	einem Redakteur	den		m
+2114	16	SUB		20		ein- Lehrerin	einer Lehrerin	die		f
+2115	16	SUB		21		d- Herr	dem Herrn	für den		m.wm
+2116	16	SUB		21		d- Konsul	dem Konsul	für den		m
+2117	16	SUB		21		d- Dame	der Dame	für die		f
+2118	16	SUB		21		d- Amerikaner	dem Amerikaner	für den		m
+2119	16	SUB		21		d- Professor	dem Professor	für den		m
+2120	16	SUB		21		d- Lehrerin	der Lehrerin	für die		f
+2121	16	SUB		21		d- Gewerkschaftssekretär	dem Gewerkschaftssekretär	für den		m
+2122	16	SUB		22		d- Verhandlungen	den Verhandlungen	von denen		pl
+2123	16	SUB		22		d- Aufträge	den Aufträgen	von denen		pl.dpl
+2124	16	SUB		22		d- Einkäufe	den Einkäufen	von denen		pl.dpl
+2125	16	SUB		22		d- Aufnahmen	den Aufnahmen	von denen		pl
+2126	16	SUB		22		d- Handwerker (pl)	den Handwerkern	von denen		pl.dpl
+2127	16	SUB		22		d- Berichte	den Berichten	von denen		pl.dpl
+2128	16	SUB		22		d- Bestimmungen	den Bestimmungen	von denen		pl
+2129	16	SUB		23		d- Herr	dem Herrn	dem		m.wm
+2130	16	SUB		23		d- Amerikanerin	der Amerikanerin	der		f
+2131	16	SUB		23		d- Ehepaar	dem Ehepaar	dem		n
+2132	16	SUB		23		d- Dame	der Dame	der		f
+2133	16	SUB		23		d- Konsul	dem Konsul	dem		m
+2134	16	SUB		23		Frau Becker	Frau Becker	der		f
+2135	16	SUB		23		Herr und Frau König	Herrn und Frau König	denen		m.wm
+2136	16	SUB		23		d- Professor	dem Professor	dem		m
+2137	16	SUB		24		mein- Freund	meinem Freund	mit dem		m
+2138	16	SUB		24		sein- Bruder	seinem Bruder	mit dem		m
+2139	16	SUB		24		ein- Familie	einer Familie	mit der		f
+2140	16	SUB		24		ein- Ehepaar	einem Ehepaar	mit dem		n
+2141	16	SUB		24		Herr und Frau Becker	Herrn und Frau Becker	mit denen		pl.wm
+2142	16	SUB		24		unser- Architekt	unserem Architekten	mit dem		m.wm
+2143	16	SUB		24		ein- Diplomat	einem Diplomaten	mit dem		m.wm
+2144	16	SUB		24		ein- Redakteur	einem Redakteur	mit dem		m
+2145	16	SUB		25		d- Herr	dem Herrn	dessen		m.wm
+2146	16	SUB		25		d- Betriebsleiter	dem Betriebsleiter	dessen		m
+2147	16	SUB		25		d- Landrat	dem Landrat	dessen		m
+2148	16	SUB		25		d- Professor	dem Professor	dessen		m
+2149	16	SUB		25		d- Generalkonsul	dem Generalkonsul	dessen		m
+2150	16	SUB		25		d- Architekt	dem Architekten	dessen		m.wm
+2151	16	SUB		25		d- Lehrerin	der Lehrerin	deren		f
+2152	16	SUB		25		d- Redakteur	dem Redakteur	dessen		m
+2153	16	SUB		25		d- Dame	der Dame	deren		f
+2154	16	SUB		26		Herr Schmidt	Herrn Schmidt	in dessen		m.wm
+2155	16	SUB		26		ein- Uhrmacher	einem Uhrmacher	in dessen		m
+2156	16	SUB		26		ein- Dame	einer Dame	in deren		f
+2157	16	SUB		26		mein- Schwester	meiner Schwester	in deren		f
+2158	16	SUB		26		ein- Bekannter	einem Bekannten	in dessen		m.nadj
+2159	16	SUB		26		Herr und Frau Müller	Herrn und Frau Müller	in deren		pl.wm
+2160	16	SUB		26		ein- Bekannte	einer Bekannten	in deren		f.nadj
+2161	16	SUB		27		mein- Bruder	meines Bruders	der		m
+2162	16	SUB		27		mein- Schwester	meiner Schwester	die		f
+2163	16	SUB		27		unser- Kinder	unserer Kinder	die		pl
+2164	16	SUB		27		mein- Professor	meines Professors	der		m
+2165	16	SUB		27		ihr- Vater	ihres Vaters	der		m
+2166	16	SUB		27		unser- Lehrerin	unserer Lehrerin	die		f
+2167	16	SUB		28		d- Dame	der Dame	die		f
+2168	16	SUB		28		d- Herr	des Herrn	den		m.wm
+2169	16	SUB		28		d- Familie	der Familie	die		f
+2170	16	SUB		28		d- Student	des Studenten	den		m.wm
+2171	16	SUB		28		d- Professor	des Professors	den		m
+2172	16	SUB		28		d- Ehepaar	des Ehepaares	das		n
+2173	16	SUB		28		d- Architekten	des Architekten	den		m.wm
+2174	16	SUB		29		d- Dame	der Dame	der		f
+2175	16	SUB		29		d- Diplomat	des Diplomaten	dem		m.wm
+2176	16	SUB		29		d- Amerikanerin	der Amerikanerin	der		f
+2177	16	SUB		29		d- Sekretärin	der Sekretärin	der		f
+2178	16	SUB		29		d- Konsul	des Konsuls	dem		m
+2179	16	SUB		29		d- Herr	des Herrn	dem		m.wm
+2180	16	SUB		29		d- Redakteur	des Redakteurs	dem		m
+2181	16	SUB		29		d- Betriebsleiter	des Betriebsleiters	dem		m
+2182	16	SUB		30		d- Konsul	des Konsuls	mit dem		m
+2183	16	SUB		30		d- Redakteur	des Redakteurs	mit dem		m
+2184	16	SUB		30		d- Landrat	des Landrats	mit dem		m
+2185	16	SUB		30		mein- Freund	meines Freundes	mit dem		m
+2186	16	SUB		30		d- Familie	der Familie	mit der		f
+2187	16	SUB		30		d- Ehepaar	des Ehepaares	mit dem		n
+2188	16	SUB		30		d- Architekt	des Architekten	mit dem		m.wm
+2189	16	SUB		30		d- Betriebsleiter	des Betriebsleiters	mit dem		m
+2190	16	SUB		31		d- Professor	des Professors	dessen		m
+2191	16	SUB		31		d- Zahnarzt	des Zahnarztes	dessen		m
+2192	16	SUB		31		d- Lehrerin	der Lehrerin	deren		f
+2193	16	SUB		31		d- Diplomat	des Diplomaten	dessen		m.wm
+2194	16	SUB		31		d- Schriftsteller	des Schriftstellers	dessen		m
+2195	16	SUB		32		d- Amerikaner	des Amerikaners	über dessen		m
+2196	16	SUB		32		d- Schriftsteller	des Schriftstellers	über dessen		m
+2197	16	SUB		32		d- Amerikanerin	der Amerikanerin	über deren		f
+2198	16	SUB		32		d- Lehrer	des Lehrers	über dessen		m
+2199	16	SUB		32		d- Architekt	des Architekten	über dessen		m.wm
+2200	16	SUB		33		Anzug	der	Den		m
+2201	16	SUB		33		Fotoapparat	der	Den		m
+2202	16	SUB		33		Füller	der	Den		m
+2203	16	SUB		33		Bild	das	Das		n
+2204	16	SUB		33		Schuhe	die	Die		f
+2205	16	SUB		33		Ansichtskarten	die	Die		f
+2206	16	SUB		33		Krawatte	die	Die		f
+2207	16	SUB		33		Hemd	das	Das		n
+2208	16	SUB		33		Geschirr	das	Das		n
+2209	16	SUB		34		Gebäude	das	Von dem		n
+2210	16	SUB		34		Theater	das	Von dem		n
+2211	16	SUB		34		Bibliothek	die	Von der		f
+2212	16	SUB		34		Park	den	Von dem		m
+2213	16	SUB		34		Kongresshalle	die	Von der		f
+2214	16	SUB		34		Werft	die	Von der		f
+2215	16	SUB		34		Jagdschloss	das	Von dem		n
+2216	16	SUB		34		Gedächtniskirche	die	Von der		f
+2217	16	SUB		34		Insel	die	Von der		f
+2218	17	SUB		19		Farbfilm	Einen			
+2219	17	SUB		19		Schwarzweissfilm	Einen			
+2220	17	SUB		19		Hammer	Einen			
+2221	17	SUB		19		Zange	Eine			
+2222	17	SUB		19		Schraubenzieher	Einen			
+2223	17	SUB		19		Wörterbuch	Ein			
+2224	17	SUB		19		Katalog	Einen			
+2225	17	SUB		19		Engländer	Einen			
+2226	17	SUB		21		Sie (sg)	Sie	hat	sich	
+2227	17	SUB		21		Wir	Wir	haben	uns	
+2228	17	SUB		21		Er	Er	hat	sich	
+2229	17	SUB		21		Sie (pl)	Sie	haben	sich	
+2230	17	SUB		22		Ihr- Vorschlag	Ihren Vorschlag			
+2231	17	SUB		22		sein- Vortrag	seinen Vortrag			
+2232	17	SUB		22		Ihr- Bericht	Ihren Bericht			
+2233	17	SUB		22		eur- Fahrt an den Bodensee	eure Fahrt an den Bodensee			
+2234	17	SUB		22		sein- Einkauf	seinen Einkauf			
+2235	17	SUB		23		mehrer- Tag-	mehreren Tagen			
+2236	17	SUB		23		einig- Woch-	einigen Wochen			
+2237	17	SUB		23		14 Tag-	14 Tagen			
+2238	17	SUB		23		letzt- Woch-	letzter Woche			
+2239	17	SUB		23		ein- Monat-	einem Monat			
+2240	17	SUB		23		vorig- Freitag-	vorigem Freitag			
+2241	17	SUB		23		drei Woch-	drei Wochen			
+2242	17	SUB		24		Katalog; ein- neu-	einen neuen Katalog			
+2243	17	SUB		24		Hammer; ein- gross-	einen grossen Hammer			
+2244	17	SUB		24		Zange; ein- klein-	eine kleine Zange			
+2245	17	SUB		24		Schraubzieher; ein- ander-	einen anderen Schraubenzieher			
+2246	17	SUB		24		Buch; ein- interessant-	ein interessantes Buch			
+2247	17	SUB		24		Briefmarke; ein- italienisch-	eine italienische Briefmarke			
+2248	17	SUB		24		Formular; ein- ander-	ein anderes Formular			
+2249	17	SUB		25		Schaufenster; dies- gross-	diesem grossen Schaufenster			
+2250	17	SUB		25		Geschäft; dies- neu-	diesem neuen Geschäft			
+2251	17	SUB		25		Theater; dies- alt-	diesem alten Theater			
+2252	17	SUB		25		Buchhandlung; dies- gross-	dieser grossen Buchhandlung			
+2253	17	SUB		25		Photogeschäft; dies- klein-	diesem kleinen Photogeschäft			
+2254	17	SUB		25		Kirche; dies- zerstört-	dieser zerstörten Kirche			
+2255	17	SUB		25		Imbisstube; dies- klein-	dieser kleinen Imbisstube			
+2256	17	SUB		25		Gebäude; dies- interessant-	diesem interessanten Gebäude			
+2257	17	SUB		26		Radio	das			
+2258	17	SUB		26		Auto	mein			
+2259	17	SUB		26		Heizung	unsere			
+2260	17	SUB		26		Wasserhahn	diesen			
+2261	17	SUB		26		Fernsehapparat	meinen			
+2262	17	SUB		26		Kühlschrank	den			
+2263	17	SUB		26		Plattenspieler	diesen			
+2264	17	SUB		26		Schreibmaschine	unsere			
+2265	17	SUB		26		Tonbandgerät	das			
+2266	17	VAP	2	1		Use the right preposition	zu			
+2267	17	VAP	2	2		Use the right preposition	um			
+2268	17	VAP	2	3		Use the right preposition	nach			
+2269	17	VAP	2	4		Use the right preposition	auf die			
+2270	17	VAP	2	5		Use the right preposition	an			
+2271	17	VAP	2	6		Use the right preposition	von			
+2272	17	VAP	2	7		Use the right preposition	auf			
+2273	17	VAP	2	8		Use the right preposition	mit			
+2274	17	VAP	2	9		Use the right preposition	aus			
+2275	17	VAP	2	10		Use the right preposition	auf			
+2276	17	VAP	2	11		Use the right preposition	um			
+2277	17	VAP	2	12		Use the right preposition	Zu			
+2278	17	VAP	2	13		Use the right preposition	von			
+2279	17	VAP	2	14		Use the right preposition	an			
+2280	17	VAP	2	15		Use the right preposition	nach			
+2281	17	VAP	2	16		Use the right preposition	mit			
+2282	17	VAP	2	17		Use the right preposition	Gegen			
+2283	17	VAP	2	18		Use the right preposition	An			
+2284	17	VAP	2	19		Use the right preposition	von			
+2285	17	VAP	2	20		Use the right preposition	auf			
+2286	17	VAP	2	21		Use the right preposition	gegen			
+2287	17	VAP	2	22		Use the right preposition	an			
+2288	17	VAP	2	23		Use the right preposition	Mit			
+2289	17	VAP	2	24		Use the right preposition	um			
+2290	17	VAP	2	25		Use the right preposition	von			
+2291	17	VAP	2	26		Use the right preposition	davon			
+2292	17	VAP	2	27		Use the right preposition	auf			
+2293	17	VAP	2	28		Use the right preposition	auf			
+2294	17	VAP	2	29		Use the right preposition	an			
+2295	17	VAP	2	30		Use the right preposition	mit			
+2296	17	VAP	2	31		Use the right preposition	An			
+2297	17	VAP	2	32		Use the right preposition	darauf			
+2298	17	VAP	2	33		Use the right preposition	an			
+2299	18	VAP	2	1		Use the right preposition	nach			
+2300	18	VAP	2	2		Use the right preposition	über			
+2301	18	VAP	2	3		Use the right preposition	an			
+2302	18	VAP	2	4		Use the right preposition	davon			
+2303	18	VAP	2	5		Use the right preposition	auf			
+2304	18	VAP	2	6		Use the right preposition	über			
+2305	18	VAP	2	7		Use the right preposition	nach			
+2306	18	VAP	2	8		Use the right preposition	über			
+2307	18	VAP	2	9		Use the right preposition	auf			
+2308	18	VAP	2	10		Use the right preposition	mit			
+2309	18	VAP	2	11		Use the right preposition	an			
+2310	18	VAP	2	12		Use the right preposition	über			
+2311	18	VAP	2	13		Use the right preposition	an			
+2312	18	VAP	2	14		Use the right preposition	daran			
+2313	18	VAP	2	15		Use the right preposition	Unter			
+2314	18	VAP	2	16		Use the right preposition	von			
+2315	18	VAP	2	17		Use the right preposition	damit			
+2316	18	VAP	2	18		Use the right preposition	An			
+2317	18	VAP	2	19		Use the right preposition	damit			
+2318	18	VAP	2	20		Use the right preposition	nach			
+2319	18	VAP	2	21		Use the right preposition	auf			
+2320	18	VAP	2	22		Use the right preposition	über			
+2321	18	VAP	2	23		Use the right preposition	zu			
+2322	18	VAP	2	24		Use the right preposition	auf			
+2323	18	VAP	2	25		Use the right preposition	unter			
+2324	18	VAP	2	27		Use the right preposition	auf			

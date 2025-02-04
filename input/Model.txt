@@ -1,0 +1,740 @@
+Unit	Qtype	Qpart	Qnum	Qparto	FillPatt	Pattern	ModF1	ModF2	ModF3	Rules	ModPrompt	Comment
+1	SUB		1		1	{F1} {F2} dort.	D- Flughafen	ist		der.nom		
+1	SUB		2		1	Wo {F2} {F1}?	d- Bahnhof	ist		der.nom		
+1	SUB		3		1	Wieviel {F2} {F1}?	d- Kaffee	kostet		der.nom		
+1	SUB		4		1	Wie {F2} {F1}?	d- Bier	ist		der.nom		
+1	SUB		5		1	{F1} {F2} gut.	D- Hotel	ist		der.nom		
+1	SUB		6		1	{F1} {F2} da drüben.	D- Hotel	ist		der.nom		
+1	SUB		7		1	Das {F2} {F1}.	d- Flughafen	ist		der.nom		
+1	SUB		8		1	Hier {F3} {F1}. Hier {F3} {F2}.	Herr Becker	er/es/sie	ist/sind	pro.nom		
+2	SUB		1		4	{F1} {F2} Sie sehr gut.	Ich	verstehe		vcon.verstehen		
+2	SUB		2		2	Sie trifft {F1} in Frankfurt.				pro.acc		
+2	SUB		3		2	Können Sie {F1} seine Adresse geben?				pro.dat		
+2	SUB		4		4	{F1} {F2} aus Amerika.	Er	kommt		vcon.kommen		
+2	SUB		5		4	{F1} {F2} nur diese zwei Koffer.	Ich	habe		vcon.haben		
+2	SUB		6		4	{F2} {F1} sie nicht?	Sie	Kennen		vcon.kennen		
+2	SUB		7		2	Ich kann {F1} nicht gut verstehen.				pro.acc		
+2	SUB		8		2	Wie geht es {F1}?	Ihnen			pro.dat		
+2	SUB		9		4	Wie lange {F2} {F1} hier in München?	Sie	bleiben		vcon.bleiben		
+2	SUB		10		4	{F2} {F1} in der Nähe vom Konsulat?	Frau Becker	Wohnt		vcon.wohnen		
+2	SUB		11		4	{F1} {F2} ihn im Konsulat.	Herr und Frau Allen	treffen		vcon.treffen		
+2	SUB		12		2	Kennen Sie {F1}?				pro.acc		
+2	SUB		13		4	Was {F2} {F1} essen?	Sie	möchten		vcon.moechten		
+2	SUB		14		2	Ich fahre oft mit {F1} nach Hause.				pro.dat		
+2	SUB		15		4	Wo {F2} {F1} heute?	Sie	essen		vcon.essen		
+2	SUB		16		2	Es gefällt {F1} hier sehr gut.				pro.dat		
+2	SUB		17		4	Dann {F2} {F1} jetzt noch zum Zoll.	Sie	müssen		vcon.muessen		
+2	SUB		18		4	{F1} {F2} aber auch gut deutsch sprechen.	Sie	kann		vcon.koennen		
+2	SUB		19		4	{F2} {F1} mitkommen?	ich	Darf		vcon.duerfen		
+2	SUB		20		4	{F1} {F2} auch im Konsulat.	Er	arbeitet		vcon.arbeiten		
+2	SUB		21		4	Wo {F2} {F1} hin?	Sie	fahren		vcon.fahren		
+2	SUB		22		4	{F1} {F2} gerade essen gehen.	Wir	wollen		vcon.wollen		
+2	SUB		23		1	Wo {F2} {F1}?	d- Flughafen	ist		der.nom		
+3	SUB		1		1	Hier ist {F1}.	d- Portier			der.nom		
+3	SUB		2		1	Ich suche {F1}.	d- Königsplatz			der.acc		
+3	SUB		3		1	Ich spreche von {F1}.	d- Amerikaner			der.dat		
+3	SUB		4		1	Wissen Sie, wo {F1} ist?	d- Rathaus			der.nom		
+3	SUB		5		1	Ich kann {F1} nicht finden.	d- Dom			der.acc		
+3	SUB		6		4	{F1} {F2} Geld abheben.	Sie	muss		vcon.muessen		
+3	SUB		7		4	{F1} {F2} Durst.	Ich	habe		vcon.haben		
+3	SUB		8		2	Ich kann es {F1} zeigen.				pro.dat		
+3	SUB		9		4	Das {F2} {F1} leider nicht.	ich	weiss		vcon.wissen		
+3	SUB		10		4	{F1} {F2} ein Glas Bier.	Er	trinkt		vcon.trinken		
+3	SUB		11		2	Vielleicht kann er {F1} einen Stadtplan geben.				pro.dat		
+3	SUB		12		4	Vorher {F2} {F1} noch zur Bank gehen.	ich	möchte		vcon.moechten		
+3	SUB		13		1	{F1} ist da drüben. {F2} ist da drüben.	D- Haltestelle	Er/Es/Sie		pro.nom		
+3	SUB		14		1	Ich fahre zu {F1} in der Bahnhofstrasse.	d- Bank			der.dat		
+3	SUB		15		1	Haben Sie {F1} da?	d- Stadtplan			der.acc		
+3	SUB		16		1	In {F1} gehen wir?	welch- Kino			der.acc		
+3	SUB		17		1	{F1} soll sehr berühmt sein.	D- Café			der.nom		
+3	SUB		18		1	Wir können {F1} fahren.	zu d- Ratskeller			der.acc		
+3	SUB		19		1	Wir suchen {F1}.	d- Park			der.acc		
+3	SUB		20		1	Wo ist {F1}? {F2} ist hier ganz in der Nähe.	d- Bahnhof	D-		der.nom		
+3	SUB		21		1	Sie können mit {F1} fahren.	d- Omnibus			der.dat		
+3	SUB		22		1	Er ist {F1}.	in d- Ratskeller			der.dat		
+3	SUB		23		1	In {F1} wollen wir gehen?	welch- Restaurant			der.acc		
+3	SUB		24		1	Dort {F3} {F1}. {F2} können wir fragen.	d- Polizist	D-	ist/sind	der.acc		
+3	SUB		25		1	Zu {F1} gehen Sie?	welch- Bank			der.acc		
+3	SUB		26		1	Ich gehe durch {F1}.	d- Park			der.acc		
+3	SUB		27		1	Vorher möchte ich noch {F1} gehen.	zu d- Bank			der.acc		
+3	SUB		28		1	Wir können {F1} fragen.	d- Portier			der.acc		
+3	SUB		29		1	Die Bank ist neben {F1}.	d- Hotel			der.dat		
+3	SUB		30		1	Können wir {F1} behalten?	d- Stadtplan			der.acc		
+3	SUB		31		1	Wollen wir einen Spaziergang {F1} machen?	zu d- Schloss			der.dat		
+3	SUB		32		1	Wie gefällt Ihnen {F1}?	dies- Stadt			der.nom		
+3	SUB		33		1	Kennen Sie {F1}?	dies- Strasse			der.acc		
+3	SUB		34		1	{F1} ist sehr schön.	Dies- Park			der.nom		
+3	SUB		35		1	Fährt dieser Autobus {F1}?	zu d- Königsplatz			der.dat		
+3	SUB		36		1	Sie ist doch {F1}, sehen Sie sie nicht?	im Café			der.dat		
+3	SUB		37		2	Der Beamte {F1} den Diplomaten.				vcon.mult		
+3	SUB		38		1	Wir wohnen nicht weit von {F1}.	dies- Park			der.dat		
+4	SUB	1	1		1	Das ist {F1}.	mein- Koffer			ein.nom		
+4	SUB	1	2		1	Das sind {F1}.	mein- Zigaretten			ein.nom		
+4	SUB	1	3		1	Ich kenne {F1} in dieser Stadt.	kein- Amerikaner			ein.acc		
+4	SUB	1	4		1	Er wohnt in der Nähe von {F1}?	ein- Flughafen			ein.dat		
+4	SUB	1	5		1	Ist das {F1}?	uns- Koffer			ein.nom		
+4	SUB	1	6		1	Ich kann {F1} nicht finden.	Ihr- Koffer			ein.acc		
+4	SUB	2	7		1	Hier ist {F1}. Dort ist auch {F2}.	ein- Koffer	ein-		ein.nom.pop		
+4	SUB	2	8		1	Haben Sie schon {F1}, oder haben Sie noch {F2}?	ein- Hotel	kein-		ein.acc.pop		
+4	SUB	2	9		1	Ist das {F1}? Nein, es ist {F2}.	sein- Koffer	unser-		ein.nom.pop		
+4	SUB	2	10		1	Ist das {F1} oder {F2}?	Ihr- Hotel	unser-		ein.nom.pop		
+4	SUB	2	11		1	Hat Herr Müller {F1}? Nein, er hat {F2}.	ein- Koffer	kein-		ein.acc.pop		
+4	SUB	2	12		1	Das ist {F1}.  Wo ist {F2}?	sein- Gepäck	Ihr-		ein.nom.pop		
+4	SUB	2	13		1	Von {F1} spricht er? Von {F2}.	welch- Pass	sein-		ein.dat.pop		
+4	SUB	3	14		1	Wo ist {F1}?	mein- Geld			ein.nom		
+4	SUB	3	15		1	Hier ist {F1}.	unser- Taxe			ein.nom		
+4	SUB	3	16		1	Sie hat {F1}.	kein- Zigaretten			ein.acc		
+4	SUB	3	17		1	Er kennt {F1}.	mein- Frau			ein.acc		
+4	SUB	3	18		1	Ich frage {F1}.	ein- Polizisten			ein.acc		
+4	SUB	3	19		1	Er arbeitet in {F1}.				ein.dat		
+4	SUB	3	20		1	Er wohnt in {F1}.				ein.dat		
+4	SUB	3	21		1	Sie spricht mit {F1}.				ein.dat		
+4	SUB	3	22		1	Er will {F1} haben.				ein.acc		
+4	SUB	3	23		1	Wir wollen zu {F1} gehen.				ein.dat		
+4	SUB	3	24		1	Er trifft {F1}.				ein.acc		
+4	SUB	3	25		1	{F1} kann sich nicht an das Klima gewöhnen.				ein.nom		
+4	SUB	3	26		1	Ich habe {F1}.				ein.acc		
+4	SUB	3	27		1	Gibt es hier in der Nähe {F1}?				ein.acc		
+4	SUB	3	28		2	Was kann ich für {F1} tun?				ein.acc		
+4	SUB	3	29		2	Er bietet {F1} eine Zigarette an.				einder.dat		
+4	SUB	3	30		2	Ich {F1} gern.				vcon.mult		
+4	SUB	3	31		2	Sind sie {F1}, nicht wahr?				noart.jobs		
+4	SUB	3	32		2	Es passt {F1} am Sonntag sehr gut.				pro.dat		
+4	SUB	3	33		2	Das Restaurant in der Ludwigstrasse gefällt {F1} nicht.				pro.dat		
+4	SUB	3	34		1	Er kann sich nicht an {F1} gewöhnen.				ein.acc		
+5	SUB		1	1	1	Wo ist {F1}?				der.nom		
+5	SUB		2	1	1	Ich hole {F1}.				der.acc		
+5	SUB		3	1	1	Er spricht von {F1}.				der.dat		
+5	SUB		4	1	2	Ich habe nur {F1}, aber Herr Keller hat zwei {F2}.				ein.nom.npl		
+5	SUB		5	1	2	Das ist {F1}; Ihre {F2} sind dort drüben.				ein.nom.npl		
+5	SUB		6	2	2	Wo sind die {F1}?				npl.nom		
+5	SUB		7	2	2	Hier sind unsere {F1}.				npl.nom		
+5	SUB		8	2	2	Ich suche die {F1}. Wo sind sie?				npl.acc		
+5	SUB		9	2	2	Wir sprechen gerade von den {F1} in Deutschland.				npl.dat		
+5	SUB		10	2	2	Wieviele {F1} gibt es in Deutschland?				npl.acc		
+5	SUB		11	2	2	Wieviele {F1} gibt es in dieser Stadt?				npl.acc		
+5	SUB		12	3	1	Das ist der Wagen {F1}.	d- Amerikaners			der.gen		
+5	SUB		13	3	1	Wissen Sie die Adresse {F1}?	d- Konsuls			der.gen		
+5	SUB		14	3	1	Wo ist der Wagen {F1}?	dies- Hotels			der.gen		
+5	SUB		15	3	1	Ich gebe Ihnen die Adresse {F1} in München.	ein- Diplomaten			ein.gen		
+5	SUB		16	3	1	Ist das nicht die Schreibmaschine {F1}?	Ihr- Bruders			ein.gen		
+5	SUB		17	3	1	Möchten Sie die Adresse {F1} haben?	unser- Hotels			ein.gen		
+5	SUB		18	3	2	Wir wohnen im Haus {F1}.				ein.gen		
+5	SUB		19	3	2	Haben Sie die Pässe {F1}?				ein.gen		
+5	SUB		20	3	1	Hier ist {F1}.	ein- d- Bleistifte			pop.nom.der.gen		
+5	SUB		21	3	1	Ich möchte {F1} haben.	mein- Frau			pop.acc.der.gen		
+5	SUB		22	3	2	{F1} {F3} die Zeitung {F2} Tante.	Sie	ihr-	leiht sich	ein.gen		
+5	SUB		23	3	4	{F1} {F2} {F3} nicht an das Klima gewöhnen.	Sie	kann	sich	vcon.koennen		
+6	SUB		1	1	1	Ist das {F1}?	d- neue Wagen?			der.adj.nom		
+6	SUB		2	1	1	Er kennt {F1}.	d- alt- Portier			der.adj.acc		
+6	SUB		3	1	1	Er geht zu {F1}.	d- alt- Bahnhof			der.adj.dat		
+6	SUB		4	1	1	Hier ist {F1}.	ein- gut- Bleistift			ein.adj.nom		
+6	SUB		5	1	1	Ich suche {F1}.	ein- gut- Wagen			ein.adj.acc		
+6	SUB		6	1	1	Hier ist die Adresse {F1}.	ein- alt- Kollegen			ein.adj.gen		
+6	SUB		7	1	2	Können Sie mir die Adresse {F1} geben?				ein.adj.gen		
+6	SUB		8	2	2	Unser Auto ist nicht {F1}.				adj.pred		
+6	SUB		9	2	2	Diese Auskunft ist {F1}.				adj.pred		
+6	SUB		10	2	2	Die Einfuhrbestimmungen sind {F1}.				adj.pred		
+6	SUB		11	2	2	Sie haben vorhin bei {F1} angerufen.				pro.dat		
+6	SUB		12	2	2	{F1} Zigaretten nicht bei {F2}.	Ich habe meine	mir		pro.dat		
+6	SUB		13	2	2	Das sind die {F1}.				der.adj.nom.pl		
+6	SUB		14	2	2	Das sind {F1}.				ein.adj.nom.pl		
+6	SUB		15	2	2	Er spricht mit {F1}.				der.adj.dat.pl		
+6	SUB		16	2	2	Das ist {F1}.				der.adj.nom.sing		
+6	SUB		17	2	2	Er zeigt uns die {F1}.				der.adj.acc.pl		
+6	SUB		18	2	2	Sie kennen {F1}.				ein.adj.acc.pl		
+6	SUB		19	2	2	Das ist {F1}.				ein.adj.nom.sing		
+6	SUB		20	2	2	Er hat {F1}.				ein.adj.acc		
+6	SUB		21	2	2	Zeigen Sie mir {F1}.				pop.acc.der.adj.gen.pl		
+6	SUB		22	2	2	Sie wohnen in {F1}.				ein.adj.dat.sing		
+6	SUB		23	2	2	Es handelt sich um {F1}				pop.acc.ein.adj.dat.pl		
+6	CONV		1		5	Hier ist der schöne {F1}.	Park			der.adj.nom		
+6	CONV		2		5	Wo ist mein neuer {F1}?	Bleistift			ein.adj.nom		
+6	CONV		3		5	Hier wohnt unser guter {F1}.	Bekannter			ein.adj.nom		
+6	CONV		4		5	Er kennt den französischen {F1}.	Roman			der.adj.acc		
+6	CONV		5		5	Sie liest die amerikanische {F1}.	Zeitung			der.adj.acc		
+6	CONV		6		5	Ihre nette {F1} besucht uns heute.	Verwandte			der.adj.nom		
+6	CONV		7		5	Wie gefällt Ihnen die grosse {F1}?	Wohnung			der.adj.nom		
+6	CONV		8		5	Hier ist kein deutscher {F1}.	Beamter			der.adj.nom		
+6	CONV		9		5	Dieser schöne {F1} gehört mir nicht.	Koffer			der.adj.nom		
+6	CONV		10		5	Hier gibt es keinen grossen {F1}.	Parkplatz			der.adj.acc		
+6	CONV		11		5	Mein amerikanischer {F1} ist {F2}.	Kollege	Vizekonsul		ein.adj.nom		
+6	CONV		12		5	Er spricht mit der {F1} der neuen {F2}.	Sekretärin	Abteilung		der.adj.dat.der.adj.gen		
+6	CONV		13		5	Wollen Sie das nicht der netten {F1} zeigen?	Amerikanerin			der.adj.gen		
+6	CONV		14		5	Hier ist die neue {F1} meiner {F2}.	Schreibmaschine	Schwester		der.adj.nom.der.gen		
+6	CONV		15		5	Kennen Sie das nette {F1} dieses {F2}.	Buch	Schriftstellers		der.adj.nom.der.gen		
+6	CONV		16		5	Ich kann mit diesem kaputten {F1} nicht schreiben.	Füller			der.adj.dat		
+6	CONV		17		5	Ist das der neue {F1}?	Pfennig			der.adj.nom		
+7	SUB		1	1	2	Wieviel kostet {F1}?				unp.adj.nom		
+7	SUB		2	1	2	Wieviel kostet {F1}?				unp.adj.nom		
+7	SUB		3	1	2	Ihm gehören {F1} Häuser?				unp.adj.nom.pl		
+7	SUB		4	1	2	Haben Sie {F1}?				unp.adj.nom.pl		
+7	SUB		5	1	2	Ich suche noch {F1}.				unp.adj.nom.pl		
+7	SUB		6	1	2	Ich suche {F1}.				unp.adj.acc		
+7	SUB		7	1	2	Hier ist {F1}.				unp.adj.nom		
+7	SUB		8	1	2	Haben Sie {F1}?				unp.adj.acc		
+7	SUB		9	1	2	Dort steht eine Kiste mit {F1}.				unp.adj.dat		
+7	SUB		10	1	2	In diesem Haus sind {F1}.				unp.adj.nom.pl		
+7	SUB		11	2	2	Diese Stadt hat viele {F1}.				unp.adj.acc.pl		
+7	SUB		12	2	2	Diese Stadt hat keine {F1}.				ein.adj.acc.pl		
+7	SUB		13	2	2	Hier gibt es {F1}.				unp.adj.acc.pl		
+7	SUB		14	2	2	Hier gibt es keine {F1}.				ein.adj.acc.pl		
+7	SUB		15	2	2	Haben Sie einige {F1}?				unp.adj.acc.pl		
+7	SUB		16	2	2	Wir haben {F1}.				einunp.adj.dat		
+7	SUB		17	2	2	Das ist eine Stadt mit {F1}.				einunp.adj.dat		
+7	SUB		18	2	2	Das ist ein Haus mit {F1}.				einunp.adj.dat		
+7	SUB		19	2	2	In dieser Stadt {F2} {F1}.		ist/sind		einunp.adj.nom		
+7	SUB		20	2	2	Diese Stadt hat {F1}.				einunp.adj.acc		
+7	SUB		21	3	2	Er stellt einen Stuhl {F1}.				2way.acc		
+7	SUB		22	3	2	{F1} steht ein Stuhl.				2way.dat		
+7	SUB		23	3	2	Der Papierkorb steht {F1}.				2way.dat		
+7	SUB		24	3	2	Ich stelle den Papierkorb {F1}.				2way.acc		
+7	SUB		25	3	2	Legen Sie bitte das Buch {F1}.				2way.acc		
+7	SUB		26	3	2	Das Buch liegt {F1}.				2way.dat		
+7	SUB		27	3	2	Der Brief liegt {F1}.				2way.dat		
+7	SUB		28	3	2	Sie legt den Brief {F1}.				2way.acc		
+7	SUB		29	3	2	Das Bild hängt {F1}.				2way.dat		
+7	SUB		30	3	2	Soll ich das Bild {F1} hängen?				2way.acc		
+8	SUB		1		1	Brauchen Sie noch ein paar {F1}?				ep.acc		
+8	SUB		2		1	Ich brauche noch etwas {F1}.				etw.no.acc		
+8	SUB		3		2	Was für {F1} wollen Sie kaufen?				wf.acc		
+8	SUB		4		2	Was für {F1} möchten Sie?				wf.ein.acc		
+8	SUB		5		2	Sind das alle {F1} Zeitungen?				alle.adj.nom		all- is der-type specifier.  In singular it occurs with the endings -es or -em and usually stands alone or is followed by an adjective.  In the plural it occurs both alone and as part of the usual specifier-adj-noun sequence.
+8	SUB		6		2	Hier sind ein paar {F1} Bücher.				ep.adj.nom		ein paar is invariable, has indefinite plural reference.  adjectives that follow decline as unpreceded
+8	SUB		7		1	Was für {F1} ist das!	ein- schön- gross- X			wf.adj.nom		was für is invariable, has indefinite singular or plural reference.  adjectives that follow decline as unpreceded
+8	SUB		8		2	Hier gibt's nichts {F1}.				nichts.adj.acc		nichts/etwas are not specifiers.  They are followed by adjective written with 'das' endings that functinon as noun, or adj+noun sequence with unpreceded endings on the adjective
+8	SUB		9		2	Wollen Sie etwas {F1} haben?				etw.adj.acc		nichts/etwas are not specifiers.  They are followed by adjective written with 'das' endings that functinon as noun, or adj+noun sequence with unpreceded endings on the adjective
+8	SUB		10		2	Wieviel kostet {F1}?				der.adj.nom		
+8	SUB		11		2	Haben Sie {F1} in meiner Grösse?				ein.adj.acc		
+8	SUB		12		2	Wie gefällt Ihnen {F1}?				ein.adj.nom		
+8	SUB		13		2	{F1} kaufe ich mir.				der.adj.acc		
+8	SUB		14		2	Ich kenne hier {F1}.				ein.adj.acc		
+8	SUB		15		2	Sind Sie mit {F1} zufrieden?				einder.adj.dat		
+8	SUB		16		2	{F1} sieht sehr gut aus.				ein.adj.nom		
+8	SUB		17		2	Ich möchte mir einige {F1} kaufen.				einige.adj.acc		einige is an adjective
+8	SUB		18		2	Zeigen Sie mir bitte {F1}.				ein.acc.der.adj.gen.pl		
+8	SUB		19		2	Die Krawatte passt gut zu {F1}.				ein.adj.dat		
+8	SUB		20		2	Wie ist die Qualität {F1}?				der.adj.gen		
+8	SUB		21		2	Ich möchte mir gern ein paar {F1} ansehen.				ep.adj.acc		
+8	SUB		22		2	Wie gefällt Ihnen {F1}?				der.adj.ein.gen		
+8	SUB		23		2	Wieviel kosten {F1}?				unp.adj		
+8	SUB		24		2	{F1} sind teuer.				alle.adj.nom		all- is der-type specifier.  In singular it occurs with the endings -es or -em and usually stands alone or is followed by an adjective.  In the plural it occurs both alone and as part of the usual specifier-adj-noun sequence.
+8	SUB		25		2	Hier gibt es viele {F1}.				viel.adj.acc		viele is an adjective
+8	SUB		26		2	Wir haben {F1}.				ein.adj.acc		
+8	SUB		27		2	Ich bin mit {F1}.				alle.adj.dat		all- is der-type specifier.  In singular it occurs with the endings -es or -em and usually stands alone or is followed by an adjective.  In the plural it occurs both alone and as part of the usual specifier-adj-noun sequence.
+8	SUB		28		2	Wir kommen mit ein paar {F1}.				ep.adj.dat		ein paar is invariable, has indefinite plural reference.  adjectives that follow decline as unpreceded
+8	SUB		29		2	Kennt Herr Becker nicht ein paar {F1}?				ep.adj.acc		ein paar is invariable, has indefinite plural reference.  adjectives that follow decline as unpreceded
+8	SUB		30		2	Ich möchte gern {F1} haben.				spec.adj.acc		
+9	SUB	1	1		2	Wir haben {F1}.				viel.no.acc		
+9	SUB	1	2		2	Ich habe nur {F1}.				wenig.no.acc		
+9	SUB	1	3		2	Sie hat {F1} als ich.				mehr.no.acc		
+9	SUB	1	4		2	Er trinkt {F1}.				wenig.no.acc		
+9	SUB	1	5		2	Er hat {F1} als ich.				weniger.no.acc		
+9	SUB	1	7		2	Er trinkt {F1}.				viel.unc.acc.no		
+9	SUB	1	8		2	Hier gibt es {F1} als bei Ihnen zu Hause.				mehrwenig.acc.no		
+9	SUB	1	9		2	Hier ist es nicht so {F1} wie in Berlin.				adj.eq		
+9	SUB	1	10		2	{F1} {F2} morgen nach Berlin fahren.		werde/wird/werden		vcon.werden		
+9	SUB	1	11		2	{F1} {F2} {F3} Jacke anziehen.	Ich	will	meine	vcon.wollen		
+9	SUB	1	12		2	{F1} wollen {F2} Mäntel anziehen.				vcon.wollen		
+9	SUB	1	13		2	{F1} ist kalt.				temp.adj		
+9	SUB	1	14		1	Ist {F1} zu warm?				temp.adj		
+9	SUB	1	15		2	Wir freuen uns auf {F1}.				vocab.sichfreuen		
+9	SUB	1	16		2	Er stellt {F1} an.				vcon.anstellen		
+9	SUB	2	1		2	Er fährt jetzt {F1}.				pred.adj.comp		
+9	SUB	2	2		2	Dieses Haus ist {F1}.				pred.adj.sup		
+9	SUB	2	3		2	Der Herbst ist hier {F1} Jahreszeit.				adj.sup.nom		
+9	SUB	2	4		2	Hier ist es {F1} als in Berlin.				adj.comp		
+9	SUB	2	5		2	Wo ist es {F1}?				pred.adj.sup		
+9	SUB	2	6		2	Er kauft sich {F1}.				adj.sup.acc		
+9	SUB	2	7		2	Ihr Haus ist {F1} als {F2}.	grösser	mein-		adj.comp.pop		
+9	SUB	2	8		2	Das ist unser {F1} Wagen hier in Deutschland.				ein.adj.comp.nom		
+9	SUB	2	9		2	Er hat ein {F1} Zimmer als sein Bruder.				ein.adj.comp.acc		
+9	SUB	2	10		2	Er arbeitet in {F1} der Stadt.				der.adj.sup.dat		
+9	SUB	2	11		2	Das sind {F1} Hemden.				ein.adj.nom		
+9	SUB	2	12		2	Wir kaufen uns {F1} Lampe.				ein.adj.sup.acc		
+9	SUB	2	13		2	Ist das Ihr {F1} Auto?				ein.adj.sup.nom		
+9	SUB	2	14		2	Das sind {F1} Tage.				der.adj.sup.acc		
+9	SUB	2	15		2	Ich nehme {F1}.				der.adj.comp.acc		
+9	SUB	2	16		2	Kennen Sie {F1} von ihm?				der.adj.sup.acc		
+9	SUB	2	17		2	Hier ist ein Bild {F1}.				der.adj.sup.gen		
+9	SUB	2	18		2	Er arbeitet in {F1} als ich.				ein.adj.comp.dat		
+9	SUB	2	19		2	Das ist {F1} in diesem Geschäft.				der.adj.sup.nom		
+9	SUB	2	20		2	Diese Stadt hat {F1} als Bremen.				unp.adj.comp.acc		
+9	SUB	2	21		2	Ich gehe heute in {F1}.				ein.adj.comp.acc		
+9	CONV		1		3	Oben in den Bergen ist es heute {F1} unten im Tal.	windiger als			adj.eq		
+9	CONV		2		3	Hier ist es {F1} in Süddeutschland.	kühler als			adj.eq		
+9	CONV		3		3	Im Sommer ist es in Washington {F1} in Frankfurt.	heisser als			adj.eq		
+9	CONV		4		3	Ihre Schreibmaschine ist {F1} meine.	besser als			adj.eq		
+9	CONV		5		3	Hier ist {F1} Verkehr {F2} auf der Autobahn.	weniger	als		adj.eq		
+9	CONV		6		3	Das weisse Hemd gefällt mir {F1} das farbige.	besser als			adj.eq		
+9	CONV		7		3	Ist denn der Dom in Köln {F1} der in Frankfurt?	grösser als			adj.eq		
+9	CONV		8		3	Finden Sie diesen Stoff {F1} den anderen da?	besser als			adj.eq		
+9	CONV		9		3	Diese Zeitung ist {F1} die Frankfurter Allgemeine.	interessanter als			adj.eq		
+9	CONV		10		3	Dieser Brief ist augenblicklich {F1} Ihr Ferngespräch.	dringender und wichtiger als			adj.eq		
+9	CONV		11		3	Das Material dieses blauen Anzugs ist {F1} das des grauen.	leichter als			adj.eq		
+9	CONV		12		3	Wir fahren {F1} mit der Strassenbahn {F2} mit dem Autobus.	lieber	als		adj.eq		
+9	CONV		13		3	Er will {F1} von dem deutschen Wein {F2} von dem französischen kaufen.	mehr	als		adj.eq		
+9	CONV		14		3	Unsere Küche ist {F1} das Wohnzimmer.	gemütlicher als			adj.eq		
+9	CONV		15		3	In den neuen Etagenhäusern sind die Miete {F1} in den alten.	höher als			adj.eq		
+9	CONV		16		3	Wir sehen den Wagen des Konsuls {F1} den des Botschafters.	öfter als			adj.eq		
+9	CONV		17		3	In dieser Stadt gibt es {F1} Omnibusse {F2} Strassenbahnen.	mehr	als		adj.eq		
+10	SUB	1	1		2	Ich weiss nicht, {F1} Herr Meyer kommt.				conj	E	
+10	SUB	1	2		2	Wissen Sie, {F1} er nach England fährt?				conj	E	
+10	SUB	1	3		2	Das Konzert findet in {F1} statt.				time.pt	E	
+10	SUB	1	4		2	Ich besuche {F1} manchmal Beckers.				time.gen	E	
+10	SUB	1	5		2	Ich möchte mir {F1} bestellen.				ein.nnpart	E	
+10	SUB	1	6		2	Das hängt von {F1} ab.				einder.dat		
+10	SUB	1	7		2	Ich glaube, dass er {F1}.				order.sub	E	
+10	SUB	1	8		2	Wissen Sie, wann er gewöhnlich {F1}?				order.sub	E	
+10	SUB	1	9		2	Glauben Sie wirklich, dass Herr Jones {F1}?				order.sub	E	
+10	SUB	1	10		2	Wir wissen nicht, ob {F1}.				order.sub	E	
+10	SUB	2	1		3	Heute ist {F1}.				der.date.nom		
+10	SUB	2	2		3	Er kommt {F1}.				am.date		
+10	SUB	2	3		3	Ich freue mich auf {F1}.				der.date.acc		
+10	SUB	2	4		3	{F1} ist ein Mittwoch.				der.date.nom		
+10	SUB	2	5		3	{F1} wollen wir nach Bonn fahren.				am.date		
+10	SUB	2	6		3	Das Theater fängt um {F1} an.				time.form		
+10	SUB	2	7		3	Wir essen meistens um {F1}.				time.viertel		
+10	SUB	2	8		3	Es ist genau {F1}.				time.nachvor		
+10	CONV	1	1		5	Wir fahren {F1} in die Berge.	nächsten Monat			order		
+10	CONV	1	2		5	Die Sonne scheint {F1} sehr schön.	heute			order		
+10	CONV	1	3		5	Ich weiss nicht, {F1}.	was wir machen sollen			order		
+10	CONV	1	4		5	Wir gehen zusammen einkaufen, {F1}.	wenn mein Mann nach Hause kommt			order		
+10	CONV	1	5		5	Wir kommen {F1} zu Ihnen, wenn wir Zeit haben.	am Sonntag			order		
+10	CONV	1	6		5	Wir werden {F1} leider nicht mehr sehen können.	seine Frau			order		
+10	CONV	1	7		5	Wir essen gewöhnlich um eins, {F1}.	da ich mittags nach Hause gehe			order		
+10	CONV	1	8		5	Ich bestelle {F1} Rumpsteak mit Röstkartoffeln, {F2}.	meistens	wenn ich ins Restaurant gehe		order		
+10	CONV	1	9		5	Wir essen immer {F1}.	um diese Zeit			order		
+10	CONV	1	10		5	Wir kennen {F1} nicht, aber sie.	ihn			order		
+10	CONV	1	11		5	Ich habe nicht {F1}.	das Geld für eine grosse Reise			order		
+10	CONV	2	1		5	Mein Kollege hat ein neues Auto. Wir fahren öfters zusammen in die Berge.				coco		
+10	CONV	2	2		5	Ich möchte ihn sehr gern besuchen. Er wohnt zu weit von hier.				coco		
+10	CONV	2	3		5	Ich möchte die Lampe kaufen. Ich habe kein Geld.				coco		
+10	CONV	2	4		5	Sie können eine Taxe nehmen. Sie können mit Ihrem Wagen fahren.				coco		
+10	CONV	2	5		5	Nehmen Sie Rumpsteak? Essen Sie lieber Kalbsleber?				coco		
+10	CONV	2	6		5	Der Vizekonsul gibt ihr ein Formular. Sie füllt es aus.				coco		
+10	CONV	2	7		5	Meine Frau hat Appetit auf Bratwurst mit Sauerkraut. Ich esse lieber Forelle blau.				coco		
+10	CONV	2	8		5	Herr Becker nimmt den Hörer ab. Die Sekretärin meldet sich.				coco		
+10	CONV	3	1		5	Wann zieht Herr Becker ein?				order.sub.qw		
+10	CONV	3	2		5	Wann kommt Herr Becker an?				order.sub.qw		
+10	CONV	3	3		5	Wen ruft Herr Beckter an?				order.sub.qw		
+10	CONV	3	4		5	Wieviel gibt Herr Becker aus?				order.sub.qw		
+10	CONV	3	5		5	Warum fährt Herr Becker ab?				order.sub.qw		
+10	CONV	3	6		5	Was füllt Herr Becker gerade aus?				order.sub.qw		
+10	CONV	3	7		5	Wen holt Herr Becker ab?				order.sub.qw		
+10	CONV	3	8		5	Was packt Herr Becker ein?				order.sub.qw		
+10	CONV	3	9		5	Mit wem macht Herr Becker die Herren bekannt?				order.sub.qw		
+10	CONV	4	1		5	Bei wem klingelt Herr Meyer?				order.sub.qw		
+10	CONV	4	2		5	Mit wem spricht Herr Meyer?				order.sub.qw		
+10	CONV	4	3		5	Auf was freut sich Herr Meyer?				order.sub.qw		
+10	CONV	4	4		5	An wen schreibt Herr Meyer?				order.sub.qw		
+10	CONV	4	5		5	Zu wem geht Herr Meyer?				order.sub.qw		
+10	CONV	4	6		5	Mit wem spricht Herr Meyer?				order.sub.qw		
+10	CONV	4	7		5	Neben wem wohnt Herr Meyer?				order.sub.qw		
+11	SUB		1		2	Ich muss {F1} in die Stadt fahren.				time.heute	E	
+11	SUB		2		2	Hoffentlich verpassen wir {F1} nicht.				der.acc		
+11	SUB		3		2	Er lässt {F1}.				der.acc		
+11	SUB		4		2	Ich will {F1} reinigen lassen.				ein.adj.acc		
+11	SUB		5		2	Nimm doch bitte auch {F1} mit.				einder.adj.acc		
+11	SUB		6		2	Beeil' dich, damit du {F1}.				der.accdat		
+11	SUB		7		2	Ich gebe dir noch Geld, damit du {F1} kannst.				der.accdat		
+11	SUB		8		2	Es handelt sich um {F1}.				der.accdat		
+11	SUB		9		2	Passt es {F1}, wenn wir um acht vorbeikommen?				pro.dat		
+11	SUB		10		2	Ich hoffe, du {F1}.				order.sep	E	
+11	SUB		11		2	Herr Becker holt {F1} um fünf Uhr ab.				pro.acc		
+11	SUB		12		2	Ich möchte {F1} sprechen.				noun.acc		
+11	SUB		13		2	Ich will jetzt {F1} lassen.				der.acc		
+11	SUB		14		2	Ein Herr {F1} möchte Sie sprechen.				der.dat		
+11	SUB		15		2	{F2} {F1} die Hände?	er sich	Wäscht		vcon.waschen		
+11	SUB		16		2	Ich hole dich um zwei {F1} ab.				der.dat		
+11	SUB		17		2	{F1} die Haare schneiden lassen.	Du musst dir			vcon.muessen		
+11	CONV	1	1		6	Kommt er um fünf nach Hause?				vc.du.ihr		
+11	CONV	1	2		6	Geht er heute nachmittag zum Schuster?				vc.du.ihr		
+11	CONV	1	3		6	Bestellt er die Bücher bald?				vc.du.ihr		
+11	CONV	1	4		6	Verschläft er sich oft?				vc.du.ihr		
+11	CONV	1	5		6	Kämmt er sich öfters die Haare?				vc.du.ihr		
+11	CONV	1	6		6	Diktiert er gewöhnlich so schnell				vc.du.ihr		
+11	CONV	1	7		6	Fährt er mittags meistens nach Hause?				vc.du.ihr		
+11	CONV	1	8		6	Läuft er immer so langsam?				vc.du.ihr		
+11	CONV	1	9		6	Vergisst er die Briefe auch nicht?				vc.du.ihr		
+11	CONV	1	10		6	Will er den Vortrag halten?				vc.du.ihr		
+11	CONV	1	11		6	Wohnt er in der Stadt oder im Vorort?				vc.du.ihr		
+11	CONV	1	12		6	Wäscht er seine Wäsche selbst oder bringt er sie in die Wäscherei?				vc.du.ihr		
+11	CONV	1	13		6	Zieht er in die Stadt?				vc.du.ihr		
+11	CONV	1	14		6	Wechselt er das Geld in der Bank?				vc.du.ihr		
+11	CONV	1	15		6	Vermietet er eins seiner Zimmer?				vc.du.ihr		
+11	CONV	1	16		6	Tut er das gern?				vc.du.ihr		
+11	CONV	1	17		6	Trifft er sie immer auf dem Nachhauseweg?				vc.du.ihr		
+11	CONV	1	18		6	Trägt er heute seinen neuen Anzug?				vc.du.ihr		
+11	CONV	1	19		6	Steht er schon lange da?				vc.du.ihr		
+11	CONV	1	20		6	Sitzt er gern in diesem Sessel?				vc.du.ihr		
+11	CONV	1	21		6	Setzt er sich wieder an diesen Tisch?				vc.du.ihr		
+11	CONV	1	22		6	Schreibt er einen anderen Artikel?				vc.du.ihr		
+11	CONV	1	23		6	Nimmt er wieder Kalbsleber mit Kartoffelpüree?				vc.du.ihr		
+11	CONV	1	24		6	Mietet er die Wohnung in der Schubertstrasse?				vc.du.ihr		
+11	CONV	1	25		6	Legt er die Briefe immer auf den Schreibtisch?				vc.du.ihr		
+11	CONV	1	26		6	Leiht er uns die Schreibmaschine?				vc.du.ihr		
+11	CONV	1	27		6	Lebt er schon lange in Deutschland?				vc.du.ihr		
+11	CONV	1	28		6	Kennt er den Uhrmacher gut?				vc.du.ihr		
+11	CONV	1	29		6	Kauft er seine Anzüge im Herrenkonfektionsgeschäft?				vc.du.ihr		
+11	CONV	1	30		6	Hört er die Nachrichten um sieben oder um acht?				vc.du.ihr		
+11	CONV	1	31		6	Holt er heute seine Eltern ab?				vc.du.ihr		
+11	CONV	1	32		6	Hilft er beim Einrichten?				vc.du.ihr		
+11	CONV	1	33		6	Heisst er Bauer oder Brauer?				vc.du.ihr		
+11	CONV	1	34		6	Hält er vor dem Hotel?				vc.du.ihr		
+11	CONV	1	35		6	Hat er die Unterlagen bei sich?				vc.du.ihr		
+11	CONV	1	36		6	Gibt er ihm ein Frühstücksbrot?				vc.du.ihr		
+11	CONV	1	37		6	Findet er den Artikel?				vc.du.ihr		
+11	CONV	1	38		6	Isst er abends gewöhnlich warm?				vc.du.ihr		
+11	CONV	1	39		6	Denkt er, dass es in Deutschland kälter ist als hier?				vc.du.ihr		
+11	CONV	1	40		6	Braucht er ein neues Auto?				vc.du.ihr		
+11	CONV	2	1		6	Zeigen Sie mir bitte Ihr Gepäck.				imp.du.ihr		
+11	CONV	2	2		6	Gehen Sie hier durch den Park.				imp.du.ihr		
+11	CONV	2	3		6	Kommen Sie doch mal am nächsten Sonntag zu uns.				imp.du.ihr		
+11	CONV	2	4		6	Entschuldigen Sie, dass ich störe.				imp.du.ihr		
+11	CONV	2	5		6	Sehen Sie mal diese dunklen Wolken am Himmel.				imp.du.ihr		
+11	CONV	2	6		6	Sagen Sie ihm doch bitte, er möchte mich anrufen.				imp.du.ihr		
+11	CONV	2	7		6	Bringen Sie bitte die Wäsche in die Wäscherei.				imp.du.ihr		
+11	CONV	2	8		6	Kommen Sie doch bitte nicht zu spät.				imp.du.ihr		
+11	CONV	2	9		6	Bleiben Sie bitte noch eine Stunde hier.				imp.du.ihr		
+11	CONV	2	10		6	Lesen Sie doch mal diesen Artikel.				imp.du.ihr		
+11	CONV	3	1		5	Professor Albers hält heute den Vortrag.				order.sub		
+11	CONV	3	2		5	Sie ist beim Frisör.				order.sub		
+11	CONV	3	3		5	Die Schuhe sind beim Schuster.				order.sub		
+11	CONV	3	4		5	Er sitzt am Frühstückstisch.				order.sub		
+11	CONV	3	5		5	Die Hemden sind noch in der Wäscherei.				order.sub		
+11	CONV	3	6		5	Beckers vermieten ihr Haus.				order.sub		
+11	CONV	3	7		5	Die Besprechung findet heute nicht statt.				order.sub		
+11	CONV	3	8		5	Unser Auto ist noch in der Reparaturwerkstatt.				order.sub		
+11	CONV	4	1		5	Wann will er sich die Haare schneiden lassen?				order.sub.qw		
+11	CONV	4	2		5	Wo kann ich mir die Schuhe besohlen lassen?				order.sub.qw		
+11	CONV	4	3		5	Wo soll ich den Anzug reinigen lassen?				order.sub.qw		
+11	CONV	4	4		5	Warum möchte er den Artikel übersetzen lassen?				order.sub.qw		
+11	CONV	4	5		5	Wo können wir uns die Sachen einpacken lassen?				order.sub.qw		
+11	CONV	4	6		5	Wo willst du die Hemden waschen lassen?				order.sub.qw		
+11	CONV	4	7		5	Muss ich mich vorstellen lassen?				order.sub.qw		
+11	CONV	4	8		5	Wann darf ich deine Eltern abholen lassen?				order.sub.qw		
+11	CONV	4	9		5	Wen muss ich nach Hause bringen lassen?				order.sub.qw		
+11	CONV	4	10		5	Was soll ich Herrn Becker ausrichten lassen?				order.sub.qw		
+12	SUB		1		2	Das habe ich {F1}.				vc.pastp		
+12	SUB		2		2	Meyers sind vorige Woche {F1}.				vc.pastp		
+12	SUB		3		1	Wie hat Ihnen {F1} gefallen?				der.nom		
+12	SUB		4		2	{F1} {F2} seekrank gewesen.		ist/sind/bin		spec.nom		
+12	SUB		5		2	Ich habe Sie gestern {F1} gesehen.				der.dat		
+12	SUB		6		2	Wir sind erst {F1} angekommen.				time.pt		
+12	SUB		7		2	Wir wohnen schon {F1} in einem Zweifamilienhaus im Süden der Stadt.				time.dur		
+12	SUB		8		2	Sie wohnen seit {F1} in München.				seit.dur		
+12	SUB		9		2	Die Berliner Philharmoniker geben in {F1} ein Konzert.				time.dur		
+12	SUB		10		2	Ich bin {F1} dort geblieben.				time.dur		
+12	SUB		11		2	Er arbeitet schon seit {F1} in Frankfurt.				seit.dur		
+12	SUB		12		2	Wir wohnen schon {F1} hier.				time.dur		
+12	SUB		13		2	Ich bin erst {F1} in Hamburg.				time.dur		
+12	SUB		14		2	Ich habe sie neulich {F1}.				vc.pastp		
+12	SUB		15		2	Ich habe {F1}, dass Sie ein guter Tennisspieler sind.				vc.pastp		
+12	SUB		16		2	Ich bin erst seit {F1} hier.				seit.dur		
+12	SUB		17		1	Ist das da drüben nicht {F1}?				der.nom		
+12	CONV		1		5	Wann haben Sie das Geld ab?				vc.pastp		
+12	CONV		2		5	Er bietet ihr ein Glass Moselwein an.				vc.pastp		
+12	CONV		3		5	Wann fangen Sie an?				vc.pastp		
+12	CONV		4		5	Die Sekretärin meldet das Gespräch an.				vc.pastp		
+12	CONV		5		5	Sie probiert die braune Jacke an.				vc.pastp		
+12	CONV		6		5	Das können wir uns nicht leisten.				vc.pastp		
+12	CONV		7		5	Er zieht sich ein sauberes Oberhemd an.				vc.pastp		
+12	CONV		8		5	Wo arbeitet sie?				vc.pastp		
+12	CONV		9		5	Ich esse oft in diesem Restaurant.				vc.pastp		
+12	CONV		10		5	Was richten Sie ihm aus?				vc.pastp		
+12	CONV		11		5	Sie wandert nach Amerika aus.				vc.pastp		
+12	CONV		12		5	Stellst du dich heute für die Karten an?				vc.pastp		
+12	CONV		13		5	Ich beantrage ein Visum.				vc.pastp		
+12	CONV		14		5	Hoffentlich beeilt er sich.				vc.pastp		
+12	CONV		15		5	Er erkundigt sich beim Arbeitsamt.				vc.pastp		
+12	CONV		16		5	Sie macht ihn mit Dr. Becker bekannt.				vc.pastp		
+12	CONV		17		5	Bekommt ihr heute die Pässe?				vc.pastp		
+12	CONV		18		5	Wann besuchen Sie ihre Tochter?				vc.pastp		
+12	CONV		19		5	Bezahlst du heute die Miete?				vc.pastp		
+12	CONV		20		5	Wie lange bleibt ihr in München?				vc.pastp		
+12	CONV		21		5	Die Männer tragen die Kisten in den Keller.				vc.pastp		
+12	CONV		22		5	Sie bringt ihm die Ansichtskarten.				vc.pastp		
+12	CONV		23		5	Er buchstabiert seinen Namen.				vc.pastp		
+12	CONV		24		5	In dieser Tankstelle lasse ich die Reifen wechseln.				vc.pastp		
+12	CONV		25		5	Wo geht ihr heute hin?				vc.pastp		
+12	CONV		26		5	Musst du noch zur Apotheke gehen?				vc.pastp		
+12	CONV		27		5	Wann richtest du dein Zimmer ein?				vc.pastp		
+12	CONV		28		5	Die Sonne scheint den ganzen Tag.				vc.pastp		
+12	CONV		29		5	Wann fährt er nach Deutschland?				vc.pastp		
+12	CONV		30		5	Hoffentlich finden Sie die Zollbestimmungen.				vc.pastp		
+12	CONV		31		5	Der Frisör schneidet ihm die Haare.				vc.pastp		
+12	CONV		32		5	Sie freut sich auf seinen Besuch.				vc.pastp		
+12	CONV		33		5	Gehen Sie heute in die Stadt?				vc.pastp		
+12	CONV		34		5	Das Buch gefällt ihr nicht.				vc.pastp		
+12	CONV		35		5	Sie geben ihm den Artikel, nicht wahr?				vc.pastp		
+12	CONV		36		5	Können Sie sich an unser Klima gewöhnen?				vc.pastp		
+12	CONV		37		5	Hat er das Buch?				vc.pastp		
+12	CONV		38		5	Hilft Ihnen Frau Meyer beim Einrichten?				vc.pastp		
+12	CONV		39		5	Sie holt gerade die Schuhe ab.				vc.pastp		
+12	CONV		40		5	Ich bearbeite seinen Antrag.				vc.pastp		
+12	CONV		41		5	Kennen Sie Herrn Becker?				vc.pastp		
+12	CONV		42		5	Der Generalkonsul kommt heute.				vc.pastp		
+12	CONV		43		5	Er wechselt das Geld in der Bank.				vc.pastp		
+12	CONV		44		5	Ich leihe dir das Buch.				vc.pastp		
+12	CONV		45		5	Er liest gerade den Artikel in der Zeitung.				vc.pastp		
+12	CONV		46		5	Der Ausweis liegt auf seinem Schreibtisch.				vc.pastp		
+12	CONV		47		5	Nehmen Sie die Formulare mit?				vc.pastp		
+12	CONV		48		5	Schreibst du heute den Brief?				vc.pastp		
+12	CONV		49		5	Wir sitzen meistens an diesem Tisch.				vc.pastp		
+12	CONV		50		5	Er spricht sehr langsam.				vc.pastp		
+12	CONV		51		5	Er gibt sich immer grosse Mühe.				vc.pastp		
+12	CONV		52		5	Das tue ich gern für Sie.				vc.pastp		
+12	CONV		53		5	Versteht ihr ihn gut?				vc.pastp		
+12	CONV		54		5	Wo studierst du?				vc.pastp		
+12	CONV		55		5	Ihr kommt wieder zu spät!				vc.pastp		
+12	CONV		56		5	Er kümmert sich nicht um sie.				vc.pastp		
+12	CONV		57		5	Wäscht er sich die Hände?				vc.pastp		
+12	CONV		58		5	Du übersetzt doch diesen Artikel, nicht wahr?				vc.pastp		
+12	CONV		59		5	Ihr verschlaft euch fast jeden Tag.				vc.pastp		
+12	CONV		60		5	Der Redakteur unterhält sich gerade mit dem Landrat.				vc.pastp		
+13	CONV	2	1.1		5	Er ist heute in der Stadt				vc.past		
+13	CONV	2	1.2		5	Ich bin um fünf Uhr bei Ihnen gewesen				vc.fut		
+13	CONV	2	2.1		5	Ich habe leider keine Zigaretten bei mir.				vc.past		
+13	CONV	2	2.2		5	Er hat keine Zeit gehabt.				vc.fut		
+13	CONV	2	3.1		5	Sie weiss auch nicht, wann er kommt.				vc.past		
+13	CONV	2	3.2		5	Sie hat es gewusst.				vc.fut		
+13	CONV	2	4.1		5	Die Bilder gefallen mir gut.				vc.past		
+13	CONV	2	4.2		5	Der Film hat den Kindern gut gefallen.				vc.fut		
+13	CONV	2	5.1		5	Wir bringen sie zum Hotel.				vc.past		
+13	CONV	2	5.2		5	Die Sekretärin hat Ihnen die Unterlagen gebracht.				vc.fut		
+13	CONV	2	6.1		5	Ich lese gerade einen langen Bericht.				vc.past		
+13	CONV	2	6.2		5	Ich habe den Artikel gelesen.				vc.fut		
+13	CONV	2	7.1		5	Ich komme kurz vor acht bei dir vorbei.				vc.past		
+13	CONV	2	7.2		5	Wann ist sie nach Berlin gekommen?				vc.fut		
+13	CONV	2	8.1		5	Er nimmt den deutschen Photoapparat.				vc.past		
+13	CONV	2	8.2		5	Ich habe den grauen Anzug genommen.				vc.fut		
+13	CONV	2	9.1		5	Er geht um neun Uhr ins Büro.				vc.past		
+13	CONV	2	9.2		5	Bist du oft ins Theater gegangen?				vc.fut		
+13	CONV	2	10.1		5	Heute machen wir eine Bergtour.				vc.past		
+13	CONV	2	10.2		5	Was haben Sie denn heute in der Stadt gemacht?				vc.fut		
+13	CONV	2	11.1		5	Herr Schreiner fährt nach Deutschland.				vc.past		
+13	CONV	2	11.2		5	Der Gewerkschaftsekretär ist zur Konferenz nach Washinton gefahren.				vc.fut		
+13	CONV	2	12.1		5	Herr und Frau Bergmann sehen sich die neuen Häuser an.				vc.past		
+13	CONV	2	12.2		5	Ich habe mir die Ausstellung angesehen.				vc.fut		
+13	CONV	2	13.1		5	Ich höre, dass Sie in Bad Pyrmont waren.				vc.past		
+13	CONV	2	13.2		5	Wir haben heute mittag den Vortrag gehört.				vc.fut		
+13	CONV	2	14.1		5	Die Studenten geben sich grosse Mühe.				vc.past		
+13	CONV	2	14.2		5	Die Sekretärin hat ihm die Unterlagen gegeben.				vc.fut		
+13	CONV	2	15.1		5	In der Zeitung steht heute ein ausführlicher Artikel darüber.				vc.past		
+13	CONV	2	15.2		5	Wie lange hat der Wagen hier gestanden?				vc.fut		
+13	CONV	2	16.1		5	Er verpasst wahrscheinlich den Omnibus.				vc.past		
+13	CONV	2	16.2		5	Schade, dass ich das Konzert verpasst habe.				vc.fut		
+13	CONV	2	17.1		5	Sie bedankt sich für die Bücher.				vc.past		
+13	CONV	2	17.2		5	Ich habe mich für den Brief bedankt.				vc.fut		
+13	CONV	2	18.1		5	Frau Seiffert freut sich sehr auf die Oper.				vc.past		
+13	CONV	2	18.2		5	Meine Frau hat sich sehr über den Brief gefreut.				vc.fut		
+13	CONV	2	19.1		5	Frau Becker ruft ihre Bekannten an.				vc.past		
+13	CONV	2	19.2		5	Ich habe Sie heute mittag angerufen.				vc.fut		
+13	CONV	2	20.1		5	Diese modernen Möbel gefallen uns nicht.				vc.past		
+13	CONV	2	20.2		5	Es hat ihm in Berlin gut gefallen.				vc.fut		
+13	CONV	2	21.1		5	Herr Walter trifft einen Bekannten.				vc.past		
+13	CONV	2	21.2		5	Er hat sie in der Stadt getroffen.				vc.fut		
+13	CONV	2	22.1		5	Der Sohn meiner Bekannten studiert in Marburg.				vc.past		
+13	CONV	2	22.2		5	Mein Bruder hat im Ausland studiert.				vc.fut		
+13	CONV	2	23.1		5	Ich muss heute ins Auswärtige Amt gehen.				vc.past		
+13	CONV	2	23.2		5	Sie hat lange anstehen müssen.				vc.fut		
+13	CONV	2	24.1		5	Er zeigt dem Generalkonsul den Bericht.				vc.past		
+13	CONV	2	24.2		5	Ich habe ihm das Buch gezeigt.				vc.fut		
+13	CONV	2	25.1		5	Sagen Sie mir bitte um was es sich handelt.				vc.past		
+13	CONV	2	25.2		5	Ich weiss nicht, um was es sich gehandelt hat.				vc.fut		
+13	CONV	2	26.1		5	Ich tue das gern für ihn.				vc.past		
+13	CONV	2	26.2		5	Ich habe das gern für Sie getan.				vc.fut		
+13	CONV	2	27.1		5	Herr Ullrich unterhält sich mit seiner Frau über die Ausstellung.				vc.past		
+13	CONV	2	27.2		5	Ich habe mich mit ihm über die Reise unterhalten.				vc.fut		
+15	SUB	1	1		2	Das wird oft {F1}.				vc.pass.pres		
+15	SUB	1	2		2	Das ist {F1} worden.				vc.pass.pastp		
+15	SUB	1	3		2	Das wird bald {F1} werden.				vc.pass.fut		
+15	SUB	1	4		2	Das wurde {F1}.				vc.pass.past		
+15	SUB	1	5		2	Das wird Anfang der Woche {F1}.				vc.pass.pres		
+15	SUB	1	6		2	Das muss man {F1} haben.				vc.pastp.mod		
+15	SUB	1	7		2	Er ist gerade {F1}.				vc.pastp		
+15	SUB	1	8		2	Das haben wir nicht {F1}.				vc.pastp		
+15	SUB	1	9		2	Wie hat man das {F1}?				vc.pastp		
+15	SUB	1	10		2	Wir sind oft dorthin {F1}.				vc.pastp		
+15	SUB	1	11		2	Man hat das schon {F1}.				vc.pastp		
+15	SUB	2	1		2	Haben wir Zeit für {F1}?				ein.adj.acc		
+15	SUB	2	2		2	Das ist ja {F1}.				ein.adj.nom		
+15	SUB	2	3		2	Gestern habe ich einen ersten Eindruck {F1} bekommen.				der.dat		
+15	SUB	2	4		2	Ich bekam {F1} von ihm.				ein.adj.acc		
+15	SUB	2	5		2	Das war {F1}.				ein.adj.nom		
+15	SUB	2	6		2	Er sprach von {F1}.				ein.adj.dat		
+15	SUB	2	7		2	Ich habe mehrere bekannte {F1} besucht.				spec.adj.acc		
+15	SUB	2	8		2	Er erzählte mir, dass es dort viele {F1} gibt.				spec.adj.acc		
+15	SUB	2	9		2	Ich vermute, Sie verwechseln dieses Gebäude mit {F1}.				der.dat		
+15	SUB	2	10		2	{F1} ist von einem bekannten Architekten entworfen worden.				der.nom		
+15	SUB	2	11		2	Er sprach von verschiedenen {F1}.				unp.adj.dat		
+15	SUB	2	12		2	Ich habe mir mehrere {F1} angesehen.				spec.acc		
+15	CONV	1	1.1		5	Er schreibt den Brief				vc.pass.pres		
+15	CONV	1	1.2		5	Er hat den Brief geschrieben.				vc.pass.pastp		
+15	CONV	1	1.3		5	Er schrieb den Brief.				vc.pass.past		
+15	CONV	1	1.4		5	Er wird den Brief schreiben.				vc.pass.fut		
+15	CONV	1	2.1		5	Er putzt die Schuhe.				vc.pass.pres		
+15	CONV	1	2.2		5	Er hat die Schuhe geputzt.				vc.pass.pastp		
+15	CONV	1	2.3		5	Er putzte die Schuhe.				vc.pass.past		
+15	CONV	1	2.4		5	Er wird die Schuhe putzen.				vc.pass.fut		
+15	CONV	1	3.1		5	Sie schreibt den Brief.				vc.pass.pres		
+15	CONV	1	3.2		5	Sie hat den Brief geschrieben.				vc.pass.pastp		
+15	CONV	1	3.3		5	Sie schrieb den Brief.				vc.pass.past		
+15	CONV	1	3.4		5	Sie wird den Brief schreiben.				vc.pass.fut		
+15	CONV	1	4.1		5	Herr Schmidt füllt den Meldeschein aus.				vc.pass.pres		
+15	CONV	1	4.2		5	Herr Schmidt hat den Meldeschein ausgefüllt.				vc.pass.pastp		
+15	CONV	1	4.3		5	Herr Schmidt füllte den Meldeschein aus.				vc.pass.past		
+15	CONV	1	4.4		5	Herr Schmidt wird den Meldeschein ausfüllen.				vc.pass.fut		
+15	CONV	1	5.1		5	Sie besichtigen die Tagungsräume.				vc.pass.pres		
+15	CONV	1	5.2		5	Sie haben die Tagungsräume besichtigt.				vc.pass.pastp		
+15	CONV	1	5.3		5	Sie besichtigten die Tagungsräume.				vc.pass.past		
+15	CONV	1	5.4		5	Sie werden die Tagungsräume besichtigen.				vc.pass.fut		
+15	CONV	1	6.1		5	Das Arbeitsamt bearbeitet den Antrag.				vc.pass.pres		
+15	CONV	1	6.2		5	Das Arbeitsamt hat den Antrag bearbeitet.				vc.pass.pastp		
+15	CONV	1	6.3		5	Das Arbeitsamt bearbeitete den Antrag.				vc.pass.past		
+15	CONV	1	6.4		5	Das Arbeitsamt wird den Antrag bearbeiten.				vc.pass.fut		
+15	CONV	1	7.1		5	Unsere Architekten entwerfen die neuen Bauten.				vc.pass.pres		
+15	CONV	1	7.2		5	Unsere Architekten haben die neuen Bauten entworfen.				vc.pass.pastp		
+15	CONV	1	7.3		5	Unsere Architekten entwarfen die neuen Bauten.				vc.pass.past		
+15	CONV	1	7.4		5	Unsere Architekten werden die neuen Bauten entwerfen.				vc.pass.fut		
+15	CONV	2	1		5	Der Betriebsleiter hat mich inzwischen angerufen.				vc.pass.pastp		
+15	CONV	2	2		5	Die Sekretärin hat den Brief geschrieben.				vc.pass.pastp		
+15	CONV	2	3		5	Herr Meyer hat den Artikel übersetzt.				vc.pass.pastp		
+15	CONV	2	4		5	Professor Albers hat gestern den Vortrag gehalten.				vc.pass.pastp		
+15	CONV	2	5		5	Hat Herr Müller die Arbeit erledigt?				vc.pass.pastp		
+15	CONV	2	6		5	Das Hotel hat für Herrn Allen ein Zimmer reserviert.				vc.pass.pastp		
+15	CONV	2	7		5	Meine Sekretärin hat die Fahrkarte gestern gelöst.				vc.pass.pastp		
+15	CONV	2	8		5	Herr Meyer begleitete Herrn Allen zum Zug.				vc.pass.past		
+15	CONV	2	9		5	Die Männer holten das beschädigte Auto ab.				vc.pass.past		
+15	CONV	2	10		5	Herr Schneider brachte die Koffer zur Gepäckaufgabe.				vc.pass.past		
+15	CONV	2	11		5	Frau Meyer bügelte den Anzug auf.				vc.pass.past		
+15	CONV	2	12		5	Herr Schumann gab einen Bericht über neue Konzernbildungen und Kartellfragen.				vc.pass.past		
+15	CONV	2	13		5	Der Gewerkschaftssekretär gab langatmige Erklärungen ab.				vc.pass.past		
+15	CONV	2	14		5	Herr Martin rief Frau Köhler an.				vc.pass.past		
+15	CONV	2	15		5	Sie verbindet mich mit dem Auswärtigen Amt.				vc.pass.pres		
+15	CONV	2	16		5	Er probiert gerade den braunen Anzug an.				vc.pass.pres		
+15	CONV	2	17		5	Der Konsul diktiert der Sekretärin einen Brief.				vc.pass.pres		
+15	CONV	2	18		5	Herr und Frau Meyer packen gerade die Kisten aus.				vc.pass.pres		
+15	CONV	2	19		5	Sie stellt das Radio an.				vc.pass.pres		
+15	CONV	2	20		5	Der Gepäckträger trug den grossen Koffer ins Abteil.				vc.pass.past		
+15	CONV	2	21		5	Wer hat den Anfang geschrieben?				vc.pass.pastp		
+15	CONV	2	22		5	Ich begleite sie in die Stadt.				vc.pass.pres		
+15	CONV	2	23		5	Der Page hat Ihr Gepäck auf Ihr Zimmer gebracht.				vc.pass.pastp		
+15	CONV	2	24		5	Die ausländischen Architekten besichtigen heute das Reichstagsgebäude.				vc.pass.pres		
+15	CONV	2	25		5	Im Hotel hat Herr Meyer die Schuhe vor die Zimmertür gestellt.				vc.pass.pastp		
+15	CONV	3	1		5	Die zerstörten Gebäude werden wieder aufgebaut.				vc.pass.pres		
+15	CONV	3	2		5	Die zerstörten Gebäude sind wieder aufgebaut worden.				vc.pass.pastp		
+15	CONV	3	3		5	Die zerstörten Gebäude wurden wieder aufgebaut.				vc.pass.past		
+15	CONV	3	4		5	Die zerstörten Gebäude werden wieder aufgebaut werden.				vc.pass.fut		
+15	CONV	3	5		5	Die Bauausstellung ist schon am Anfang des Monats geschlossen worden.				vc.pass.pastp		
+15	CONV	3	6		5	Die Lindenbäume wurden schon vor dem Kriege entfernt.				vc.pass.past		
+15	CONV	3	7		5	Viele Architekten wurden zur Bauausstellung erwartet.				vc.pass.past		
+15	CONV	3	8		5	Der Antrag wird bald bearbeitet werden.				vc.pass.fut		
+15	CONV	3	9		5	Die grossen Koffer sind zum Bahnhof gebracht worden.				vc.pass.pastp		
+15	CONV	3	10		5	Der Bericht ist in der Botschaft übersetzt worden.				vc.pass.pastp		
+15	CONV	3	11		5	Die neuen Wohnungen werden jetzt vermietet.				vc.pass.pres		
+15	CONV	3	12		5	Der Tisch am Fenster wurde für uns reserviert.				vc.pass.past		
+15	CONV	3	13		5	Die Koffer sind in der Gepäckaufgabe verwechselt worden.				vc.pass.pastp		
+15	CONV	3	14		5	Die Ausstellung wird bald geschlossen werden.				vc.pass.fut		
+15	CONV	3	15		5	Der Brand ist zu spät gesehen worden.				vc.pass.pastp		
+16	SUB		1		1	Das sind {F1}, {F2} Kellers so gut gefallen.		d-		rel.nom.nom		
+16	SUB		2		1	Das ist {F1}, {F2} Herrn Meyer gehört.		d-		rel.nom.nom		
+16	SUB		3		1	Ist das {F1}, {F2} du dir kauftest?		d-		rel.nom.acc		
+16	SUB		4		1	{F1}, {F2} Sie mich baten, liegt auf Ihrem Schreibtisch.		um d-		rel.nom.acc		
+16	SUB		5		1	{F1}, {F2} dieses Haus gehört, ist zur Zeit in Berlin.		d-		rel.nom.dat		
+16	SUB		6		1	{F1}, {F2} meine Eltern das Haus verkauft haben, wohnt in der Gartenstrasse.		d-		rel.nom.dat		
+16	SUB		7		1	{F1}, {F2} er arbeitet, ist in der Goethestrasse.		in d-		rel.nom.dat		
+16	SUB		8		1	Das ist {F1}, {F2} Sohn in Amerika studiert.		d-		rel.nom.gen		
+16	SUB		9		1	Ich habe {F1}, {F2} auf morgen festgelegt war, aufschieben können.		d-		rel.acc.acc		
+16	SUB		10		1	Herr Schmidt sprach über {F1}, {F2} ihm so gut gefallen hat.		d-		rel.acc.nom		
+16	SUB		11		1	Haben Sie schon {F1} gelesen, {F2} auf Ihrem Schreibtisch liegt?		d-		rel.acc.nom		
+16	SUB		12		2	Ich traf {F1}, {F2} wir neulich geschrieben haben, in der Kunstausstellung.		an d-		rel.acc.acc		
+16	SUB		13		1	Vorgestern traf ich {F1}, {F2} Sie mich auf dem Empfang vorgestellt haben.		d-		rel.acc.dat		
+16	SUB		14		2	Er begrüsst gerade {F1}, {F2} wir unser Haus verkauft haben.		d-		rel.acc.dat		
+16	SUB		15		1	{F1}, {F2} ich gerechnet hatte, habe ich nicht bekommen.		mit d-		rel.acc.dat		
+16	SUB		16		1	Gestern sah ich {F1}, {F2} Bedeutung den meisten Berlinern bekannt ist.		d-		rel.acc.gen		
+16	SUB		17		1	Ich fuhr vor zwei Wochen zu {F1}, {F2} dort jedes Jahr stattfindet.		d-		rel.dat.nom		
+16	SUB		18		2	Setzen Sie sich mit {F1} in Verbindung, {F2} Ihnen das Formular gegeben hat.		d-		rel.dat.nom		
+16	SUB		19		1	Was stand in {F1}, {F2} Sie erwähnten?		d-		rel.dat.nom		
+16	SUB		20		2	Dieses Haus gehört {F1}, {F2} ich kenne.		d-		rel.dat.acc		
+16	SUB		21		2	Ich habe {F1}, {F2} ich den Artikel übersetzte, ein paarmal geschrieben.		für d-		rel.dat.acc		
+16	SUB		22		2	Sind Sie mit {F1}, {F2} Sie neulich sprachen, zufrieden?		von d-		rel.dat.dat		
+16	SUB		23		2	Zeige das Bild {F1}, {F2} wir die anderen Bilder verkauften.		d-		rel.dat.dat		
+16	SUB		24		2	Das Buch gehört {F1}, {F2} ich gestern im Theater war.		mit d-		rel.dat.dat		
+16	SUB		25		2	Er stellte mich {F1} vor, {F2} Vortrag wir gehört hatten.		d-		rel.dat.gen		
+16	SUB		26		2	Das Auto gehört {F1}, {F2} Geschäft mein Sohn arbeitet.		in d-		rel.dat.gen		
+16	SUB		27		2	Er ist ein guter Freund {F1}, {F2} in Washington wohnt.		d-		rel.gen.nom		
+16	SUB		28		2	Wissen Sie die Adresse {F1}, {F2} wir am Sonntag in der Stadt getroffen haben?		d-		rel.gen.acc		
+16	SUB		29		2	Hier ist der Koffer {F1}, {F2} wir das Zimmer reserviert haben.		d-		rel.gen.dat		
+16	SUB		30		2	Hier ist ein Brief {F1}, {F2} wir voriges Jahr in Deutschland waren.		mit d-		rel.gen.dat		
+16	SUB		31		2	Ist das ein Bericht {F1}, {F2} Vortrag wir neulich hörten?		d-		rel.gen.gen		
+16	SUB		32		2	Wo ist der Brief {F1}, {F2} Vorschlag wir gerade sprachen?		über d-		rel.gen.gen		
+16	SUB		33		1	Gefällt Ihnen {F1}? {F2} habe ich mir gestern gekauft.		D-		rel.nom.acc		
+16	SUB		34		1	Siehst du {F1} dort drüben? {F2} sprach ich neulich.		Von d-		rel.acc.dat		
+17	SUB		19		1	{F1} kann ich bei der Gelegenheit auch gleich besorgen.				ein.acc		
+17	SUB		21		2	{F1} {F2} die Abzüge bei {F3}.	Ich	habe	mir	prep.bei		
+17	SUB		22		2	Gegen {F1} habe ich nichts einzuwenden.				ein.acc		
+17	SUB		23		2	Ich habe seit {F1} zwei Negative bei mir.				spec.dat		
+17	SUB		24		2	Er bat mich um {F1}.				ein.adj.acc		
+17	SUB		25		2	Ich habe neulich schon vor {F1} gestanden.				der.adj.dat		
+17	SUB		26		1	Können Sie {F1} reparieren?				der.acc		
+17	VAP	2	1		2	Die grüne Krawatte passt nicht {F1} Ihrem blauen Anzug.				vap		
+17	VAP	2	2		2	Die Pfettrach und Chalupka G.m.b.H hat {F1} die neuen Zollbestimmungen gebeten.				vap		
+17	VAP	2	3		2	Ich habe dreimal {F1} Ihnen geklingelt.				vap		
+17	VAP	2	4		2	Der Landrat blickt {F1} Frau von Qualitz.				vap		
+17	VAP	2	5		2	Mit diesem Vorschlag wenden Sie sich am besten {F1} den Betriebsleiter.				vap		
+17	VAP	2	6		2	Er hält sehr viel {F1} ihr.				vap		
+17	VAP	2	7		2	Bitte warten Sie nicht {F1} mich, ich muss noch einige Besorgungen machen.				vap		
+17	VAP	2	8		2	Er hat {F1} seinem Urlaub im August gerechnet.				vap		
+17	VAP	2	9		2	Er kam {F1} Argentinien.				vap		
+17	VAP	2	10		2	Wir freuen uns {F1} ihren Besuch.				vap		
+17	VAP	2	11		2	Es handelt sich {F1} das Telephongespräch mit dem Architekten.				vap		
+17	VAP	2	12		2	{F1} einer Reise nach Italien reichte unsere Zeit nicht aus.				vap		
+17	VAP	2	13		2	Hielten Sie etwas {F1} seinen Vorschlägen?				vap		
+17	VAP	2	14		2	Wenn Sie eine Frage haben, wenden Sie sich bitte {F1} den Empfangschef.				vap		
+17	VAP	2	15		2	Sehntest du dich {F1} mir?				vap		
+17	VAP	2	16		2	Sprachen Sie schon {F1} dem Redakteur Dreisörner?				vap		
+17	VAP	2	17		2	{F1} Ihren Vorschlag habe ich viel einzuwenden.				vap		
+17	VAP	2	18		2	{F1} den Bodensee grenzen die Schweiz, Deutschland und Österreich.				vap		
+17	VAP	2	19		2	Er hielt wenig {F1} dem Ergebnis dieser Verhandlungen.				vap		
+17	VAP	2	20		2	Er wartet immer noch {F1} das Ergebnis der Verhandlung.				vap		
+17	VAP	2	21		2	Ich habe {F1} Ihre Urlaubspläne nichts einzuwenden.				vap		
+17	VAP	2	22		2	Sind Sie nicht {F1} der Gedächtniskirche vorbeigekommen?				vap		
+17	VAP	2	23		2	{F1} Ihnen spreche ich nicht mehr.				vap		
+17	VAP	2	24		2	Sie sagt, sie kümmert sich {F1} ihre alte Mutter.				vap		
+17	VAP	2	25		2	Wohin wir reisen werden, hängt {F1} der Jahreszeit ab, in der ich Urlaub habe.				vap		
+17	VAP	2	26		2	Ich wusste nicht, was ich {F1} halten sollte.	da-			vap		
+17	VAP	2	27		2	Es kommt {F1} die Baupläne an, die unsere Architekten gerade bearbeiten.				vap		
+17	VAP	2	28		2	Die Bedeutung der Gedächtniskirche als Mahnmal geht {F1} den letzten Krieg zurück.				vap		
+17	VAP	2	29		2	Sie schrieben {F1} die Buchhandlung.				vap		
+17	VAP	2	30		2	Der Herr Generalkonsul fährt {F1} der Strassenbahn.				vap		
+17	VAP	2	31		2	{F1} die Atmosphäre muss ich mich erst gewöhnen.				vap		
+17	VAP	2	32		2	Es kommt {F1} an, ob ihn die Fischerei interessiert.	da-			vap		
+17	VAP	2	33		2	Ich muss mich erst {F1} das Fahren in der Stadt gewöhnen.				vap		
+18	VAP	2	1		2	Ich werde Herrn Becker {F1} einem Installateur fragen.				vap		
+18	VAP	2	2		2	Er hat ausführlich {F1} seine Abenteuer in Frankreich geschrieben.				vap		
+18	VAP	2	3		2	Man hat viele Jahre {F1} dem Wiederaufbau der Stadt gearbeitet.				vap		
+18	VAP	2	4		2	Wir sprachen {F1}, dass sie wohl nicht kommen wird.				vap		
+18	VAP	2	5		2	Sie hört nicht {F1} ihn.				vap		
+18	VAP	2	6		2	Was schrieb Ihr Freund {F1} die Industriemesse?				vap		
+18	VAP	2	7		2	Hast du dich {F1} der Adresse von Herrn Koch erkundigt?				vap		
+18	VAP	2	8		2	Wie denken deine Eltern {F1} diese Angelegenheit?				vap		
+18	VAP	2	9		2	Das Ferngespräch soll {F1} Zimmer 112 umgeschaltet werden.				vap		
+18	VAP	2	10		2	Wir haben nicht {F1} einer höheren Miete gerechnet.				vap		
+18	VAP	2	11		2	Ich arbeite {F1} einem neuen Projekt.				vap		
+18	VAP	2	12		2	Herr Thomas wird {F1} die neuen Zollbestimmungen sprechen.				vap		
+18	VAP	2	13		2	Sie vermietet nur {F1} Damen.				vap		
+18	VAP	2	14		2	Haben Sie {F1} gedacht, eine Nachkur zu machen?				vap		
+18	VAP	2	15		2	{F1} einer Dame der Gesellschaft habe ich mir eigentlich etwas anderes vorgestellt.				vap		
+18	VAP	2	16		2	Wir sprachen {F1} seiner Geliebten.				vap		
+18	VAP	2	17		2	Wir wollen nicht {F1} rechnen, dass er die Arbeit heute schon erledigen kann.				vap		
+18	VAP	2	18		2	{F1} wen haben Sie Ihr Haus vermietet?				vap		
+18	VAP	2	19		2	Er rechnete nicht {F1}, dass man ihn im Krankenhaus behalten würde.				vap		
+18	VAP	2	20		2	Herr Prokosch fragte mich {F1} dem Namen der netten, neuen Schwester.				vap		
+18	VAP	2	21		2	Wir hoffen {F1} besseres Wetter.				vap		
+18	VAP	2	22		2	Meine Mutter wird sich sehr {F1} die Vergrösserungen freuen.				vap		
+18	VAP	2	23		2	Das führt {F1} nichts.				vap		
+18	VAP	2	24		2	Ich rechne {F1} Sie.				vap		
+18	VAP	2	25		2	Ich kann mir {F1} diesem Bild nichts vorstellen.				vap		
+18	VAP	2	27		2	Herr Koch rechnet {F1} die Hilfe seiner Kollegen, um dieses Projekt ausführen zu können.				vap		
