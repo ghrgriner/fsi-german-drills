@@ -32,6 +32,9 @@
 # [20250207] Add KEEP_ORIGINAL_TEXT variable to easily switch back and forth.
 #   between original text from 1960 and the spelling updates / replacement of
 #   out-of-date words.
+# [20250207] Remove Model.Qparto column. This was used to override the value
+#   of Qpart after merge, but there's no reason Qpart can't be simply set
+#   to the right values in Model and Notes, and this change has been done.
 #------------------------------------------------------------------------------
 import os
 import pandas as pd
@@ -209,7 +212,7 @@ df['Qnum'] = np.floor(df.Qnum)
 # of Qnum (i.e., Qnum doesn't restart at 1 when the Part changes). For this
 # reason, I didn't both updating the Notes file.
 #------------------------------------------------------------------------------
-df['Qpart'] = np.where(df['Qparto']=='', df['Qpart'], df['Qparto'])
+#df['Qpart'] = np.where(df['Qparto']=='', df['Qpart'], df['Qparto'])
 
 ###df.sort_values(grouplist)
 df['Qseq'] = df.groupby(grouplist).cumcount()
@@ -218,7 +221,7 @@ df['pnumstr'] = np.where(df.grpsize==1, '', df.Qseq.map('.{}'.format)) # pylint:
 df['NOTE_ID'] = 'FSIDE' + df['Id'].map('{:04x}'.format).str.upper()    # pylint: disable=consider-using-f-string
 
 df['Tags'] = ('U' + df['Unit'].map('{:02}'.format) + ' '               # pylint: disable=consider-using-f-string
-        + df['Qtype']+ df['Qpart'] + ' Q' + df['Qnum'].map(fmtnum) + df.Qlet
+        + df['Qtype'] + df['Qpart'] + ' Q' + df['Qnum'].map(fmtnum) + df.Qlet
         + df.pnumstr)
 #print(df)
 

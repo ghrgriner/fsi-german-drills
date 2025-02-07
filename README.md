@@ -34,7 +34,8 @@ deck is in the wiki.
 # Generation of Output Files
 
 To generate the output files, simply clone the repository and execute the
-Python program.
+Python program. However, there is no need to generate the output files
+if the user is happy to use the pre-made Anki Deck at the link below. 
 
 # Additional Documentation and Anki Deck
 
@@ -49,5 +50,5 @@ repository.
 
 # Future Work
 
-The only work planned in the near future are bug fixes and moving some of
-the documentation from the link above to this repository.
+The only work planned in the near future are bug fixes.
+

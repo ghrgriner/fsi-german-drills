@@ -969,551 +969,551 @@ Id	Unit	Qtype	Qpart	Qnum	Qlet	Prompt2	R1	R2	R3	Subtag	Orig_Prompt2	Orig_R1	Orig_
 3329	4	SUB	3	34		Zigaretten	diese						
 3330	4	SUB	3	34		Auto	sein						
 3331	4	SUB	3	34		Idee	diese						
-2888	5	SUB		1	a	Roman	der						
-2889	5	SUB		1	a	Brief	der						
-2890	5	SUB		1	a	Bleistift	der						
-2891	5	SUB		1	a	Papierkorb	der						
-2892	5	SUB		1	a	Füller	der						
-2893	5	SUB		1	a	Vater	der						
-2894	5	SUB		1	a	Bruder	der						
-2895	5	SUB		1	b	Haus	das						
-2896	5	SUB		1	b	Buch	das						
-2897	5	SUB		1	b	Briefpapier	das						
-2898	5	SUB		1	b	Etagenhaus	das						
-2899	5	SUB		1	b	Schreibwarengeschäft	das						
-2900	5	SUB		1	c	Wohnung	die						
-2901	5	SUB		1	c	Zeitung	die						
-2902	5	SUB		1	c	Post	die						
-2903	5	SUB		1	c	Briefmarke	die						
-2904	5	SUB		1	c	Bibliothek	die						
-2905	5	SUB		1	c	Spülmaschine	die				Schreibmaschine		
-2906	5	SUB		1	c	Tinte	die						
-2907	5	SUB		1	c	Sekretärin	die						
-2908	5	SUB		2		Papierkorb	den						
-2909	5	SUB		2		Brief	den						
-2910	5	SUB		2		Tinte	die						
-2911	5	SUB		2		Vater	den						
-2912	5	SUB		2		Briefpapier	das						
-2913	5	SUB		2		Zeitung	die						
-2914	5	SUB		2		Computer	den				Schreibmaschine	die	
-2915	5	SUB		2		Füller	den						
-2916	5	SUB		2		Buch	das						
-2917	5	SUB		2		Bleistift	den						
-2918	5	SUB		2		Briefmarke	die						
-2919	5	SUB		2		Schwester	die						
-2920	5	SUB		3		Roman	dem						
-2921	5	SUB		3		Tochter	der						
-2922	5	SUB		3		Buch	dem						
-2923	5	SUB		3		Bibliothek	der						
-2924	5	SUB		3		Schriftsteller	dem						
-2925	5	SUB		3		Wohnung	der						
-2926	5	SUB		3		Etagenhaus	dem						
-2927	5	SUB		3		Brief	dem						
-2928	5	SUB		3		Zeitung	der						
-2929	5	SUB		3		Papiergeschäft	dem						
-2930	5	SUB		4		ein- Buch	ein Buch	Bücher					
-2931	5	SUB		4		ein- Koffer	einen Koffer	Koffer					
-2932	5	SUB		4		ein- Füller	einen Füller	Füller					
-2933	5	SUB		4		ein- Wagen	einen Wagen	Wagen					
-2934	5	SUB		4		ein- Bruder	einen Bruder	Brüder					
-2935	5	SUB		4		ein- Tochter	eine Tochter	Töchter					
-2936	5	SUB		4		ein- Bleistift	einen Bleistift	Bleistifte					
-2937	5	SUB		4		ein- Geschäft	ein Geschäft	Geschäfte					
-2938	5	SUB		4		ein- Formular	ein Formular	Formulare					
-2939	5	SUB		4		ein- Stadtplan	einen Stadtplan	Stadtpläne					
-2940	5	SUB		4		ein- Sohn	einen Sohn	Söhne					
-2941	5	SUB		4		ein- Haus	ein Haus	Häuser					
-2942	5	SUB		4		ein- Zeitung	eine Zeitung	Zeitungen					
-2943	5	SUB		4		ein- Handy	ein Handy	Handys			ein- Schreibmaschine	eine Schreibmaschine	Schreibmaschinen
-2944	5	SUB		4		ein- Pfeife	eine Pfeife	Pfeifen					
-2945	5	SUB		4		ein- Auto	ein Auto	Autos					
-2946	5	SUB		4		ein- Schwester	eine Schwester	Schwestern					
-2947	5	SUB		5		mein- Bleistift	mein Bleistift	Bleistifte					
-2948	5	SUB		5		mein- Fragebogen	mein Fragebogen	Fragebogen					
-2949	5	SUB		5		mein- Brief	mein Brief	Briefe					
-2950	5	SUB		5		mein- Ausweis	mein Ausweis	Ausweise					
-2951	5	SUB		5		mein- Brot	mein Brot	Brote					
-2952	5	SUB		5		mein- Formular	mein Formular	Formulare					
-2953	5	SUB		5		mein- Pass	mein Pass	Pässe					
-2954	5	SUB		5		mein- Antrag	mein Antrag	Anträge					
-2955	5	SUB		5		mein- Buch	mein Buch	Bücher					
-2956	5	SUB		5		mein- Glas	mein Glas	Gläser					
-2957	5	SUB		5		mein- Visum	mein Visum	Visa (Visen)					
-2958	5	SUB		5		mein- Zeitung	meine Zeitung	Zeitungen					
-2959	5	SUB		5		mein- Briefmarke	meine Briefmarke	Briefmarken					
-2960	5	SUB		5		mein- Kuli	mein Kuli	Kulis			mein- Schreibmaschine	meine Schreibmaschine	Schreibmaschinen
-2961	5	SUB		6		Bleistift	Bleistifte						
-2962	5	SUB		6		Papierkorb	Papierkörbe						
-2963	5	SUB		6		Adresse	Adressen						
-2964	5	SUB		6		Brief	Briefe						
-2965	5	SUB		6		Herr	Herren						
-2966	5	SUB		6		Café	Cafés						
-2967	5	SUB		6		Dame	Damen						
-2968	5	SUB		6		Geschäft	Geschäfte						
-2969	5	SUB		6		Computer	Computer				Schreibmaschine	Schreibmaschinen	
-2970	5	SUB		6		Fragebogen	Fragebogen						
-2971	5	SUB		6		Füller	Füller						
-2972	5	SUB		6		Briefmarke	Briefmarken						
-2973	5	SUB		6		Koffer	Koffer						
-2974	5	SUB		6		Omnibus	Omnibusse						
-2975	5	SUB		6		Roman	Romane						
-2976	5	SUB		6		Ausweis	Ausweise						
-2977	5	SUB		6		Konsulat	Konsulate						
-2978	5	SUB		6		Formular	Formulare						
-2979	5	SUB		6		Pass	Pässe						
-2980	5	SUB		6		Antrag	Anträge						
-2981	5	SUB		7		Buch	Bücher						
-2982	5	SUB		7		Zeitung	Zeitungen						
-2983	5	SUB		7		Wagen	Wagen						
-2984	5	SUB		7		Bruder	Brüder						
-2985	5	SUB		7		Tochter	Töchter						
-2986	5	SUB		7		Schwester	Schwestern						
-2987	5	SUB		7		Tante	Tanten						
-2988	5	SUB		7		Parkplatz	Parkplätze						
-2989	5	SUB		7		Haus	Häuser						
-2990	5	SUB		7		Glas	Gläser						
-2991	5	SUB		7		Streichholz	Streichhölzer						
-2992	5	SUB		7		Diplomat	Diplomaten						
-2993	5	SUB		7		Polizist	Polizisten						
-2994	5	SUB		7		Auto	Autos						
-2995	5	SUB		8		Zeitung	Zeitungen						
-2996	5	SUB		8		Amerikaner	Amerikaner						
-2997	5	SUB		8		Frau	Frauen						
-2998	5	SUB		8		Amerikanerin	Amerikanerinnen						
-2999	5	SUB		8		Konsul	Konsuln						
-3000	5	SUB		8		Beamte	Beamten						
-3001	5	SUB		8		Pfeife	Pfeifen						
-3002	5	SUB		8		Taxi	Taxis				Taxe	Taxen	
-3003	5	SUB		8		Tante	Tanten						
-3004	5	SUB		8		Zigarette	Zigaretten						
-3005	5	SUB		8		Brief	Briefe						
-3006	5	SUB		8		Fragebogen	Fragebogen						
-3007	5	SUB		8		Briefmarke	Briefmarken						
-3008	5	SUB		8		Pass	Pässe						
-3009	5	SUB		8		Ausweis	Ausweise						
-3010	5	SUB		8		Sekretärin	Sekretärinnen						
-3011	5	SUB		9		Geschäft	Geschäften						
-3012	5	SUB		9		Theater	Theatern						
-3013	5	SUB		9		Flughafen	Flughäfen						
-3014	5	SUB		9		Omnibus	Omnibussen						
-3015	5	SUB		9		Café	Cafés						
-3016	5	SUB		9		Bahnhof	Bahnhöfen						
-3017	5	SUB		9		Stadt	Städten						
-3018	5	SUB		9		Rathaus	Rathäusern						
-3019	5	SUB		9		Schloss	Schlössern						
-3020	5	SUB		9		Kino	Kinos						
-3021	5	SUB		9		Etagenhaus	Etagenhäusern						
-3022	5	SUB		9		Diplomat	Diplomaten						
-3023	5	SUB		9		Polizist	Polizisten						
-3024	5	SUB		9		Museum	Museen						
-3025	5	SUB		9		Bibliothek	Bibliotheken						
-3026	5	SUB		9		Hotel	Hotels						
-3027	5	SUB		9		Universität	Universitäten						
-3028	5	SUB		9		Straße	Straßen				Strasse	Strassen	
-3029	5	SUB		9		Restaurant	Restaurants						
-3030	5	SUB		10		Theater	Theater						
-3031	5	SUB		10		Ratskeller	Ratskeller						
-3032	5	SUB		10		Flughafen	Flughäfen						
-3033	5	SUB		10		Dom	Dome						
-3034	5	SUB		10		Konsulat	Konsulate						
-3035	5	SUB		10		Botschaft	Botschaften						
-3036	5	SUB		10		Generalkonsulat	Generalkonsulate						
-3037	5	SUB		10		Bahnhof	Bahnhöfe						
-3038	5	SUB		10		Stadt	Städte						
-3039	5	SUB		10		Schloss	Schlösser						
-3040	5	SUB		10		Diplomat	Diplomaten						
-3041	5	SUB		10		Polizist	Polizisten						
-3042	5	SUB		10		Museum	Museen						
-3043	5	SUB		10		Bank	Banken						
-3044	5	SUB		10		Zeitung	Zeitungen						
-3045	5	SUB		10		Konsul	Konsuln						
-3046	5	SUB		11		Restaurant	Restaurants						
-3047	5	SUB		11		Park	Parks						
-3048	5	SUB		11		Café	Cafés						
-3049	5	SUB		11		Kino	Kinos						
-3050	5	SUB		11		Hotel	Hotels						
-3051	5	SUB		11		Bank	Banken						
-3052	5	SUB		11		Theater	Theater						
-3053	5	SUB		11		Autobus	Autobusse						
-3054	5	SUB		11		Straßenbahn	Straßenbahnen				Strassenbahn	Strassenbahnen	
-3055	5	SUB		11		Polizist	Polizisten						
-3056	5	SUB		11		Straßenbahnhaltestelle	Straßenbahnhaltestellen				Strassenbahnhaltestelle	Strassenbahnhaltestellen	
-3057	5	SUB		11		Geschäft	Geschäfte						
-3058	5	SUB		11		Etagenhaus	Etagenhäuser						
-3059	5	SUB		11		Wohnung	Wohnungen						
-3060	5	SUB		11		Bibliothek	Bibliotheken						
-3061	5	SUB		11		Universität	Universitäten						
-494	5	SUB		12	a	Amerikaners	des			m			
-495	5	SUB		12	a	Diplomaten	des			m			
-496	5	SUB		12	a	Schriftstellers	des			m			
-497	5	SUB		12	a	Bruders	des			m			
-498	5	SUB		12	a	Konsuls	des			m			
-499	5	SUB		12	a	Beamten	des			m			
-500	5	SUB		12	b	Geschäfts	des			n			
-501	5	SUB		12	b	Generalkonsulats	des			n			
-502	5	SUB		12	b	Rathauses	des			n			
-503	5	SUB		12	b	Museum	des			n			
-504	5	SUB		12	b	Restaurants	des			n			
-505	5	SUB		12	b	Hotels	des			n			
-506	5	SUB		12	c	Botschaft	der			f			
-507	5	SUB		12	c	Mutter	der			f			
-508	5	SUB		12	c	Bank	der			f			
-509	5	SUB		12	c	Tochter	der			f			
-510	5	SUB		12	c	Bibliothek	der			f			
-511	5	SUB		12	c	Universität	der			f			
-512	5	SUB		12	c	Sekretärin	der			f			
-513	5	SUB		12	d	Eltern	der			p			
-514	5	SUB		12	d	Brüder	der			pl			
-515	5	SUB		12	d	Damen	der			pl			
-516	5	SUB		12	d	Schwestern	der			p			
-517	5	SUB		12	d	Herren	der			p			
-518	5	SUB		12	d	Söhne	der			p			
-519	5	SUB		13	a	Konsuls	des						
-520	5	SUB		13	a	Schriftstellers	des						
-521	5	SUB		13	a	Diplomaten	des			m			
-522	5	SUB		13	a	Vizekonsuls	des						
-523	5	SUB		13	a	Beamten	des						
-524	5	SUB		13	a	Herrn	des						
-525	5	SUB		13	b	Schreibwarengeschäfts	des						
-526	5	SUB		13	b	Kinos	des						
-527	5	SUB		13	b	Konsulats	des			n			
-528	5	SUB		13	b	Restaurants	des						
-529	5	SUB		13	b	Etagenhauses	des						
-530	5	SUB		13	b	Theaters	des						
-531	5	SUB		13	c	Mutter	der						
-532	5	SUB		13	c	Bank	der			f			
-533	5	SUB		13	c	Bibliothek	der			f			
-534	5	SUB		13	c	Tante	der						
-535	5	SUB		13	c	Zeitung	der						
-536	5	SUB		13	c	Dame	der			f			
-537	5	SUB		13	c	Sekretärin	der						
-538	5	SUB		13	d	Eltern	der						
-539	5	SUB		13	d	Brüder	der			pl			
-540	5	SUB		13	d	Schwestern	der						
-541	5	SUB		13	d	Töchter	der						
-542	5	SUB		13	d	Söhne	der						
-543	5	SUB		14		Hotels	dieses						
-544	5	SUB		14		Frau	dieser						
-545	5	SUB		14		Beamten	dieses						
-546	5	SUB		14		Geschäfts	dieses						
-547	5	SUB		14		Amerikanerin	dieser			f			
-548	5	SUB		14		Polizisten	dieses						
-549	5	SUB		14		Konsuls	dieses						
-550	5	SUB		14		Dame	dieser			f			
-551	5	SUB		14		Diplomaten	dieses			m			
-552	5	SUB		14		Herrn	dieses						
-553	5	SUB		14		Konsulats	dieses			n			
-554	5	SUB		15		Diplomaten	eines			m			
-555	5	SUB		15		Schriftstellers	eines						
-556	5	SUB		15		Kollegen	eines						
-557	5	SUB		15		Dame	einer			f			
-558	5	SUB		15		Vizekonsuls	eines						
-559	5	SUB		15		Schreibwarengeschäfts	eines						
-560	5	SUB		15		Bank	einer			f			
-561	5	SUB		15		Amerikaners	eines			m			
-562	5	SUB		15		Bibliothek	einer			f			
-563	5	SUB		15		Amerikanerin	einer			f			
-564	5	SUB		15		Herrn	eines						
-565	5	SUB		16		Bruders	Ihres			m			
-566	5	SUB		16		Vaters	Ihres						
-567	5	SUB		16		Schwester	Ihrer						
-568	5	SUB		16		Kollegen	Ihres						
-569	5	SUB		16		Tochter	Ihrer						
-570	5	SUB		16		Sohnes	Ihres						
-571	5	SUB		16		Tante	Ihrer						
-572	5	SUB		16		Mutter	Ihrer						
-573	5	SUB		16		Mannes	Ihres						
-574	5	SUB		16		Bekannten	Ihres						
-575	5	SUB		16		Frau	Ihrer						
-576	5	SUB		17		Hotels	unseres						
-577	5	SUB		17		Tante	unserer						
-578	5	SUB		17		Konsulats	unseres			n			
-579	5	SUB		17		Botschaft	unserer			f			
-580	5	SUB		17		Schwester	unserer						
-581	5	SUB		17		Eltern	unserer						
-582	5	SUB		17		Konsuls	unseres						
-583	5	SUB		17		Bank	unserer			f			
-584	5	SUB		17		Sohnes	unseres						
-585	5	SUB		17		Kollegen	unseres						
-586	5	SUB		18		mein- Mutter	meiner Mutter						
-587	5	SUB		18		unser- Tochter	unserer Tochter						
-588	5	SUB		18		sein- Schwester	seiner Schwester						
-589	5	SUB		18		mein- Sohnes	meines Sohnes						
-590	5	SUB		18		unser- Tante	unserer Tante						
-591	5	SUB		18		sein- Bruders	seines Bruders						
-592	5	SUB		18		ihr- Vaters	ihres Vaters						
-593	5	SUB		18		ein- Bekannten	eines Bekannten						
-594	5	SUB		18		ihr- Eltern	ihrer Eltern						
-595	5	SUB		18		mein- Kollegen	meines Kollegen						
-596	5	SUB		19		Ihr- Kollegen	Ihrer Kollegen						
-597	5	SUB		19		mein- Söhne	meiner Söhne						
-598	5	SUB		19		sein- Eltern	seiner Eltern						
-599	5	SUB		19		unser- Schwestern	unserer Schwestern						
-600	5	SUB		19		mein- Töchter	meiner Töchter						
-601	5	SUB		19		unser- Diplomaten	unserer Diplomaten						
-602	5	SUB		20	a	Bleistifte	einer der						
-603	5	SUB		20	a	Stadtpläne	einer der						
-604	5	SUB		20	a	Söhne	einer der						
-605	5	SUB		20	a	Parkplätze	einer der						
-606	5	SUB		20	a	Brüder	einer der			pl			
-607	5	SUB		20	a	Autobusse	einer der			pl			
-608	5	SUB		20	a	Geschäftsbriefe	einer der						
-609	5	SUB		20	b	Hotels	eins der						
-610	5	SUB		20	b	Theater	eins der						
-611	5	SUB		20	b	Museen	eins der						
-612	5	SUB		20	b	Konsulate	eins der			n			
-613	5	SUB		20	b	Etagenhäuser	eins der						
-614	5	SUB		20	c	Mäuse	eine der				Schreibmaschinen		
-615	5	SUB		20	c	Schwestern	eine der						
-616	5	SUB		20	c	Wohnungen	eine der						
-617	5	SUB		20	c	Türen	eine der						
-618	5	SUB		20	c	Bibliotheken	eine der			f			
-619	5	SUB		20	c	Sekretärinnen	eine der						
-620	5	SUB		21	a	Füller	einen der						
-621	5	SUB		21	a	Bleistifte	einen der						
-622	5	SUB		21	a	Stadtpläne	einen der						
-623	5	SUB		21	a	Koffer	einen der						
-624	5	SUB		21	a	Papierkörbe	einen der						
-625	5	SUB		21	a	Fragebogen	einen der						
-626	5	SUB		21	b	Gläser	eins der						
-627	5	SUB		21	b	Autos	eins der			pl			
-628	5	SUB		21	b	Formulare	eins der						
-629	5	SUB		21	b	Häuser	eins der						
-630	5	SUB		21	b	Bücher	eins der			pl			
-631	5	SUB		21	c	Zeitungen	eine der						
-632	5	SUB		21	c	Pfeifen	eine der						
-633	5	SUB		21	c	Adressen	eine der			f			
-634	5	SUB		21	c	Mäuse	eine der				Schreibmaschinen		
-635	5	SUB		21	c	Briefmarken	eine der			f			
-636	5	SUB		22		Meine Frau	Meine Frau	ihrer	leiht sich				
-637	5	SUB		22		Unser Kollege	Unser Kollege	seiner	leiht sich				
-638	5	SUB		22		Frau Müller	Frau Müller	ihrer	leiht sich				
-639	5	SUB		22		Er	Er	seiner	leiht sich				
-640	5	SUB		22		Seine Frau	Seine Frau	ihrer	leiht sich				
-641	5	SUB		22		Ihr Mann	Ihr Mann	seiner	leiht sich				
-642	5	SUB		22		Wir	Wir	unserer	leihen uns				
-643	5	SUB		22		Herr Schneider	Herr Schneider	seiner	leiht sich				
-3062	5	SUB		23		Wir	Wir	können	uns				
-3063	5	SUB		23		Seine Töchter	Seine Töchter	können	sich				
-3064	5	SUB		23		Ihre Schwester	Ihre Schwester	kann	sich				
-3065	5	SUB		23		Ich	Ich	kann	mich				
-3066	5	SUB		23		Unser Vater	Unser Vater	kann	sich				
-3067	5	SUB		23		Ihr Mann	Ihr Mann	kann	sich				
-3068	5	SUB		23		Er	Er	kann	sich				
-644	6	SUB		1	a	Wagen	der neue						
-645	6	SUB		1	a	Ober	der neue						
-646	6	SUB		1	a	Kollege	der neue						
-647	6	SUB		1	a	Konsul	der neue						
-648	6	SUB		1	a	Apparat	der neue			m			
-649	6	SUB		1	a	Füller	der neue						
-650	6	SUB		1	b	Büro	das neue			n			
-651	6	SUB		1	b	Telefon	das neue				Telephon		
-652	6	SUB		1	b	Generalkonsulat	das neue			n			
-653	6	SUB		1	b	Haus	das neue						
-654	6	SUB		1	b	Geschäft	das neue						
-655	6	SUB		1	c	Abteilung	die neue			f			
-656	6	SUB		1	c	Nummer	die neue						
-657	6	SUB		1	c	Wohnung	die neue						
-658	6	SUB		1	c	Adresse	die neue			f			
-659	6	SUB		1	c	Sekretärin	die neue						
-660	6	SUB		2	a	Portier	den alten						
-661	6	SUB		2	a	Beamten	den alten						
-662	6	SUB		2	a	Schriftsteller	den alten						
-663	6	SUB		2	a	Polizisten	den alten						
-664	6	SUB		2	a	Herrn Becker	den alten						
-665	6	SUB		2	a	Markt	den alten						
-666	6	SUB		2	a	Park	den alten						
-667	6	SUB		2	b	Theater	das alte						
-668	6	SUB		2	b	Haus	das alte						
-669	6	SUB		2	b	Schloss	das alte						
-670	6	SUB		2	b	Museum	das alte						
-671	6	SUB		2	b	Hotel	das alte						
-672	6	SUB		2	c	Universität	die alte						
-673	6	SUB		2	c	Dame	die alte			f			
-674	6	SUB		2	c	Bibliothek	die alte			f			
-675	6	SUB		2	c	Stadt	die alte						
-676	6	SUB		2	c	Frau	die alte						
-677	6	SUB		3	a	Bahnhof	dem alten			m			
-678	6	SUB		3	a	Flughafen	dem alten						
-679	6	SUB		3	a	Parkplatz	dem alten						
-680	6	SUB		3	a	Ratskeller	dem alten						
-681	6	SUB		3	b	Hotel	dem alten						
-682	6	SUB		3	b	Büro	dem alten			n			
-683	6	SUB		3	b	Theater	dem alten						
-684	6	SUB		3	b	Museum	dem alten						
-685	6	SUB		3	c	Rathaus	dem alten						
-686	6	SUB		3	c	Universität	der alten						
-687	6	SUB		3	c	Botschaft	der alten			f			
-688	6	SUB		3	c	Bibliothek	der alten			f			
-689	6	SUB		3	c	Bank	der alten			f			
-690	6	SUB		4	a	Bleistift	ein guter			m			
-691	6	SUB		4	a	Füller	ein guter						
-692	6	SUB		4	a	Koffer	ein guter						
-693	6	SUB		4	a	Roman	ein guter						
-694	6	SUB		4	a	Parkplatz	ein guter						
-695	6	SUB		4	a	Wein	ein guter						
-696	6	SUB		4	b	Buch	ein gutes			m			
-697	6	SUB		4	b	Theater	ein gutes						
-698	6	SUB		4	b	Restaurant	ein gutes						
-699	6	SUB		4	b	Café	ein gutes			n			
-700	6	SUB		4	b	Geschäft	ein gutes						
-701	6	SUB		4	c	Universität	eine gute						
-702	6	SUB		4	c	Bibliothek	eine gute			f			
-703	6	SUB		4	c	Maus	eine gute				Schreibmaschine		
-704	6	SUB		4	c	Zigarre	eine gute						
-705	6	SUB		4	c	Zeitung	eine gute						
-706	6	SUB		5	a	Wagen	einen guten						
-707	6	SUB		5	a	Füller	einen guten						
-708	6	SUB		5	a	Roman	einen guten						
-709	6	SUB		5	a	Wein	einen guten						
-710	6	SUB		5	a	Bleistift	einen guten			m			
-711	6	SUB		5	a	Stadtplan	einen guten						
-712	6	SUB		5	b	Buch	ein gutes			m			
-713	6	SUB		5	b	Hotel	ein gutes						
-714	6	SUB		5	b	Auto	ein gutes			n			
-715	6	SUB		5	b	Café	ein gutes			n			
-716	6	SUB		5	b	Restaurant	ein gutes						
-717	6	SUB		5	c	Zeitung	eine gute						
-718	6	SUB		5	c	Universität	eine gute						
-719	6	SUB		5	c	Bibliothek	eine gute			f			
-720	6	SUB		5	c	Sekretärin	eine gute						
-721	6	SUB		5	c	Maus	eine gute				Schreibmaschine		
-722	6	SUB		6	a	Bekannten	eines alten						
-723	6	SUB		6	a	Kollegen	eines alten						
-724	6	SUB		6	a	Schriftstellers	eines alten						
-725	6	SUB		6	a	Beamten	eines alten						
-726	6	SUB		6	a	Diplomaten	eines alten			m			
-727	6	SUB		6	a	Konsuls	eines alten						
-728	6	SUB		6	b	Dame	einer alten			f			
-729	6	SUB		6	b	Amerikanerin	einer alten			f			
-730	6	SUB		6	b	Tante	einer alten						
-731	6	SUB		6	b	Universität	einer alten						
-732	6	SUB		6	b	Sekretärin	einer alten						
-733	6	SUB		7	a	Geschäfts; ein- gut-	eines guten Geschäfts						
-734	6	SUB		7	a	Hotels; ein- gut-	eines guten Hotels						
-735	6	SUB		7	a	Restaurants; ein- gut-	eines guten Restaurants						
-736	6	SUB		7	a	Cafés; ein- gut-	eines guten Cafés			n			
-737	6	SUB		8		alt-	alt						
-738	6	SUB		8		kaputt-	kaputt						
-739	6	SUB		8		schön-	schön						
-740	6	SUB		8		groß-	groß				gross-	gross	
-741	6	SUB		8		neu-	neu						
-742	6	SUB		8		gut-	gut						
-743	6	SUB		9		gut-	gut						
-744	6	SUB		9		genau-	genau						
-745	6	SUB		9		neu-	neu						
-746	6	SUB		9		wichtig-	wichtig						
-747	6	SUB		9		besser-	besser						
-748	6	SUB		9		dringend-	dringend						
-749	6	SUB		10		neu-	neu						
-750	6	SUB		10		besser-	besser						
-751	6	SUB		10		gut-	gut						
-752	6	SUB		10		alt-	alt						
-753	6	SUB		10		wichtig-	wichtig						
-3069	6	SUB		11		ich	mir						
-3070	6	SUB		11		wir	uns						
-3071	6	SUB		11		er	ihm						
-3072	6	SUB		11		sie (pl)	ihnen						
-3073	6	SUB		11		sie (sg)	ihr						
-3074	6	SUB		11		Sie	Ihnen						
-3075	6	SUB		11		d- Diplomat	dem Diplomaten						
-3332	6	SUB		11		mein- Tante	meiner Tante						
-3076	6	SUB		11		sein- Eltern	seinen Eltern						
-3077	6	SUB		11		ihr- Bruder	ihrem Bruder						
-3078	6	SUB		11		unser- Schwester	unserer Schwester						
-3079	6	SUB		11		mein- Sekretärin	meiner Sekretärin						
-3080	6	SUB		12		Wir	Wir haben unsere	uns					
-3081	6	SUB		12		Herr Müller	Herr Müller hat seine	sich					
-3082	6	SUB		12		Meine Frau	Meine Frau hat ihre	sich					
-3083	6	SUB		12		Sie (3pl)	Sie haben ihre	sich					
-3084	6	SUB		12		Ihr Mann	Ihr Mann hat seine	sich					
-3085	6	SUB		12		Frau König	Frau König hat ihre	sich			Fräulein König	Fräulein König hat ihre	
-3086	6	SUB		12		Sie (sg)	Sie hat ihre	sich					
-754	6	SUB		13		Füller; alt-	alten Füller						
-755	6	SUB		13		Konsuln; amerikanisch-	amerikanischen Konsuln						
-756	6	SUB		13		Bücher; französisch-	französischen Bücher			pl			
-757	6	SUB		13		Zigaretten; deutsch-	deutschen Zigaretten						
-758	6	SUB		13		Zeitungen; alt-	alten Zeitungen						
-759	6	SUB		13		Nummern; wichtig-	wichtigen Nummern						
-760	6	SUB		13		Bleistifte; neu-	neuen Bleistifte						
-761	6	SUB		13		Geschäfte; schön-	schönen Geschäfte						
-762	6	SUB		14		Autos; sein- groß- neu-	seine großen neuen Autos			pl	Autos; sein- gross- neu-	seine grossen neuen Autos	
-763	6	SUB		14		Restaurants; unser- schön- alt-	unsere schönen alten Restaurants						
-764	6	SUB		14		Füller; mein- alt- kaputt-	meine alten kaputten Füller						
-765	6	SUB		14		Bücher; ihr- neu- französisch-	ihre neuen französischen Bücher			pl			
-766	6	SUB		14		Wagen; unser- groß- amerikanisch-	unsere großen amerikanischen Wagen				Wagen; unser- gross- amerikanisch-	unsere grossen amerikanischen Wagen	
-767	6	SUB		14		Romane; ihr- schön- deutsch-	ihre schönen deutschen Romane						
-768	6	SUB		15		Vizekonsuln; d- neu-	den neuen Vizekonsuln						
-769	6	SUB		15		Schriftstellern; d- französisch-	den französischen Schriftstellern						
-770	6	SUB		15		Amerikanern; d- nett-	den netten Amerikanern			pl			
-771	6	SUB		15		Beamten (pl.); d- wichtig-	den wichtigen Beamten			pl			
-772	6	SUB		15		Deutschen (pl.); d- alt-	den alten Deutschen			pl			
-773	6	SUB		15		Sekretärinnen; d- nett-	den netten Sekretärinnen						
-774	6	SUB		15		Kollegen (pl.); d- amerikanisch-	den amerikanischen Kollegen						
-775	6	SUB		15		Diplomaten (pl.); d- deutsch-	den deutschen Diplomaten						
-776	6	SUB		16		Kino; d- neu- groß-	das neue große Kino				Kino; d- neu- gross-	das neue grosse Kino	
-777	6	SUB		16		Zeitung; d- alt- deutsch-	die alte deutsche Zeitung						
-778	6	SUB		16		Konsul; d- neu- amerikanisch-	der neue amerikanische Konsul						
-779	6	SUB		16		Universität; d- berühmt- alt-	die berühmte alte Universität						
-780	6	SUB		16		Hotel; d- groß- neu-	das große neue Hotel				Hotel; d- gross- neu-	das grosse neue Hotel	
-781	6	SUB		16		Rathaus; d- berühmt- alt-	das berühmte alte Rathaus						
-782	6	SUB		16		Handy; d- kaputt- alt-	das kaputte alte Handy				Schreibmaschine; d- kaputt- alt-	die kaputte alte Schreibmaschine	
-783	6	SUB		16		Herr; d- nett- alt-	der nette alte Herr						
-784	6	SUB		17		Zigarren; gut- deutsch-	guten deutschen Zigarren						
-785	6	SUB		17		Bücher; schön- alt-	schönen alten Bücher			pl			
-786	6	SUB		17		Zeitungen; neu- amerikanisch-	neuen amerikanischen Zeitungen						
-787	6	SUB		17		Weine; gut- französisch-	guten französischen Weine						
-788	6	SUB		17		Computer; neu- gut-	neuen guten Computer				Schreibmaschinen; neu- gut-	neuen guten Schreibmaschinen	
-789	6	SUB		17		Briefmarken; berühmt- alt-	berühmten alten Briefmarken			pl			
-790	6	SUB		18		Cafés; unser- nett- deutsch-	unsere netten deutschen Cafés			pl			
-791	6	SUB		18		Romane; kein- alt- französisch-	keine alten französischen Romane						
-792	6	SUB		18		Schlösser; unser- berühmt- alt-	unsere berühmten alten Schlösser						
-793	6	SUB		18		Abteilungen; ihr- neu- groß-	ihre neuen großen Abteilungen			pl	Abteilungen; ihr- neu- gross-	ihre neuen grossen Abteilungen	
-794	6	SUB		18		Geschäfte; sein- schön- groß-	seine schönen großen Geschäfte				Geschäfte; sein- schön- gross-	seine schönen grossen Geschäfte	
-795	6	SUB		18		Fragebogen; unser- wichtig- neu-	unsere wichtigen neuen Fragebogen						
-796	6	SUB		18		Wohnungen; ihr- nett- neu-	ihre netten neuen Wohnungen						
-797	6	SUB		18		Geschäftsbriefe; unser- umständlich- deutsch-	unsere umständlichen deutschen Geschäftsbriefe						
-798	6	SUB		19		Hotel; unser- alt- deutsch-	unser altes deutsches Hotel						
-799	6	SUB		19		Schriftsteller; ein- wichtig- amerikanisch-	ein wichtiger amerikanischer Schriftsteller						
-800	6	SUB		19		Handy; ihr- schön- neu-	ihr schönes neues Handy				Schreibmaschine; ihr- schön- neu-	ihre schöne neue Schreibmaschine	
-801	6	SUB		19		Universität; unser- berühmt- alt-	unsere berühmte alte Universität						
-802	6	SUB		19		Füller; sein- alt- kaputt-	sein alter kaputter Füller						
-803	6	SUB		19		Wohnung; unser- groß- alt-	unsere große alte Wohnung				Wohnung; unser- gross- alt-	unsere grosse alte Wohnung	
-804	6	SUB		19		Sekretärin; ihr- nett- neu-	ihre nette neue Sekretärin						
-805	6	SUB		19		Roman; sein- gut- neu-	sein guter neuer Roman						
-806	6	SUB		19		Zeitung; ein- neu- französisch-	eine neue französische Zeitung						
-807	6	SUB		20		Wagen; ein- neu- deutsch-	einen neuen deutschen Wagen						
-808	6	SUB		20		Wohnung; ein- schön- groß-	eine schöne große Wohnung				Wohnung; ein- schön- gross-	eine schöne grosse Wohnung	
-809	6	SUB		20		Telefon; ein- alt- kaputt-	ein altes kaputtes Telefon				Telephon; ein- alt- kaputt-	ein altes kaputtes Telephon	
-810	6	SUB		20		Spülmaschine; ein- gut- deutsch-	eine gute deutsche Spülmaschine				Schreibmaschine; ein- gut- deutsch-	eine gute deutsche Schreibmaschine	
-811	6	SUB		20		Namen; ein- schön- französisch-	einen schönen französischen Namen						
-812	6	SUB		20		Büro; ein- groß- neu-	ein großes neues Büro			n	Büro; ein- gross- neu-	ein grosses neues Büro	
-813	6	SUB		20		Sekrertärin; ein- nett- alt-	eine nette alte Sekretärin						
-814	6	SUB		20		Füller; ein- neu- amerikansich-	einen neuen amerikanischen Füller						
-815	6	SUB		20		Kollegen; ein- nett- amerikanisch-	einen netten amerikanischen Kollegen						
-816	6	SUB		21		Füller; ein- der kaputt-	einen der kaputten Füller						
-817	6	SUB		21		Zeitungen; ein- der französisch-	eine der französischen Zeitungen						
-818	6	SUB		21		Fragebogen; ein- der neu-	einen der neuen Fragebogen						
-819	6	SUB		21		Romane; ein- der deutsch-	einen der deutschen Romane						
-820	6	SUB		21		Büros; ein- der neu-	eins der neuen Büros			n			
-821	6	SUB		21		Briefmarken; ein- der amerikanisch-	eine der amerikanischen Briefmarken			f			
-822	6	SUB		21		Etagenhäuser; ein- der groß-	eins der großen Etagenhäuser				Etagenhäuser; ein- der gross-	eins der grossen Etagenhäuser	
-823	6	SUB		21		Wagen; ein- der alt-	einen der alten Wagen						
-824	6	SUB		22		Hotel; ein- groß- neu-	einem großen neuen Hotel				Hotel; ein- gross- neu-	einem grossen neuen Hotel	
-825	6	SUB		22		Stadt; ein- schön- französisch-	einer schönen französischen Stadt						
-826	6	SUB		22		Etagenhaus; ein- groß- amerikanisch-	einem großen amerikanischen Etagenhaus				Etagenhaus; ein- gross- amerikanisch-	einem grossen amerikanischen Etagenhaus	
-827	6	SUB		22		Park; ein- schön- alt-	einem schönen alten Park						
-828	6	SUB		22		Haus; ein- nett- detusch-	einem netten deutschen Haus						
-829	6	SUB		22		Wohnung; ein- groß- neu-	einer großen neuen Wohnung				Wohnung; ein- gross- neu-	einer grossen neuen Wohnung	
-830	6	SUB		22		Neubau; ein- schön- groß-	einem schönen großen Neubau				Neubau; ein- schön- gross-	einem schönen grossen Neubau	
-831	6	SUB		23		Sekretärinnen; ein- sein- neu-	eine seiner neuen Sekretärinnen						
-832	6	SUB		23		Schriftsteller; ein- unser- deutsch-	einen unserer deutschen Schriftsteller						
-833	6	SUB		23		Formulare; ein- Ihr- neu-	eins Ihrer neuen Formulare						
-834	6	SUB		23		Konferenzen; ein- unser- dringend-	eine unserer dringenden Konferenzen						
-835	6	SUB		23		Vizekonsuln; ein- unser- amerikanisch-	einen unserer amerikanischen Vizekonsuln						
-836	6	SUB		23		Einfuhrbestimmungen; ein- Ihr- neu-	eine Ihrer neuen Einfuhrbestimmungen						
-837	6	SUB		23		Briefe; ein- sein- wichtig-	einen seiner wichtigen Briefe			m			
-838	6	SUB		23		Geschäfte; ein- ihr- deutsch-	eins ihrer deutschen Geschäfte						
+2888	5	SUB	1	1	a	Roman	der						
+2889	5	SUB	1	1	a	Brief	der						
+2890	5	SUB	1	1	a	Bleistift	der						
+2891	5	SUB	1	1	a	Papierkorb	der						
+2892	5	SUB	1	1	a	Füller	der						
+2893	5	SUB	1	1	a	Vater	der						
+2894	5	SUB	1	1	a	Bruder	der						
+2895	5	SUB	1	1	b	Haus	das						
+2896	5	SUB	1	1	b	Buch	das						
+2897	5	SUB	1	1	b	Briefpapier	das						
+2898	5	SUB	1	1	b	Etagenhaus	das						
+2899	5	SUB	1	1	b	Schreibwarengeschäft	das						
+2900	5	SUB	1	1	c	Wohnung	die						
+2901	5	SUB	1	1	c	Zeitung	die						
+2902	5	SUB	1	1	c	Post	die						
+2903	5	SUB	1	1	c	Briefmarke	die						
+2904	5	SUB	1	1	c	Bibliothek	die						
+2905	5	SUB	1	1	c	Spülmaschine	die				Schreibmaschine		
+2906	5	SUB	1	1	c	Tinte	die						
+2907	5	SUB	1	1	c	Sekretärin	die						
+2908	5	SUB	1	2		Papierkorb	den						
+2909	5	SUB	1	2		Brief	den						
+2910	5	SUB	1	2		Tinte	die						
+2911	5	SUB	1	2		Vater	den						
+2912	5	SUB	1	2		Briefpapier	das						
+2913	5	SUB	1	2		Zeitung	die						
+2914	5	SUB	1	2		Computer	den				Schreibmaschine	die	
+2915	5	SUB	1	2		Füller	den						
+2916	5	SUB	1	2		Buch	das						
+2917	5	SUB	1	2		Bleistift	den						
+2918	5	SUB	1	2		Briefmarke	die						
+2919	5	SUB	1	2		Schwester	die						
+2920	5	SUB	1	3		Roman	dem						
+2921	5	SUB	1	3		Tochter	der						
+2922	5	SUB	1	3		Buch	dem						
+2923	5	SUB	1	3		Bibliothek	der						
+2924	5	SUB	1	3		Schriftsteller	dem						
+2925	5	SUB	1	3		Wohnung	der						
+2926	5	SUB	1	3		Etagenhaus	dem						
+2927	5	SUB	1	3		Brief	dem						
+2928	5	SUB	1	3		Zeitung	der						
+2929	5	SUB	1	3		Papiergeschäft	dem						
+2930	5	SUB	1	4		ein- Buch	ein Buch	Bücher					
+2931	5	SUB	1	4		ein- Koffer	einen Koffer	Koffer					
+2932	5	SUB	1	4		ein- Füller	einen Füller	Füller					
+2933	5	SUB	1	4		ein- Wagen	einen Wagen	Wagen					
+2934	5	SUB	1	4		ein- Bruder	einen Bruder	Brüder					
+2935	5	SUB	1	4		ein- Tochter	eine Tochter	Töchter					
+2936	5	SUB	1	4		ein- Bleistift	einen Bleistift	Bleistifte					
+2937	5	SUB	1	4		ein- Geschäft	ein Geschäft	Geschäfte					
+2938	5	SUB	1	4		ein- Formular	ein Formular	Formulare					
+2939	5	SUB	1	4		ein- Stadtplan	einen Stadtplan	Stadtpläne					
+2940	5	SUB	1	4		ein- Sohn	einen Sohn	Söhne					
+2941	5	SUB	1	4		ein- Haus	ein Haus	Häuser					
+2942	5	SUB	1	4		ein- Zeitung	eine Zeitung	Zeitungen					
+2943	5	SUB	1	4		ein- Handy	ein Handy	Handys			ein- Schreibmaschine	eine Schreibmaschine	Schreibmaschinen
+2944	5	SUB	1	4		ein- Pfeife	eine Pfeife	Pfeifen					
+2945	5	SUB	1	4		ein- Auto	ein Auto	Autos					
+2946	5	SUB	1	4		ein- Schwester	eine Schwester	Schwestern					
+2947	5	SUB	1	5		mein- Bleistift	mein Bleistift	Bleistifte					
+2948	5	SUB	1	5		mein- Fragebogen	mein Fragebogen	Fragebogen					
+2949	5	SUB	1	5		mein- Brief	mein Brief	Briefe					
+2950	5	SUB	1	5		mein- Ausweis	mein Ausweis	Ausweise					
+2951	5	SUB	1	5		mein- Brot	mein Brot	Brote					
+2952	5	SUB	1	5		mein- Formular	mein Formular	Formulare					
+2953	5	SUB	1	5		mein- Pass	mein Pass	Pässe					
+2954	5	SUB	1	5		mein- Antrag	mein Antrag	Anträge					
+2955	5	SUB	1	5		mein- Buch	mein Buch	Bücher					
+2956	5	SUB	1	5		mein- Glas	mein Glas	Gläser					
+2957	5	SUB	1	5		mein- Visum	mein Visum	Visa (Visen)					
+2958	5	SUB	1	5		mein- Zeitung	meine Zeitung	Zeitungen					
+2959	5	SUB	1	5		mein- Briefmarke	meine Briefmarke	Briefmarken					
+2960	5	SUB	1	5		mein- Kuli	mein Kuli	Kulis			mein- Schreibmaschine	meine Schreibmaschine	Schreibmaschinen
+2961	5	SUB	2	6		Bleistift	Bleistifte						
+2962	5	SUB	2	6		Papierkorb	Papierkörbe						
+2963	5	SUB	2	6		Adresse	Adressen						
+2964	5	SUB	2	6		Brief	Briefe						
+2965	5	SUB	2	6		Herr	Herren						
+2966	5	SUB	2	6		Café	Cafés						
+2967	5	SUB	2	6		Dame	Damen						
+2968	5	SUB	2	6		Geschäft	Geschäfte						
+2969	5	SUB	2	6		Computer	Computer				Schreibmaschine	Schreibmaschinen	
+2970	5	SUB	2	6		Fragebogen	Fragebogen						
+2971	5	SUB	2	6		Füller	Füller						
+2972	5	SUB	2	6		Briefmarke	Briefmarken						
+2973	5	SUB	2	6		Koffer	Koffer						
+2974	5	SUB	2	6		Omnibus	Omnibusse						
+2975	5	SUB	2	6		Roman	Romane						
+2976	5	SUB	2	6		Ausweis	Ausweise						
+2977	5	SUB	2	6		Konsulat	Konsulate						
+2978	5	SUB	2	6		Formular	Formulare						
+2979	5	SUB	2	6		Pass	Pässe						
+2980	5	SUB	2	6		Antrag	Anträge						
+2981	5	SUB	2	7		Buch	Bücher						
+2982	5	SUB	2	7		Zeitung	Zeitungen						
+2983	5	SUB	2	7		Wagen	Wagen						
+2984	5	SUB	2	7		Bruder	Brüder						
+2985	5	SUB	2	7		Tochter	Töchter						
+2986	5	SUB	2	7		Schwester	Schwestern						
+2987	5	SUB	2	7		Tante	Tanten						
+2988	5	SUB	2	7		Parkplatz	Parkplätze						
+2989	5	SUB	2	7		Haus	Häuser						
+2990	5	SUB	2	7		Glas	Gläser						
+2991	5	SUB	2	7		Streichholz	Streichhölzer						
+2992	5	SUB	2	7		Diplomat	Diplomaten						
+2993	5	SUB	2	7		Polizist	Polizisten						
+2994	5	SUB	2	7		Auto	Autos						
+2995	5	SUB	2	8		Zeitung	Zeitungen						
+2996	5	SUB	2	8		Amerikaner	Amerikaner						
+2997	5	SUB	2	8		Frau	Frauen						
+2998	5	SUB	2	8		Amerikanerin	Amerikanerinnen						
+2999	5	SUB	2	8		Konsul	Konsuln						
+3000	5	SUB	2	8		Beamte	Beamten						
+3001	5	SUB	2	8		Pfeife	Pfeifen						
+3002	5	SUB	2	8		Taxi	Taxis				Taxe	Taxen	
+3003	5	SUB	2	8		Tante	Tanten						
+3004	5	SUB	2	8		Zigarette	Zigaretten						
+3005	5	SUB	2	8		Brief	Briefe						
+3006	5	SUB	2	8		Fragebogen	Fragebogen						
+3007	5	SUB	2	8		Briefmarke	Briefmarken						
+3008	5	SUB	2	8		Pass	Pässe						
+3009	5	SUB	2	8		Ausweis	Ausweise						
+3010	5	SUB	2	8		Sekretärin	Sekretärinnen						
+3011	5	SUB	2	9		Geschäft	Geschäften						
+3012	5	SUB	2	9		Theater	Theatern						
+3013	5	SUB	2	9		Flughafen	Flughäfen						
+3014	5	SUB	2	9		Omnibus	Omnibussen						
+3015	5	SUB	2	9		Café	Cafés						
+3016	5	SUB	2	9		Bahnhof	Bahnhöfen						
+3017	5	SUB	2	9		Stadt	Städten						
+3018	5	SUB	2	9		Rathaus	Rathäusern						
+3019	5	SUB	2	9		Schloss	Schlössern						
+3020	5	SUB	2	9		Kino	Kinos						
+3021	5	SUB	2	9		Etagenhaus	Etagenhäusern						
+3022	5	SUB	2	9		Diplomat	Diplomaten						
+3023	5	SUB	2	9		Polizist	Polizisten						
+3024	5	SUB	2	9		Museum	Museen						
+3025	5	SUB	2	9		Bibliothek	Bibliotheken						
+3026	5	SUB	2	9		Hotel	Hotels						
+3027	5	SUB	2	9		Universität	Universitäten						
+3028	5	SUB	2	9		Straße	Straßen				Strasse	Strassen	
+3029	5	SUB	2	9		Restaurant	Restaurants						
+3030	5	SUB	2	10		Theater	Theater						
+3031	5	SUB	2	10		Ratskeller	Ratskeller						
+3032	5	SUB	2	10		Flughafen	Flughäfen						
+3033	5	SUB	2	10		Dom	Dome						
+3034	5	SUB	2	10		Konsulat	Konsulate						
+3035	5	SUB	2	10		Botschaft	Botschaften						
+3036	5	SUB	2	10		Generalkonsulat	Generalkonsulate						
+3037	5	SUB	2	10		Bahnhof	Bahnhöfe						
+3038	5	SUB	2	10		Stadt	Städte						
+3039	5	SUB	2	10		Schloss	Schlösser						
+3040	5	SUB	2	10		Diplomat	Diplomaten						
+3041	5	SUB	2	10		Polizist	Polizisten						
+3042	5	SUB	2	10		Museum	Museen						
+3043	5	SUB	2	10		Bank	Banken						
+3044	5	SUB	2	10		Zeitung	Zeitungen						
+3045	5	SUB	2	10		Konsul	Konsuln						
+3046	5	SUB	2	11		Restaurant	Restaurants						
+3047	5	SUB	2	11		Park	Parks						
+3048	5	SUB	2	11		Café	Cafés						
+3049	5	SUB	2	11		Kino	Kinos						
+3050	5	SUB	2	11		Hotel	Hotels						
+3051	5	SUB	2	11		Bank	Banken						
+3052	5	SUB	2	11		Theater	Theater						
+3053	5	SUB	2	11		Autobus	Autobusse						
+3054	5	SUB	2	11		Straßenbahn	Straßenbahnen				Strassenbahn	Strassenbahnen	
+3055	5	SUB	2	11		Polizist	Polizisten						
+3056	5	SUB	2	11		Straßenbahnhaltestelle	Straßenbahnhaltestellen				Strassenbahnhaltestelle	Strassenbahnhaltestellen	
+3057	5	SUB	2	11		Geschäft	Geschäfte						
+3058	5	SUB	2	11		Etagenhaus	Etagenhäuser						
+3059	5	SUB	2	11		Wohnung	Wohnungen						
+3060	5	SUB	2	11		Bibliothek	Bibliotheken						
+3061	5	SUB	2	11		Universität	Universitäten						
+494	5	SUB	3	12	a	Amerikaners	des			m			
+495	5	SUB	3	12	a	Diplomaten	des			m			
+496	5	SUB	3	12	a	Schriftstellers	des			m			
+497	5	SUB	3	12	a	Bruders	des			m			
+498	5	SUB	3	12	a	Konsuls	des			m			
+499	5	SUB	3	12	a	Beamten	des			m			
+500	5	SUB	3	12	b	Geschäfts	des			n			
+501	5	SUB	3	12	b	Generalkonsulats	des			n			
+502	5	SUB	3	12	b	Rathauses	des			n			
+503	5	SUB	3	12	b	Museum	des			n			
+504	5	SUB	3	12	b	Restaurants	des			n			
+505	5	SUB	3	12	b	Hotels	des			n			
+506	5	SUB	3	12	c	Botschaft	der			f			
+507	5	SUB	3	12	c	Mutter	der			f			
+508	5	SUB	3	12	c	Bank	der			f			
+509	5	SUB	3	12	c	Tochter	der			f			
+510	5	SUB	3	12	c	Bibliothek	der			f			
+511	5	SUB	3	12	c	Universität	der			f			
+512	5	SUB	3	12	c	Sekretärin	der			f			
+513	5	SUB	3	12	d	Eltern	der			p			
+514	5	SUB	3	12	d	Brüder	der			pl			
+515	5	SUB	3	12	d	Damen	der			pl			
+516	5	SUB	3	12	d	Schwestern	der			p			
+517	5	SUB	3	12	d	Herren	der			p			
+518	5	SUB	3	12	d	Söhne	der			p			
+519	5	SUB	3	13	a	Konsuls	des						
+520	5	SUB	3	13	a	Schriftstellers	des						
+521	5	SUB	3	13	a	Diplomaten	des			m			
+522	5	SUB	3	13	a	Vizekonsuls	des						
+523	5	SUB	3	13	a	Beamten	des						
+524	5	SUB	3	13	a	Herrn	des						
+525	5	SUB	3	13	b	Schreibwarengeschäfts	des						
+526	5	SUB	3	13	b	Kinos	des						
+527	5	SUB	3	13	b	Konsulats	des			n			
+528	5	SUB	3	13	b	Restaurants	des						
+529	5	SUB	3	13	b	Etagenhauses	des						
+530	5	SUB	3	13	b	Theaters	des						
+531	5	SUB	3	13	c	Mutter	der						
+532	5	SUB	3	13	c	Bank	der			f			
+533	5	SUB	3	13	c	Bibliothek	der			f			
+534	5	SUB	3	13	c	Tante	der						
+535	5	SUB	3	13	c	Zeitung	der						
+536	5	SUB	3	13	c	Dame	der			f			
+537	5	SUB	3	13	c	Sekretärin	der						
+538	5	SUB	3	13	d	Eltern	der						
+539	5	SUB	3	13	d	Brüder	der			pl			
+540	5	SUB	3	13	d	Schwestern	der						
+541	5	SUB	3	13	d	Töchter	der						
+542	5	SUB	3	13	d	Söhne	der						
+543	5	SUB	3	14		Hotels	dieses						
+544	5	SUB	3	14		Frau	dieser						
+545	5	SUB	3	14		Beamten	dieses						
+546	5	SUB	3	14		Geschäfts	dieses						
+547	5	SUB	3	14		Amerikanerin	dieser			f			
+548	5	SUB	3	14		Polizisten	dieses						
+549	5	SUB	3	14		Konsuls	dieses						
+550	5	SUB	3	14		Dame	dieser			f			
+551	5	SUB	3	14		Diplomaten	dieses			m			
+552	5	SUB	3	14		Herrn	dieses						
+553	5	SUB	3	14		Konsulats	dieses			n			
+554	5	SUB	3	15		Diplomaten	eines			m			
+555	5	SUB	3	15		Schriftstellers	eines						
+556	5	SUB	3	15		Kollegen	eines						
+557	5	SUB	3	15		Dame	einer			f			
+558	5	SUB	3	15		Vizekonsuls	eines						
+559	5	SUB	3	15		Schreibwarengeschäfts	eines						
+560	5	SUB	3	15		Bank	einer			f			
+561	5	SUB	3	15		Amerikaners	eines			m			
+562	5	SUB	3	15		Bibliothek	einer			f			
+563	5	SUB	3	15		Amerikanerin	einer			f			
+564	5	SUB	3	15		Herrn	eines						
+565	5	SUB	3	16		Bruders	Ihres			m			
+566	5	SUB	3	16		Vaters	Ihres						
+567	5	SUB	3	16		Schwester	Ihrer						
+568	5	SUB	3	16		Kollegen	Ihres						
+569	5	SUB	3	16		Tochter	Ihrer						
+570	5	SUB	3	16		Sohnes	Ihres						
+571	5	SUB	3	16		Tante	Ihrer						
+572	5	SUB	3	16		Mutter	Ihrer						
+573	5	SUB	3	16		Mannes	Ihres						
+574	5	SUB	3	16		Bekannten	Ihres						
+575	5	SUB	3	16		Frau	Ihrer						
+576	5	SUB	3	17		Hotels	unseres						
+577	5	SUB	3	17		Tante	unserer						
+578	5	SUB	3	17		Konsulats	unseres			n			
+579	5	SUB	3	17		Botschaft	unserer			f			
+580	5	SUB	3	17		Schwester	unserer						
+581	5	SUB	3	17		Eltern	unserer						
+582	5	SUB	3	17		Konsuls	unseres						
+583	5	SUB	3	17		Bank	unserer			f			
+584	5	SUB	3	17		Sohnes	unseres						
+585	5	SUB	3	17		Kollegen	unseres						
+586	5	SUB	3	18		mein- Mutter	meiner Mutter						
+587	5	SUB	3	18		unser- Tochter	unserer Tochter						
+588	5	SUB	3	18		sein- Schwester	seiner Schwester						
+589	5	SUB	3	18		mein- Sohnes	meines Sohnes						
+590	5	SUB	3	18		unser- Tante	unserer Tante						
+591	5	SUB	3	18		sein- Bruders	seines Bruders						
+592	5	SUB	3	18		ihr- Vaters	ihres Vaters						
+593	5	SUB	3	18		ein- Bekannten	eines Bekannten						
+594	5	SUB	3	18		ihr- Eltern	ihrer Eltern						
+595	5	SUB	3	18		mein- Kollegen	meines Kollegen						
+596	5	SUB	3	19		Ihr- Kollegen	Ihrer Kollegen						
+597	5	SUB	3	19		mein- Söhne	meiner Söhne						
+598	5	SUB	3	19		sein- Eltern	seiner Eltern						
+599	5	SUB	3	19		unser- Schwestern	unserer Schwestern						
+600	5	SUB	3	19		mein- Töchter	meiner Töchter						
+601	5	SUB	3	19		unser- Diplomaten	unserer Diplomaten						
+602	5	SUB	3	20	a	Bleistifte	einer der						
+603	5	SUB	3	20	a	Stadtpläne	einer der						
+604	5	SUB	3	20	a	Söhne	einer der						
+605	5	SUB	3	20	a	Parkplätze	einer der						
+606	5	SUB	3	20	a	Brüder	einer der			pl			
+607	5	SUB	3	20	a	Autobusse	einer der			pl			
+608	5	SUB	3	20	a	Geschäftsbriefe	einer der						
+609	5	SUB	3	20	b	Hotels	eins der						
+610	5	SUB	3	20	b	Theater	eins der						
+611	5	SUB	3	20	b	Museen	eins der						
+612	5	SUB	3	20	b	Konsulate	eins der			n			
+613	5	SUB	3	20	b	Etagenhäuser	eins der						
+614	5	SUB	3	20	c	Mäuse	eine der				Schreibmaschinen		
+615	5	SUB	3	20	c	Schwestern	eine der						
+616	5	SUB	3	20	c	Wohnungen	eine der						
+617	5	SUB	3	20	c	Türen	eine der						
+618	5	SUB	3	20	c	Bibliotheken	eine der			f			
+619	5	SUB	3	20	c	Sekretärinnen	eine der						
+620	5	SUB	3	21	a	Füller	einen der						
+621	5	SUB	3	21	a	Bleistifte	einen der						
+622	5	SUB	3	21	a	Stadtpläne	einen der						
+623	5	SUB	3	21	a	Koffer	einen der						
+624	5	SUB	3	21	a	Papierkörbe	einen der						
+625	5	SUB	3	21	a	Fragebogen	einen der						
+626	5	SUB	3	21	b	Gläser	eins der						
+627	5	SUB	3	21	b	Autos	eins der			pl			
+628	5	SUB	3	21	b	Formulare	eins der						
+629	5	SUB	3	21	b	Häuser	eins der						
+630	5	SUB	3	21	b	Bücher	eins der			pl			
+631	5	SUB	3	21	c	Zeitungen	eine der						
+632	5	SUB	3	21	c	Pfeifen	eine der						
+633	5	SUB	3	21	c	Adressen	eine der			f			
+634	5	SUB	3	21	c	Mäuse	eine der				Schreibmaschinen		
+635	5	SUB	3	21	c	Briefmarken	eine der			f			
+636	5	SUB	3	22		Meine Frau	Meine Frau	ihrer	leiht sich				
+637	5	SUB	3	22		Unser Kollege	Unser Kollege	seiner	leiht sich				
+638	5	SUB	3	22		Frau Müller	Frau Müller	ihrer	leiht sich				
+639	5	SUB	3	22		Er	Er	seiner	leiht sich				
+640	5	SUB	3	22		Seine Frau	Seine Frau	ihrer	leiht sich				
+641	5	SUB	3	22		Ihr Mann	Ihr Mann	seiner	leiht sich				
+642	5	SUB	3	22		Wir	Wir	unserer	leihen uns				
+643	5	SUB	3	22		Herr Schneider	Herr Schneider	seiner	leiht sich				
+3062	5	SUB	3	23		Wir	Wir	können	uns				
+3063	5	SUB	3	23		Seine Töchter	Seine Töchter	können	sich				
+3064	5	SUB	3	23		Ihre Schwester	Ihre Schwester	kann	sich				
+3065	5	SUB	3	23		Ich	Ich	kann	mich				
+3066	5	SUB	3	23		Unser Vater	Unser Vater	kann	sich				
+3067	5	SUB	3	23		Ihr Mann	Ihr Mann	kann	sich				
+3068	5	SUB	3	23		Er	Er	kann	sich				
+644	6	SUB	1	1	a	Wagen	der neue						
+645	6	SUB	1	1	a	Ober	der neue						
+646	6	SUB	1	1	a	Kollege	der neue						
+647	6	SUB	1	1	a	Konsul	der neue						
+648	6	SUB	1	1	a	Apparat	der neue			m			
+649	6	SUB	1	1	a	Füller	der neue						
+650	6	SUB	1	1	b	Büro	das neue			n			
+651	6	SUB	1	1	b	Telefon	das neue				Telephon		
+652	6	SUB	1	1	b	Generalkonsulat	das neue			n			
+653	6	SUB	1	1	b	Haus	das neue						
+654	6	SUB	1	1	b	Geschäft	das neue						
+655	6	SUB	1	1	c	Abteilung	die neue			f			
+656	6	SUB	1	1	c	Nummer	die neue						
+657	6	SUB	1	1	c	Wohnung	die neue						
+658	6	SUB	1	1	c	Adresse	die neue			f			
+659	6	SUB	1	1	c	Sekretärin	die neue						
+660	6	SUB	1	2	a	Portier	den alten						
+661	6	SUB	1	2	a	Beamten	den alten						
+662	6	SUB	1	2	a	Schriftsteller	den alten						
+663	6	SUB	1	2	a	Polizisten	den alten						
+664	6	SUB	1	2	a	Herrn Becker	den alten						
+665	6	SUB	1	2	a	Markt	den alten						
+666	6	SUB	1	2	a	Park	den alten						
+667	6	SUB	1	2	b	Theater	das alte						
+668	6	SUB	1	2	b	Haus	das alte						
+669	6	SUB	1	2	b	Schloss	das alte						
+670	6	SUB	1	2	b	Museum	das alte						
+671	6	SUB	1	2	b	Hotel	das alte						
+672	6	SUB	1	2	c	Universität	die alte						
+673	6	SUB	1	2	c	Dame	die alte			f			
+674	6	SUB	1	2	c	Bibliothek	die alte			f			
+675	6	SUB	1	2	c	Stadt	die alte						
+676	6	SUB	1	2	c	Frau	die alte						
+677	6	SUB	1	3	a	Bahnhof	dem alten			m			
+678	6	SUB	1	3	a	Flughafen	dem alten						
+679	6	SUB	1	3	a	Parkplatz	dem alten						
+680	6	SUB	1	3	a	Ratskeller	dem alten						
+681	6	SUB	1	3	b	Hotel	dem alten						
+682	6	SUB	1	3	b	Büro	dem alten			n			
+683	6	SUB	1	3	b	Theater	dem alten						
+684	6	SUB	1	3	b	Museum	dem alten						
+685	6	SUB	1	3	c	Rathaus	dem alten						
+686	6	SUB	1	3	c	Universität	der alten						
+687	6	SUB	1	3	c	Botschaft	der alten			f			
+688	6	SUB	1	3	c	Bibliothek	der alten			f			
+689	6	SUB	1	3	c	Bank	der alten			f			
+690	6	SUB	1	4	a	Bleistift	ein guter			m			
+691	6	SUB	1	4	a	Füller	ein guter						
+692	6	SUB	1	4	a	Koffer	ein guter						
+693	6	SUB	1	4	a	Roman	ein guter						
+694	6	SUB	1	4	a	Parkplatz	ein guter						
+695	6	SUB	1	4	a	Wein	ein guter						
+696	6	SUB	1	4	b	Buch	ein gutes			m			
+697	6	SUB	1	4	b	Theater	ein gutes						
+698	6	SUB	1	4	b	Restaurant	ein gutes						
+699	6	SUB	1	4	b	Café	ein gutes			n			
+700	6	SUB	1	4	b	Geschäft	ein gutes						
+701	6	SUB	1	4	c	Universität	eine gute						
+702	6	SUB	1	4	c	Bibliothek	eine gute			f			
+703	6	SUB	1	4	c	Maus	eine gute				Schreibmaschine		
+704	6	SUB	1	4	c	Zigarre	eine gute						
+705	6	SUB	1	4	c	Zeitung	eine gute						
+706	6	SUB	1	5	a	Wagen	einen guten						
+707	6	SUB	1	5	a	Füller	einen guten						
+708	6	SUB	1	5	a	Roman	einen guten						
+709	6	SUB	1	5	a	Wein	einen guten						
+710	6	SUB	1	5	a	Bleistift	einen guten			m			
+711	6	SUB	1	5	a	Stadtplan	einen guten						
+712	6	SUB	1	5	b	Buch	ein gutes			m			
+713	6	SUB	1	5	b	Hotel	ein gutes						
+714	6	SUB	1	5	b	Auto	ein gutes			n			
+715	6	SUB	1	5	b	Café	ein gutes			n			
+716	6	SUB	1	5	b	Restaurant	ein gutes						
+717	6	SUB	1	5	c	Zeitung	eine gute						
+718	6	SUB	1	5	c	Universität	eine gute						
+719	6	SUB	1	5	c	Bibliothek	eine gute			f			
+720	6	SUB	1	5	c	Sekretärin	eine gute						
+721	6	SUB	1	5	c	Maus	eine gute				Schreibmaschine		
+722	6	SUB	1	6	a	Bekannten	eines alten						
+723	6	SUB	1	6	a	Kollegen	eines alten						
+724	6	SUB	1	6	a	Schriftstellers	eines alten						
+725	6	SUB	1	6	a	Beamten	eines alten						
+726	6	SUB	1	6	a	Diplomaten	eines alten			m			
+727	6	SUB	1	6	a	Konsuls	eines alten						
+728	6	SUB	1	6	b	Dame	einer alten			f			
+729	6	SUB	1	6	b	Amerikanerin	einer alten			f			
+730	6	SUB	1	6	b	Tante	einer alten						
+731	6	SUB	1	6	b	Universität	einer alten						
+732	6	SUB	1	6	b	Sekretärin	einer alten						
+733	6	SUB	1	7	a	Geschäfts; ein- gut-	eines guten Geschäfts						
+734	6	SUB	1	7	a	Hotels; ein- gut-	eines guten Hotels						
+735	6	SUB	1	7	a	Restaurants; ein- gut-	eines guten Restaurants						
+736	6	SUB	1	7	a	Cafés; ein- gut-	eines guten Cafés			n			
+737	6	SUB	2	8		alt-	alt						
+738	6	SUB	2	8		kaputt-	kaputt						
+739	6	SUB	2	8		schön-	schön						
+740	6	SUB	2	8		groß-	groß				gross-	gross	
+741	6	SUB	2	8		neu-	neu						
+742	6	SUB	2	8		gut-	gut						
+743	6	SUB	2	9		gut-	gut						
+744	6	SUB	2	9		genau-	genau						
+745	6	SUB	2	9		neu-	neu						
+746	6	SUB	2	9		wichtig-	wichtig						
+747	6	SUB	2	9		besser-	besser						
+748	6	SUB	2	9		dringend-	dringend						
+749	6	SUB	2	10		neu-	neu						
+750	6	SUB	2	10		besser-	besser						
+751	6	SUB	2	10		gut-	gut						
+752	6	SUB	2	10		alt-	alt						
+753	6	SUB	2	10		wichtig-	wichtig						
+3069	6	SUB	2	11		ich	mir						
+3070	6	SUB	2	11		wir	uns						
+3071	6	SUB	2	11		er	ihm						
+3072	6	SUB	2	11		sie (pl)	ihnen						
+3073	6	SUB	2	11		sie (sg)	ihr						
+3074	6	SUB	2	11		Sie	Ihnen						
+3075	6	SUB	2	11		d- Diplomat	dem Diplomaten						
+3332	6	SUB	2	11		mein- Tante	meiner Tante						
+3076	6	SUB	2	11		sein- Eltern	seinen Eltern						
+3077	6	SUB	2	11		ihr- Bruder	ihrem Bruder						
+3078	6	SUB	2	11		unser- Schwester	unserer Schwester						
+3079	6	SUB	2	11		mein- Sekretärin	meiner Sekretärin						
+3080	6	SUB	2	12		Wir	Wir haben unsere	uns					
+3081	6	SUB	2	12		Herr Müller	Herr Müller hat seine	sich					
+3082	6	SUB	2	12		Meine Frau	Meine Frau hat ihre	sich					
+3083	6	SUB	2	12		Sie (3pl)	Sie haben ihre	sich					
+3084	6	SUB	2	12		Ihr Mann	Ihr Mann hat seine	sich					
+3085	6	SUB	2	12		Frau König	Frau König hat ihre	sich			Fräulein König	Fräulein König hat ihre	
+3086	6	SUB	2	12		Sie (sg)	Sie hat ihre	sich					
+754	6	SUB	2	13		Füller; alt-	alten Füller						
+755	6	SUB	2	13		Konsuln; amerikanisch-	amerikanischen Konsuln						
+756	6	SUB	2	13		Bücher; französisch-	französischen Bücher			pl			
+757	6	SUB	2	13		Zigaretten; deutsch-	deutschen Zigaretten						
+758	6	SUB	2	13		Zeitungen; alt-	alten Zeitungen						
+759	6	SUB	2	13		Nummern; wichtig-	wichtigen Nummern						
+760	6	SUB	2	13		Bleistifte; neu-	neuen Bleistifte						
+761	6	SUB	2	13		Geschäfte; schön-	schönen Geschäfte						
+762	6	SUB	2	14		Autos; sein- groß- neu-	seine großen neuen Autos			pl	Autos; sein- gross- neu-	seine grossen neuen Autos	
+763	6	SUB	2	14		Restaurants; unser- schön- alt-	unsere schönen alten Restaurants						
+764	6	SUB	2	14		Füller; mein- alt- kaputt-	meine alten kaputten Füller						
+765	6	SUB	2	14		Bücher; ihr- neu- französisch-	ihre neuen französischen Bücher			pl			
+766	6	SUB	2	14		Wagen; unser- groß- amerikanisch-	unsere großen amerikanischen Wagen				Wagen; unser- gross- amerikanisch-	unsere grossen amerikanischen Wagen	
+767	6	SUB	2	14		Romane; ihr- schön- deutsch-	ihre schönen deutschen Romane						
+768	6	SUB	2	15		Vizekonsuln; d- neu-	den neuen Vizekonsuln						
+769	6	SUB	2	15		Schriftstellern; d- französisch-	den französischen Schriftstellern						
+770	6	SUB	2	15		Amerikanern; d- nett-	den netten Amerikanern			pl			
+771	6	SUB	2	15		Beamten (pl.); d- wichtig-	den wichtigen Beamten			pl			
+772	6	SUB	2	15		Deutschen (pl.); d- alt-	den alten Deutschen			pl			
+773	6	SUB	2	15		Sekretärinnen; d- nett-	den netten Sekretärinnen						
+774	6	SUB	2	15		Kollegen (pl.); d- amerikanisch-	den amerikanischen Kollegen						
+775	6	SUB	2	15		Diplomaten (pl.); d- deutsch-	den deutschen Diplomaten						
+776	6	SUB	2	16		Kino; d- neu- groß-	das neue große Kino				Kino; d- neu- gross-	das neue grosse Kino	
+777	6	SUB	2	16		Zeitung; d- alt- deutsch-	die alte deutsche Zeitung						
+778	6	SUB	2	16		Konsul; d- neu- amerikanisch-	der neue amerikanische Konsul						
+779	6	SUB	2	16		Universität; d- berühmt- alt-	die berühmte alte Universität						
+780	6	SUB	2	16		Hotel; d- groß- neu-	das große neue Hotel				Hotel; d- gross- neu-	das grosse neue Hotel	
+781	6	SUB	2	16		Rathaus; d- berühmt- alt-	das berühmte alte Rathaus						
+782	6	SUB	2	16		Handy; d- kaputt- alt-	das kaputte alte Handy				Schreibmaschine; d- kaputt- alt-	die kaputte alte Schreibmaschine	
+783	6	SUB	2	16		Herr; d- nett- alt-	der nette alte Herr						
+784	6	SUB	2	17		Zigarren; gut- deutsch-	guten deutschen Zigarren						
+785	6	SUB	2	17		Bücher; schön- alt-	schönen alten Bücher			pl			
+786	6	SUB	2	17		Zeitungen; neu- amerikanisch-	neuen amerikanischen Zeitungen						
+787	6	SUB	2	17		Weine; gut- französisch-	guten französischen Weine						
+788	6	SUB	2	17		Computer; neu- gut-	neuen guten Computer				Schreibmaschinen; neu- gut-	neuen guten Schreibmaschinen	
+789	6	SUB	2	17		Briefmarken; berühmt- alt-	berühmten alten Briefmarken			pl			
+790	6	SUB	2	18		Cafés; unser- nett- deutsch-	unsere netten deutschen Cafés			pl			
+791	6	SUB	2	18		Romane; kein- alt- französisch-	keine alten französischen Romane						
+792	6	SUB	2	18		Schlösser; unser- berühmt- alt-	unsere berühmten alten Schlösser						
+793	6	SUB	2	18		Abteilungen; ihr- neu- groß-	ihre neuen großen Abteilungen			pl	Abteilungen; ihr- neu- gross-	ihre neuen grossen Abteilungen	
+794	6	SUB	2	18		Geschäfte; sein- schön- groß-	seine schönen großen Geschäfte				Geschäfte; sein- schön- gross-	seine schönen grossen Geschäfte	
+795	6	SUB	2	18		Fragebogen; unser- wichtig- neu-	unsere wichtigen neuen Fragebogen						
+796	6	SUB	2	18		Wohnungen; ihr- nett- neu-	ihre netten neuen Wohnungen						
+797	6	SUB	2	18		Geschäftsbriefe; unser- umständlich- deutsch-	unsere umständlichen deutschen Geschäftsbriefe						
+798	6	SUB	2	19		Hotel; unser- alt- deutsch-	unser altes deutsches Hotel						
+799	6	SUB	2	19		Schriftsteller; ein- wichtig- amerikanisch-	ein wichtiger amerikanischer Schriftsteller						
+800	6	SUB	2	19		Handy; ihr- schön- neu-	ihr schönes neues Handy				Schreibmaschine; ihr- schön- neu-	ihre schöne neue Schreibmaschine	
+801	6	SUB	2	19		Universität; unser- berühmt- alt-	unsere berühmte alte Universität						
+802	6	SUB	2	19		Füller; sein- alt- kaputt-	sein alter kaputter Füller						
+803	6	SUB	2	19		Wohnung; unser- groß- alt-	unsere große alte Wohnung				Wohnung; unser- gross- alt-	unsere grosse alte Wohnung	
+804	6	SUB	2	19		Sekretärin; ihr- nett- neu-	ihre nette neue Sekretärin						
+805	6	SUB	2	19		Roman; sein- gut- neu-	sein guter neuer Roman						
+806	6	SUB	2	19		Zeitung; ein- neu- französisch-	eine neue französische Zeitung						
+807	6	SUB	2	20		Wagen; ein- neu- deutsch-	einen neuen deutschen Wagen						
+808	6	SUB	2	20		Wohnung; ein- schön- groß-	eine schöne große Wohnung				Wohnung; ein- schön- gross-	eine schöne grosse Wohnung	
+809	6	SUB	2	20		Telefon; ein- alt- kaputt-	ein altes kaputtes Telefon				Telephon; ein- alt- kaputt-	ein altes kaputtes Telephon	
+810	6	SUB	2	20		Spülmaschine; ein- gut- deutsch-	eine gute deutsche Spülmaschine				Schreibmaschine; ein- gut- deutsch-	eine gute deutsche Schreibmaschine	
+811	6	SUB	2	20		Namen; ein- schön- französisch-	einen schönen französischen Namen						
+812	6	SUB	2	20		Büro; ein- groß- neu-	ein großes neues Büro			n	Büro; ein- gross- neu-	ein grosses neues Büro	
+813	6	SUB	2	20		Sekrertärin; ein- nett- alt-	eine nette alte Sekretärin						
+814	6	SUB	2	20		Füller; ein- neu- amerikansich-	einen neuen amerikanischen Füller						
+815	6	SUB	2	20		Kollegen; ein- nett- amerikanisch-	einen netten amerikanischen Kollegen						
+816	6	SUB	2	21		Füller; ein- der kaputt-	einen der kaputten Füller						
+817	6	SUB	2	21		Zeitungen; ein- der französisch-	eine der französischen Zeitungen						
+818	6	SUB	2	21		Fragebogen; ein- der neu-	einen der neuen Fragebogen						
+819	6	SUB	2	21		Romane; ein- der deutsch-	einen der deutschen Romane						
+820	6	SUB	2	21		Büros; ein- der neu-	eins der neuen Büros			n			
+821	6	SUB	2	21		Briefmarken; ein- der amerikanisch-	eine der amerikanischen Briefmarken			f			
+822	6	SUB	2	21		Etagenhäuser; ein- der groß-	eins der großen Etagenhäuser				Etagenhäuser; ein- der gross-	eins der grossen Etagenhäuser	
+823	6	SUB	2	21		Wagen; ein- der alt-	einen der alten Wagen						
+824	6	SUB	2	22		Hotel; ein- groß- neu-	einem großen neuen Hotel				Hotel; ein- gross- neu-	einem grossen neuen Hotel	
+825	6	SUB	2	22		Stadt; ein- schön- französisch-	einer schönen französischen Stadt						
+826	6	SUB	2	22		Etagenhaus; ein- groß- amerikanisch-	einem großen amerikanischen Etagenhaus				Etagenhaus; ein- gross- amerikanisch-	einem grossen amerikanischen Etagenhaus	
+827	6	SUB	2	22		Park; ein- schön- alt-	einem schönen alten Park						
+828	6	SUB	2	22		Haus; ein- nett- detusch-	einem netten deutschen Haus						
+829	6	SUB	2	22		Wohnung; ein- groß- neu-	einer großen neuen Wohnung				Wohnung; ein- gross- neu-	einer grossen neuen Wohnung	
+830	6	SUB	2	22		Neubau; ein- schön- groß-	einem schönen großen Neubau				Neubau; ein- schön- gross-	einem schönen grossen Neubau	
+831	6	SUB	2	23		Sekretärinnen; ein- sein- neu-	eine seiner neuen Sekretärinnen						
+832	6	SUB	2	23		Schriftsteller; ein- unser- deutsch-	einen unserer deutschen Schriftsteller						
+833	6	SUB	2	23		Formulare; ein- Ihr- neu-	eins Ihrer neuen Formulare						
+834	6	SUB	2	23		Konferenzen; ein- unser- dringend-	eine unserer dringenden Konferenzen						
+835	6	SUB	2	23		Vizekonsuln; ein- unser- amerikanisch-	einen unserer amerikanischen Vizekonsuln						
+836	6	SUB	2	23		Einfuhrbestimmungen; ein- Ihr- neu-	eine Ihrer neuen Einfuhrbestimmungen						
+837	6	SUB	2	23		Briefe; ein- sein- wichtig-	einen seiner wichtigen Briefe			m			
+838	6	SUB	2	23		Geschäfte; ein- ihr- deutsch-	eins ihrer deutschen Geschäfte						
 839	6	CONV		1		Convert underlined noun(s) to plural.	Hier sind die schönen Parks.						
 840	6	CONV		2		Convert underlined noun(s) to plural.	Wo sind meine neuen Bleistifte?						
 841	6	CONV		3		Convert underlined noun(s) to plural.	Hier wohnen unsere guten Bekannten.						
@@ -1531,197 +1531,197 @@ Id	Unit	Qtype	Qpart	Qnum	Qlet	Prompt2	R1	R2	R3	Subtag	Orig_Prompt2	Orig_R1	Orig_
 853	6	CONV		15		Convert underlined noun(s) to plural.	Kennen Sie die netten Bücher dieser Schriftsteller?						
 854	6	CONV		16		Convert underlined noun(s) to plural.	Ich kann mit diesen kaputten Füllern nicht schreiben.						
 855	6	CONV		17		Convert underlined noun(s) to plural.	Sind das die neuen Pfennige?						
-856	7	SUB		1		Wein; deutsch-	deutscher Wein						
-857	7	SUB		1		Wein; französisch-	französischer Wein						
-858	7	SUB		1		Wein; amerikanisch-	amerikanischer Wein						
-859	7	SUB		1		Wein; gut-	guter Wein						
-860	7	SUB		2		Kaffee; gut-	guter Kaffee						
-861	7	SUB		2		Bier; gut-	gutes Bier			n			
-862	7	SUB		2		Tee; gut-	guter Tee						
-863	7	SUB		2		Briefpapier; gut-	gutes Briefpapier			n			
-864	7	SUB		2		Wäsche; gut-	gute Wäsche						
-865	7	SUB		2		Tabak; gut-	guter Tabak						
-866	7	SUB		2		Wein; gut-	guter Wein						
-867	7	SUB		3		viel- neu-	viele neue						
-868	7	SUB		3		viel- klein-	viele kleine						
-869	7	SUB		3		viel- schön-	viele schöne						
-870	7	SUB		3		viel- alt-	viele alte						
-871	7	SUB		3		viel- groß-	viele große				viel- gross-	viele grosse	
-872	7	SUB		3		viel- ander-	viele andere						
-873	7	SUB		4		Bücher; gut- deutsch-	gute deutsche Bücher			pl			
-874	7	SUB		4		Romane; gut- deutsch-	gute deutsche Romane						
-875	7	SUB		4		Bilder; gut- deutsch-	gute deutsche Bilder			pl			
-876	7	SUB		4		Zigarren; gut- deutsch-	gute deutsche Zigarren						
-877	7	SUB		4		Teppiche; gut- deutsch-	gute deutsche Teppiche						
-878	7	SUB		4		Zeitungen; gut- deutsch-	gute deutsche Zeitungen						
-879	7	SUB		5		Bilder; einig- ander-	einige andere Bilder			pl			
-880	7	SUB		5		Romane; einig- ander-	einige andere Romane						
-881	7	SUB		5		Stühle; einig- ander-	einige andere Stühle						
-882	7	SUB		5		Möbel; einig- ander-	einige andere Möbel						
-883	7	SUB		5		Bücher; einig- ander-	einige andere Bücher			pl			
-884	7	SUB		5		Zeitungen; einig- ander-	einige andere Zeitungen						
-885	7	SUB		6		Wein; gut-	guten Wein						
-886	7	SUB		6		Briefpapier; gut-	gutes Briefpapier			n			
-887	7	SUB		6		Tabak; gut-	guten Tabak						
-888	7	SUB		6		Geschirr; gut-	gutes Geschirr			n			
-889	7	SUB		6		Wäsche; gut-	gute Wäsche						
-890	7	SUB		6		Kaffee; gut-	guten Kaffee						
-891	7	SUB		6		Bier; gut-	gutes Bier			n			
-892	7	SUB		7		Briefpapier; schön-	schönes Briefpapier			n			
-893	7	SUB		7		Tabak; amerikanisch-	amerikanischer Tabak						
-894	7	SUB		7		Geschirr; kaputt-	kaputtes Geschirr			n			
-895	7	SUB		7		Wein; französisch-	französischer Wein						
-896	7	SUB		7		Wäsche; sauber-	saubere Wäsche						
-897	7	SUB		7		Bier; deutsch-	deutsches Bier			n			
-898	7	SUB		7		Frachtgut; wichtig-	wichtiges Frachtgut						
-899	7	SUB		8		Wein; deutsch-	deutschen Wein						
-900	7	SUB		8		Bier; amerikanisch-	amerikanisches Bier			n			
-901	7	SUB		8		Tee; englisch-	englischen Tee						
-902	7	SUB		8		Wäsche; neu-	neue Wäsche						
-903	7	SUB		8		Frachtgut; wichtig-	wichtiges Frachtgut						
-904	7	SUB		8		Tabak; gut-	guten Tabak						
-905	7	SUB		8		Briefpapier; schön-	schönes Briefpapier			n			
-906	7	SUB		9		Wein; französisch-	französischem Wein						
-907	7	SUB		9		Frachtgut; wichtig-	wichtigem Frachtgut						
-908	7	SUB		9		Bier; deutsch-	deutschem Bier			n			
-909	7	SUB		9		Wäsche; neu-	neuer Wäsche						
-910	7	SUB		9		Tabak; amerikanisch-	amerikanischem Tabak						
-911	7	SUB		9		Geschirr; neu-	neuem Geschirr			n			
-912	7	SUB		10		Möbel; schön- neu-	schöne neue Möbel						
-913	7	SUB		10		Bilder; einig- berühmt-	einige berühmte Bilder			pl			
-914	7	SUB		10		Stühle; viel- kaputt-	viele kaputte Stühle						
-915	7	SUB		10		Schränke; alt- hoh-	alte hohe Schränke						
-916	7	SUB		10		Teppiche; gut- klein-	gute kleine Teppiche						
-917	7	SUB		10		Tische; groß- neu-	große neue Tische				Tische; gross- neu-	grosse neue Tische	
-918	7	SUB		11		Parks; schön-	schöne Parks						
-919	7	SUB		11		Straßen; sauber-	saubere Straßen				Strassen; sauber-	saubere Strassen	
-920	7	SUB		11		Gärten; schön-	schöne Gärten						
-921	7	SUB		11		Neubauten; groß-	große Neubauten				Neubauten; gross-	grosse Neubauten	
-922	7	SUB		11		Vororte; schön-	schöne Vororte						
-923	7	SUB		12		Parks; schön-	schönen Parks						
-924	7	SUB		12		Straßen; sauber-	sauberen Straßen				Strassen; sauber-	sauberen Strassen	
-925	7	SUB		12		Gärten; schön-	schönen Gärten						
-926	7	SUB		12		Neubauten; groß-	große Neubauten				Neubauten; gross-	grosse Neubauten	
-927	7	SUB		12		Vororte; schön-	schönen Vororte						
-928	7	SUB		13		Bilder; schön-	schöne Bilder			pl			
-929	7	SUB		13		Tische; groß-	große Tische				Tische; gross-	grosse Tische	
-930	7	SUB		13		Sessel; neu-	neue Sessel						
-931	7	SUB		13		Romane; gut-	gute Romane						
-932	7	SUB		13		Möbel; alt-	alte Möbel						
-933	7	SUB		14		Bilder; schön-	schönen Bilder			pl			
-934	7	SUB		14		Tische; groß-	großen Tische				Tische; gross-	grossen Tische	
-935	7	SUB		14		Sessel; neu-	neuen Sessel						
-936	7	SUB		14		Romane; gut-	guten Romane						
-937	7	SUB		14		Möbel; alt-	alten Möbel						
-938	7	SUB		15		Bilder; schön-	schöne Bilder			pl			
-939	7	SUB		15		Tische; groß-	große Tische				Tische; gross-	grosse Tische	
-940	7	SUB		15		Sessel; neu-	neue Sessel						
-941	7	SUB		15		Romane; gut-	gute Romane						
-942	7	SUB		15		Möbel; alt-	alte Möbel						
-943	7	SUB		16		Bücher; kein- gut-	keine guten Bücher			pl			
-944	7	SUB		16		Möbel; viel- neu-	viele neue Möbel						
-945	7	SUB		16		Fenster; kein- groß-	keine großen Fenster				Fenster; kein- gross-	keine grossen Fenster	
-946	7	SUB		16		Teppiche; drei schön-	drei schöne Teppiche						
-947	7	SUB		16		Zeitungen; einig- französisch-	einige französische Zeitungen						
-948	7	SUB		16		Anträge; kein- neu-	keine neuen Anträge			pl			
-949	7	SUB		17		Parks; schön-	schönen Parks						
-950	7	SUB		17		Dom; ein- berühmt-	einem berühmten Dom						
-951	7	SUB		17		Geschäften; viel- groß-	vielen großen Geschäften				Geschäften; viel- gross-	vielen grossen Geschäften	
-952	7	SUB		17		Etagenhäusern; neu- groß-	neuen großen Etagenhäusern				Etagenhäusern; neu- gross-	neuen grossen Etagenhäusern	
-953	7	SUB		17		Museum; ein- berühmt- alt-	einem berühmten alten Museum						
-954	7	SUB		17		Restaurants; viel- gut-	vielen guten Restaurants						
-955	7	SUB		17		Universität; ein- sehr schön-	einer sehr schönen Universität						
-956	7	SUB		18		Garten; ein- klein-	einem kleinen Garten						
-957	7	SUB		18		Garten; klein-	kleinem Garten						
-958	7	SUB		18		Keller; groß-	großem Keller				Keller; gross-	grossem Keller	
-959	7	SUB		18		Boden; ein- schön-	einem schönen Boden			m			
-960	7	SUB		18		Heizung; ausgezeichnet- neu-	ausgezeichneter neuer Heizung						
-961	7	SUB		18		Küche; ein- schön- groß-	einer schönen großen Küche				Küche; ein- schön- gross-	einer schönen grossen Küche	
-962	7	SUB		18		Schränken; viel- eingebaut-	vielen eingebauten Schränken						
-963	7	SUB		19		Parks; schön-	schöne Parks	sind					
-964	7	SUB		19		Geschäfte; viel- groß-	viele große Geschäfte	sind			Geschäfte; viel- gross-	viele grosse Geschäfte	
-965	7	SUB		19		Dom; ein- berühmt-	ein berühmter Dom	ist					
-966	7	SUB		19		Etagenhäuser; fünf neu-	fünf neue Etagenhäuser	sind					
-967	7	SUB		19		Museum; ein- berühmt- alt-	ein berühmtes altes Museum	ist					
-968	7	SUB		19		Restaurants; einig- gut-	einige gute Restaurants	sind					
-969	7	SUB		19		Bibliothek; ein- sehr schön-	eine sehr schöne Bibliothek	ist		f			
-970	7	SUB		19		Parkplätze; groß-	große Parkplätze	sind			Parkplätze; gross-	grosse Parkplätze	
-971	7	SUB		19		Park; ein- schön-	ein schöner Park	ist					
-972	7	SUB		20		Parks; schön-	schöne Parks						
-973	7	SUB		20		Geschäfte; viel- groß-	viele große Geschäfte				Geschäfte; viel- gross-	viele grosse Geschäfte	
-974	7	SUB		20		Dom; ein- berühmt-	einen berühmten Dom						
-975	7	SUB		20		Etagenhäuser; fünf neu-	fünf neue Etagenhäuser						
-976	7	SUB		20		Museum; ein- berühmt- alt-	ein berühmtes altes Museum						
-977	7	SUB		20		Restaurants; einig- gut-	einige gute Restaurants						
-978	7	SUB		20		Bibliothek; ein- sehr schön-	eine sehr schöne Bibliothek			f			
-979	7	SUB		20		Parkplätze; groß-	große Parkplätze				Parkplätze; gross-	grosse Parkplätze	
-980	7	SUB		20		Park; ein- schön-	einen schönen Park						
-981	7	SUB		21		vor d- Schreibtisch	vor den Schreibtisch						
-982	7	SUB		21		neben d- Tür	neben die Tür						
-983	7	SUB		21		auf d- Teppich	auf den Teppich			m			
-984	7	SUB		21		hinter d- Tisch	hinter den Tisch						
-985	7	SUB		21		zwischen d- Betten	zwischen die Betten						
-986	7	SUB		21		in d- Garten	in den Garten						
-987	7	SUB		21		an d- Wand	an die Wand			f			
-988	7	SUB		22		Vor d- Schreibtisch	Vor dem Schreibtisch						
-989	7	SUB		22		Neben d- Tür	Neben der Tür						
-990	7	SUB		22		Auf d- Teppich	Auf dem Teppich			m			
-991	7	SUB		22		Hinter d- Tisch	Hinter dem Tisch						
-992	7	SUB		22		Zwischen d- Betten	Zwischen den Betten						
-993	7	SUB		22		In d- Garten	Im Garten			m			
-994	7	SUB		22		An d- Wand	An der Wand			f			
-995	7	SUB		23		hinter d- Sofa	hinter dem Sofa						
-996	7	SUB		23		vor d- Tür	vor der Tür						
-997	7	SUB		23		zwischen d- Stühlen	zwischen den Stühlen						
-998	7	SUB		23		neben d- Rauchtisch	neben dem Rauchtisch						
-999	7	SUB		23		in d- Wohnzimmer	im Wohnzimmer						
-1000	7	SUB		23		unter d- Schreibtisch	unter dem Schreibtisch						
-1001	7	SUB		23		hinter d- Stehlampe	hinter der Stehlampe						
-1002	7	SUB		24		hinter d- Sofa	hinter das Sofa						
-1003	7	SUB		24		vor d- Tür	vor die Tür						
-1004	7	SUB		24		zwischen d- Stühle	zwischen die Stühle						
-1005	7	SUB		24		neben d- Rauchtisch	neben den Rauchtisch						
-1006	7	SUB		24		in d- Wohnzimmer	ins Wohnzimmer						
-1007	7	SUB		24		unter d- Schreibtisch	unter den Schreibtisch						
-1008	7	SUB		24		hinter d- Stehlampe	hinter die Stehlampe						
-1009	7	SUB		25		neben d- Maus	neben die Maus				neben d- Schreibmaschine	neben die Schreibmaschine	
-1010	7	SUB		25		unter d- Lampe	unter die Lampe						
-1011	7	SUB		25		auf d- Tisch	auf den Tisch			m			
-1012	7	SUB		25		in d- ander- Zimmer	ins andere Zimmer						
-1013	7	SUB		25		hinter d- Telefonbuch	hinter das Telefonbuch				hinter d- Telephonbuch	hinter das Telephonbuch	
-1014	7	SUB		25		neben d- Zeitungen	neben die Zeitungen						
-1015	7	SUB		26		neben d- Maus	neben der Maus				neben d- Schreibmaschine	neben der Schreibmaschine	
-1016	7	SUB		26		unter d- Lampe	unter der Lampe						
-1017	7	SUB		26		auf d- Tisch	auf dem Tisch			m			
-1018	7	SUB		26		in d- ander- Zimmer	im anderen Zimmer						
-1019	7	SUB		26		hinter d- Telefonbuch	hinter dem Telefonbuch				hinter d- Telephonbuch	hinter dem Telephonbuch	
-1020	7	SUB		26		neben d- Zeitungen	neben den Zeitungen						
-1021	7	SUB		27		unter d- Zeitungen	unter den Zeitungen						
-1022	7	SUB		27		zwischen d- Büchern	zwischen den Büchern						
-1023	7	SUB		27		neben d- Maus	neben der Maus				neben d- Schreibmaschine	neben der Schreibmaschine	
-1024	7	SUB		27		in d- Schrank	im Schrank						
-1025	7	SUB		27		hinter d- Lampe	hinter der Lampe						
-1026	7	SUB		27		auf d- Küchentisch	auf dem Küchentisch						
-1027	7	SUB		28		unter d- Zeitungen	unter die Zeitungen						
-1028	7	SUB		28		zwischen d- Bücher	zwischen die Bücher						
-1029	7	SUB		28		neben d- Maus	neben die Maus				neben d- Schreibmaschine	neben die Schreibmaschine	
-1030	7	SUB		28		in d- Schrank	in den Schrank						
-1031	7	SUB		28		hinter d- Lampe	hinter die Lampe						
-1032	7	SUB		28		auf d- Küchentisch	auf den Küchentisch						
-1033	7	SUB		29		über d- Sofa	über dem Sofa						
-1034	7	SUB		29		zwischen d- Fenstern	zwischen den Fenstern						
-1035	7	SUB		29		neben d- Tür	neben der Tür						
-1036	7	SUB		29		über d- Schreibtisch	über dem Schreibtisch						
-1037	7	SUB		29		in d- Wohnzimmer	im Wohnzimmer						
-1038	7	SUB		29		an d- Wand	an der Wand			f			
-1039	7	SUB		29		in d- Bibliothek	in der Bibliothek						
-1040	7	SUB		30		über d- Sofa	über das Sofa						
-1041	7	SUB		30		zwischen d- Fenster	zwischen die Fenster						
-1042	7	SUB		30		neben d- Tür	neben die Tür						
-1043	7	SUB		30		über d- Schreibtisch	über den Schreibtisch						
-1044	7	SUB		30		in d- Wohnzimmer	ins Wohnzimmer						
-1045	7	SUB		30		an d- Wand	an die Wand			f			
-1046	7	SUB		30		in d- Bibliothek	in die Bibliothek						
+856	7	SUB	1	1		Wein; deutsch-	deutscher Wein						
+857	7	SUB	1	1		Wein; französisch-	französischer Wein						
+858	7	SUB	1	1		Wein; amerikanisch-	amerikanischer Wein						
+859	7	SUB	1	1		Wein; gut-	guter Wein						
+860	7	SUB	1	2		Kaffee; gut-	guter Kaffee						
+861	7	SUB	1	2		Bier; gut-	gutes Bier			n			
+862	7	SUB	1	2		Tee; gut-	guter Tee						
+863	7	SUB	1	2		Briefpapier; gut-	gutes Briefpapier			n			
+864	7	SUB	1	2		Wäsche; gut-	gute Wäsche						
+865	7	SUB	1	2		Tabak; gut-	guter Tabak						
+866	7	SUB	1	2		Wein; gut-	guter Wein						
+867	7	SUB	1	3		viel- neu-	viele neue						
+868	7	SUB	1	3		viel- klein-	viele kleine						
+869	7	SUB	1	3		viel- schön-	viele schöne						
+870	7	SUB	1	3		viel- alt-	viele alte						
+871	7	SUB	1	3		viel- groß-	viele große				viel- gross-	viele grosse	
+872	7	SUB	1	3		viel- ander-	viele andere						
+873	7	SUB	1	4		Bücher; gut- deutsch-	gute deutsche Bücher			pl			
+874	7	SUB	1	4		Romane; gut- deutsch-	gute deutsche Romane						
+875	7	SUB	1	4		Bilder; gut- deutsch-	gute deutsche Bilder			pl			
+876	7	SUB	1	4		Zigarren; gut- deutsch-	gute deutsche Zigarren						
+877	7	SUB	1	4		Teppiche; gut- deutsch-	gute deutsche Teppiche						
+878	7	SUB	1	4		Zeitungen; gut- deutsch-	gute deutsche Zeitungen						
+879	7	SUB	1	5		Bilder; einig- ander-	einige andere Bilder			pl			
+880	7	SUB	1	5		Romane; einig- ander-	einige andere Romane						
+881	7	SUB	1	5		Stühle; einig- ander-	einige andere Stühle						
+882	7	SUB	1	5		Möbel; einig- ander-	einige andere Möbel						
+883	7	SUB	1	5		Bücher; einig- ander-	einige andere Bücher			pl			
+884	7	SUB	1	5		Zeitungen; einig- ander-	einige andere Zeitungen						
+885	7	SUB	1	6		Wein; gut-	guten Wein						
+886	7	SUB	1	6		Briefpapier; gut-	gutes Briefpapier			n			
+887	7	SUB	1	6		Tabak; gut-	guten Tabak						
+888	7	SUB	1	6		Geschirr; gut-	gutes Geschirr			n			
+889	7	SUB	1	6		Wäsche; gut-	gute Wäsche						
+890	7	SUB	1	6		Kaffee; gut-	guten Kaffee						
+891	7	SUB	1	6		Bier; gut-	gutes Bier			n			
+892	7	SUB	1	7		Briefpapier; schön-	schönes Briefpapier			n			
+893	7	SUB	1	7		Tabak; amerikanisch-	amerikanischer Tabak						
+894	7	SUB	1	7		Geschirr; kaputt-	kaputtes Geschirr			n			
+895	7	SUB	1	7		Wein; französisch-	französischer Wein						
+896	7	SUB	1	7		Wäsche; sauber-	saubere Wäsche						
+897	7	SUB	1	7		Bier; deutsch-	deutsches Bier			n			
+898	7	SUB	1	7		Frachtgut; wichtig-	wichtiges Frachtgut						
+899	7	SUB	1	8		Wein; deutsch-	deutschen Wein						
+900	7	SUB	1	8		Bier; amerikanisch-	amerikanisches Bier			n			
+901	7	SUB	1	8		Tee; englisch-	englischen Tee						
+902	7	SUB	1	8		Wäsche; neu-	neue Wäsche						
+903	7	SUB	1	8		Frachtgut; wichtig-	wichtiges Frachtgut						
+904	7	SUB	1	8		Tabak; gut-	guten Tabak						
+905	7	SUB	1	8		Briefpapier; schön-	schönes Briefpapier			n			
+906	7	SUB	1	9		Wein; französisch-	französischem Wein						
+907	7	SUB	1	9		Frachtgut; wichtig-	wichtigem Frachtgut						
+908	7	SUB	1	9		Bier; deutsch-	deutschem Bier			n			
+909	7	SUB	1	9		Wäsche; neu-	neuer Wäsche						
+910	7	SUB	1	9		Tabak; amerikanisch-	amerikanischem Tabak						
+911	7	SUB	1	9		Geschirr; neu-	neuem Geschirr			n			
+912	7	SUB	1	10		Möbel; schön- neu-	schöne neue Möbel						
+913	7	SUB	1	10		Bilder; einig- berühmt-	einige berühmte Bilder			pl			
+914	7	SUB	1	10		Stühle; viel- kaputt-	viele kaputte Stühle						
+915	7	SUB	1	10		Schränke; alt- hoh-	alte hohe Schränke						
+916	7	SUB	1	10		Teppiche; gut- klein-	gute kleine Teppiche						
+917	7	SUB	1	10		Tische; groß- neu-	große neue Tische				Tische; gross- neu-	grosse neue Tische	
+918	7	SUB	2	11		Parks; schön-	schöne Parks						
+919	7	SUB	2	11		Straßen; sauber-	saubere Straßen				Strassen; sauber-	saubere Strassen	
+920	7	SUB	2	11		Gärten; schön-	schöne Gärten						
+921	7	SUB	2	11		Neubauten; groß-	große Neubauten				Neubauten; gross-	grosse Neubauten	
+922	7	SUB	2	11		Vororte; schön-	schöne Vororte						
+923	7	SUB	2	12		Parks; schön-	schönen Parks						
+924	7	SUB	2	12		Straßen; sauber-	sauberen Straßen				Strassen; sauber-	sauberen Strassen	
+925	7	SUB	2	12		Gärten; schön-	schönen Gärten						
+926	7	SUB	2	12		Neubauten; groß-	große Neubauten				Neubauten; gross-	grosse Neubauten	
+927	7	SUB	2	12		Vororte; schön-	schönen Vororte						
+928	7	SUB	2	13		Bilder; schön-	schöne Bilder			pl			
+929	7	SUB	2	13		Tische; groß-	große Tische				Tische; gross-	grosse Tische	
+930	7	SUB	2	13		Sessel; neu-	neue Sessel						
+931	7	SUB	2	13		Romane; gut-	gute Romane						
+932	7	SUB	2	13		Möbel; alt-	alte Möbel						
+933	7	SUB	2	14		Bilder; schön-	schönen Bilder			pl			
+934	7	SUB	2	14		Tische; groß-	großen Tische				Tische; gross-	grossen Tische	
+935	7	SUB	2	14		Sessel; neu-	neuen Sessel						
+936	7	SUB	2	14		Romane; gut-	guten Romane						
+937	7	SUB	2	14		Möbel; alt-	alten Möbel						
+938	7	SUB	2	15		Bilder; schön-	schöne Bilder			pl			
+939	7	SUB	2	15		Tische; groß-	große Tische				Tische; gross-	grosse Tische	
+940	7	SUB	2	15		Sessel; neu-	neue Sessel						
+941	7	SUB	2	15		Romane; gut-	gute Romane						
+942	7	SUB	2	15		Möbel; alt-	alte Möbel						
+943	7	SUB	2	16		Bücher; kein- gut-	keine guten Bücher			pl			
+944	7	SUB	2	16		Möbel; viel- neu-	viele neue Möbel						
+945	7	SUB	2	16		Fenster; kein- groß-	keine großen Fenster				Fenster; kein- gross-	keine grossen Fenster	
+946	7	SUB	2	16		Teppiche; drei schön-	drei schöne Teppiche						
+947	7	SUB	2	16		Zeitungen; einig- französisch-	einige französische Zeitungen						
+948	7	SUB	2	16		Anträge; kein- neu-	keine neuen Anträge			pl			
+949	7	SUB	2	17		Parks; schön-	schönen Parks						
+950	7	SUB	2	17		Dom; ein- berühmt-	einem berühmten Dom						
+951	7	SUB	2	17		Geschäften; viel- groß-	vielen großen Geschäften				Geschäften; viel- gross-	vielen grossen Geschäften	
+952	7	SUB	2	17		Etagenhäusern; neu- groß-	neuen großen Etagenhäusern				Etagenhäusern; neu- gross-	neuen grossen Etagenhäusern	
+953	7	SUB	2	17		Museum; ein- berühmt- alt-	einem berühmten alten Museum						
+954	7	SUB	2	17		Restaurants; viel- gut-	vielen guten Restaurants						
+955	7	SUB	2	17		Universität; ein- sehr schön-	einer sehr schönen Universität						
+956	7	SUB	2	18		Garten; ein- klein-	einem kleinen Garten						
+957	7	SUB	2	18		Garten; klein-	kleinem Garten						
+958	7	SUB	2	18		Keller; groß-	großem Keller				Keller; gross-	grossem Keller	
+959	7	SUB	2	18		Boden; ein- schön-	einem schönen Boden			m			
+960	7	SUB	2	18		Heizung; ausgezeichnet- neu-	ausgezeichneter neuer Heizung						
+961	7	SUB	2	18		Küche; ein- schön- groß-	einer schönen großen Küche				Küche; ein- schön- gross-	einer schönen grossen Küche	
+962	7	SUB	2	18		Schränken; viel- eingebaut-	vielen eingebauten Schränken						
+963	7	SUB	2	19		Parks; schön-	schöne Parks	sind					
+964	7	SUB	2	19		Geschäfte; viel- groß-	viele große Geschäfte	sind			Geschäfte; viel- gross-	viele grosse Geschäfte	
+965	7	SUB	2	19		Dom; ein- berühmt-	ein berühmter Dom	ist					
+966	7	SUB	2	19		Etagenhäuser; fünf neu-	fünf neue Etagenhäuser	sind					
+967	7	SUB	2	19		Museum; ein- berühmt- alt-	ein berühmtes altes Museum	ist					
+968	7	SUB	2	19		Restaurants; einig- gut-	einige gute Restaurants	sind					
+969	7	SUB	2	19		Bibliothek; ein- sehr schön-	eine sehr schöne Bibliothek	ist		f			
+970	7	SUB	2	19		Parkplätze; groß-	große Parkplätze	sind			Parkplätze; gross-	grosse Parkplätze	
+971	7	SUB	2	19		Park; ein- schön-	ein schöner Park	ist					
+972	7	SUB	2	20		Parks; schön-	schöne Parks						
+973	7	SUB	2	20		Geschäfte; viel- groß-	viele große Geschäfte				Geschäfte; viel- gross-	viele grosse Geschäfte	
+974	7	SUB	2	20		Dom; ein- berühmt-	einen berühmten Dom						
+975	7	SUB	2	20		Etagenhäuser; fünf neu-	fünf neue Etagenhäuser						
+976	7	SUB	2	20		Museum; ein- berühmt- alt-	ein berühmtes altes Museum						
+977	7	SUB	2	20		Restaurants; einig- gut-	einige gute Restaurants						
+978	7	SUB	2	20		Bibliothek; ein- sehr schön-	eine sehr schöne Bibliothek			f			
+979	7	SUB	2	20		Parkplätze; groß-	große Parkplätze				Parkplätze; gross-	grosse Parkplätze	
+980	7	SUB	2	20		Park; ein- schön-	einen schönen Park						
+981	7	SUB	3	21		vor d- Schreibtisch	vor den Schreibtisch						
+982	7	SUB	3	21		neben d- Tür	neben die Tür						
+983	7	SUB	3	21		auf d- Teppich	auf den Teppich			m			
+984	7	SUB	3	21		hinter d- Tisch	hinter den Tisch						
+985	7	SUB	3	21		zwischen d- Betten	zwischen die Betten						
+986	7	SUB	3	21		in d- Garten	in den Garten						
+987	7	SUB	3	21		an d- Wand	an die Wand			f			
+988	7	SUB	3	22		Vor d- Schreibtisch	Vor dem Schreibtisch						
+989	7	SUB	3	22		Neben d- Tür	Neben der Tür						
+990	7	SUB	3	22		Auf d- Teppich	Auf dem Teppich			m			
+991	7	SUB	3	22		Hinter d- Tisch	Hinter dem Tisch						
+992	7	SUB	3	22		Zwischen d- Betten	Zwischen den Betten						
+993	7	SUB	3	22		In d- Garten	Im Garten			m			
+994	7	SUB	3	22		An d- Wand	An der Wand			f			
+995	7	SUB	3	23		hinter d- Sofa	hinter dem Sofa						
+996	7	SUB	3	23		vor d- Tür	vor der Tür						
+997	7	SUB	3	23		zwischen d- Stühlen	zwischen den Stühlen						
+998	7	SUB	3	23		neben d- Rauchtisch	neben dem Rauchtisch						
+999	7	SUB	3	23		in d- Wohnzimmer	im Wohnzimmer						
+1000	7	SUB	3	23		unter d- Schreibtisch	unter dem Schreibtisch						
+1001	7	SUB	3	23		hinter d- Stehlampe	hinter der Stehlampe						
+1002	7	SUB	3	24		hinter d- Sofa	hinter das Sofa						
+1003	7	SUB	3	24		vor d- Tür	vor die Tür						
+1004	7	SUB	3	24		zwischen d- Stühle	zwischen die Stühle						
+1005	7	SUB	3	24		neben d- Rauchtisch	neben den Rauchtisch						
+1006	7	SUB	3	24		in d- Wohnzimmer	ins Wohnzimmer						
+1007	7	SUB	3	24		unter d- Schreibtisch	unter den Schreibtisch						
+1008	7	SUB	3	24		hinter d- Stehlampe	hinter die Stehlampe						
+1009	7	SUB	3	25		neben d- Maus	neben die Maus				neben d- Schreibmaschine	neben die Schreibmaschine	
+1010	7	SUB	3	25		unter d- Lampe	unter die Lampe						
+1011	7	SUB	3	25		auf d- Tisch	auf den Tisch			m			
+1012	7	SUB	3	25		in d- ander- Zimmer	ins andere Zimmer						
+1013	7	SUB	3	25		hinter d- Telefonbuch	hinter das Telefonbuch				hinter d- Telephonbuch	hinter das Telephonbuch	
+1014	7	SUB	3	25		neben d- Zeitungen	neben die Zeitungen						
+1015	7	SUB	3	26		neben d- Maus	neben der Maus				neben d- Schreibmaschine	neben der Schreibmaschine	
+1016	7	SUB	3	26		unter d- Lampe	unter der Lampe						
+1017	7	SUB	3	26		auf d- Tisch	auf dem Tisch			m			
+1018	7	SUB	3	26		in d- ander- Zimmer	im anderen Zimmer						
+1019	7	SUB	3	26		hinter d- Telefonbuch	hinter dem Telefonbuch				hinter d- Telephonbuch	hinter dem Telephonbuch	
+1020	7	SUB	3	26		neben d- Zeitungen	neben den Zeitungen						
+1021	7	SUB	3	27		unter d- Zeitungen	unter den Zeitungen						
+1022	7	SUB	3	27		zwischen d- Büchern	zwischen den Büchern						
+1023	7	SUB	3	27		neben d- Maus	neben der Maus				neben d- Schreibmaschine	neben der Schreibmaschine	
+1024	7	SUB	3	27		in d- Schrank	im Schrank						
+1025	7	SUB	3	27		hinter d- Lampe	hinter der Lampe						
+1026	7	SUB	3	27		auf d- Küchentisch	auf dem Küchentisch						
+1027	7	SUB	3	28		unter d- Zeitungen	unter die Zeitungen						
+1028	7	SUB	3	28		zwischen d- Bücher	zwischen die Bücher						
+1029	7	SUB	3	28		neben d- Maus	neben die Maus				neben d- Schreibmaschine	neben die Schreibmaschine	
+1030	7	SUB	3	28		in d- Schrank	in den Schrank						
+1031	7	SUB	3	28		hinter d- Lampe	hinter die Lampe						
+1032	7	SUB	3	28		auf d- Küchentisch	auf den Küchentisch						
+1033	7	SUB	3	29		über d- Sofa	über dem Sofa						
+1034	7	SUB	3	29		zwischen d- Fenstern	zwischen den Fenstern						
+1035	7	SUB	3	29		neben d- Tür	neben der Tür						
+1036	7	SUB	3	29		über d- Schreibtisch	über dem Schreibtisch						
+1037	7	SUB	3	29		in d- Wohnzimmer	im Wohnzimmer						
+1038	7	SUB	3	29		an d- Wand	an der Wand			f			
+1039	7	SUB	3	29		in d- Bibliothek	in der Bibliothek						
+1040	7	SUB	3	30		über d- Sofa	über das Sofa						
+1041	7	SUB	3	30		zwischen d- Fenster	zwischen die Fenster						
+1042	7	SUB	3	30		neben d- Tür	neben die Tür						
+1043	7	SUB	3	30		über d- Schreibtisch	über den Schreibtisch						
+1044	7	SUB	3	30		in d- Wohnzimmer	ins Wohnzimmer						
+1045	7	SUB	3	30		an d- Wand	an die Wand			f			
+1046	7	SUB	3	30		in d- Bibliothek	in die Bibliothek						
 1047	8	SUB		1		Krawatten							
 1048	8	SUB		1		Hemden							
 1049	8	SUB		1		Stühle							
