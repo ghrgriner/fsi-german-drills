@@ -35,6 +35,8 @@
 # [20250207] Remove Model.Qparto column. This was used to override the value
 #   of Qpart after merge, but there's no reason Qpart can't be simply set
 #   to the right values in Model and Notes, and this change has been done.
+#   Use FillPatt as int, not str. Add check that FillPatt in [1,2,4,5,6].
+#   No change to generated output.
 #------------------------------------------------------------------------------
 import os
 import pandas as pd
@@ -79,7 +81,7 @@ notesdf = pd.read_csv(notes_file, sep='\t', header=0, na_filter=False,
 # an HTML page break (FillPatt=6) and these responses are not underlined.
 
 modeldf = pd.read_csv(model_file, sep='\t', header=0, na_filter=False,
-                      quoting=3)
+                      quoting=3, dtype={'FillPatt': int})
 
 # For use only when `FillPatt == 1`. Use `Notes.R1` to look-up `PrePrompt`, a
 # prefix to Prompt2 in the sense described below. The general idea is that
@@ -144,14 +146,18 @@ else:
                               | (notesdf.Orig_R1 != '')
                               | (notesdf.Orig_R2 != ''))
 
-#------------------------------------------------------
+#------------------------------------------------------------------------------
 # 0. Pre-processing
-#------------------------------------------------------
-modeldf['FillPatt'] = modeldf.FillPatt.astype('str')
-nofill = modeldf[modeldf['FillPatt']=='']
-if len(nofill):
-    print('ERROR: All rows in Model.txt must have FillPatt populated')
-    print(nofill)
+#------------------------------------------------------------------------------
+#modeldf['FillPatt'] = modeldf.FillPatt.astype('str')
+#nofill = modeldf[modeldf['FillPatt']=='']
+#if len(nofill):
+#    print('ERROR: All rows in Model.txt must have FillPatt populated')
+#    print(nofill)
+invalid_pattern = modeldf[~modeldf['FillPatt'].isin([1, 2, 4, 5, 6])]
+if len(invalid_pattern):
+    print("ERROR: Model.FillPatt must be in [1, 2, 4, 5, 6]")
+    print(invalid_pattern)
 
 #------------------------------------------------------
 # 1a. Verify Unit+Qtype+Qnum are a unique key on modeldf
@@ -233,7 +239,7 @@ df = pd.merge(df.drop(columns='whichset'), predf, how='outer', on=['R1'],
 df['Tags'] = np.where(df.Note_Modified | df.Model_Modified | df.Pre_Modified,
                       df.Tags + ' Modified', df.Tags)
 
-left_not_right_P1 = df[(df.whichset=='left_only') & (df.FillPatt=='1')]
+left_not_right_P1 = df[(df.whichset=='left_only') & (df.FillPatt == 1)]
 if len(left_not_right_P1):
     print('ERROR: Row(s) in Notes.txt not in FillPatt_R1.txt')
     print(left_not_right_P1)
@@ -250,14 +256,14 @@ df['ModF2'] = np.where(df['ModF2']=='', '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp',
 df['ModF3'] = np.where(df['ModF3']=='', '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp',
                        df['ModF3'])
 
-df['IntR1'] = np.where(df['FillPatt']=='1',
+df['IntR1'] = np.where(df['FillPatt'] == 1,
                        df['R1'] + ' ' + df['Prompt2'], df['R1'])
-df['IntR1'] = np.where(df['FillPatt']=='6',
+df['IntR1'] = np.where(df['FillPatt'] == 6,
                        df['IntR1'] + '<br>' + df['R2'], df['IntR1'])
-df['Prompt2'] = np.where(df['FillPatt']=='1',
+df['Prompt2'] = np.where(df['FillPatt'] == 1,
                          df['PrePrompt'] + ' ' + df['Prompt2'], df['Prompt2'])
 df['Prompt2'] = df.Prompt2.str.strip()
-df['ModF1'] = np.where(df['FillPatt']=='1',
+df['ModF1'] = np.where(df['FillPatt'] == 1,
                        '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp', df['ModF1'])
 
 #print(df)
@@ -266,14 +272,14 @@ def process_file(pattern, mod_f1, mod_f2, mod_f3, int_r1, r2, r3, fill_patt):
     # In the example sentence, F1 is always underlined.
         # F2/F3 are not underlined for FillPatt=4
     example = pattern.replace('{F1}', '<u>' + mod_f1 + '</u>')
-    if fill_patt not in ['4']:
+    if fill_patt != 4:
         example = example.replace('{F2}', '<u>' + mod_f2 + '</u>')
         example = example.replace('{F3}', '<u>' + mod_f3 + '</u>')
     else:
         example = example.replace('{F2}', mod_f2)
         example = example.replace('{F3}', mod_f3)
 
-    if fill_patt not in ['5','6']:
+    if fill_patt not in [5, 6]:
         answer = pattern.replace('{F1}', '<u>' + int_r1 + '</u>')
         answer = answer.replace('{F2}', '<u>' + r2 + '</u>')
         answer = answer.replace('{F3}', '<u>' + r3 + '</u>')

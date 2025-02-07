@@ -261,23 +261,23 @@ Unit	Qtype	Qpart	Qnum	FillPatt	Pattern	ModF1	ModF2	ModF3	Rules	ModPrompt	Comment
 9	SUB	2	19	2	Das ist {F1} in diesem Geschäft.				der.adj.sup.nom					
 9	SUB	2	20	2	Diese Stadt hat {F1} als Bremen.				unp.adj.comp.acc					
 9	SUB	2	21	2	Ich gehe heute in {F1}.				ein.adj.comp.acc					
-9	CONV		1	3	Oben in den Bergen ist es heute {F1} unten im Tal.	windiger als			adj.eq					
-9	CONV		2	3	Hier ist es {F1} in Süddeutschland.	kühler als			adj.eq					
-9	CONV		3	3	Im Sommer ist es in Washington {F1} in Frankfurt.	heißer als			adj.eq				heisser als	
-9	CONV		4	3	Ihre Spülmaschine ist {F1} meine.	besser als			adj.eq			Ihre Schreibmaschine ist {F1} meine.		
-9	CONV		5	3	Hier ist {F1} Verkehr {F2} auf der Autobahn.	weniger	als		adj.eq					
-9	CONV		6	3	Das weiße Hemd gefällt mir {F1} das farbige.	besser als			adj.eq			Das weisse Hemd gefällt mir {F1} das farbige.		
-9	CONV		7	3	Ist denn der Dom in Köln {F1} der in Frankfurt?	größer als			adj.eq			grösser als		
-9	CONV		8	3	Finden Sie diesen Stoff {F1} den anderen da?	besser als			adj.eq					
-9	CONV		9	3	Diese Zeitung ist {F1} die Frankfurter Allgemeine.	interessanter als			adj.eq					
-9	CONV		10	3	Dieser Brief ist augenblicklich {F1} Ihr Ferngespräch.	dringender und wichtiger als			adj.eq					
-9	CONV		11	3	Das Material dieses blauen Anzugs ist {F1} das des grauen.	leichter als			adj.eq					
-9	CONV		12	3	Wir fahren {F1} mit der Straßenbahn {F2} mit dem Autobus.	lieber	als		adj.eq			Wir fahren {F1} mit der Strassenbahn {F2} mit dem Autobus.		
-9	CONV		13	3	Er will {F1} von dem deutschen Wein {F2} von dem französischen kaufen.	mehr	als		adj.eq					
-9	CONV		14	3	Unsere Küche ist {F1} das Wohnzimmer.	gemütlicher als			adj.eq					
-9	CONV		15	3	In den neuen Etagenhäusern sind die Miete {F1} in den alten.	höher als			adj.eq					
-9	CONV		16	3	Wir sehen den Wagen des Konsuls {F1} den des Botschafters.	öfter als			adj.eq					
-9	CONV		17	3	In dieser Stadt gibt es {F1} Omnibusse {F2} Straßenbahnen.	mehr	als		adj.eq			In dieser Stadt gibt es {F1} Omnibusse {F2} Strassenbahnen.		
+9	CONV		1	2	Oben in den Bergen ist es heute {F1} unten im Tal.	windiger als			adj.eq					
+9	CONV		2	2	Hier ist es {F1} in Süddeutschland.	kühler als			adj.eq					
+9	CONV		3	2	Im Sommer ist es in Washington {F1} in Frankfurt.	heißer als			adj.eq				heisser als	
+9	CONV		4	2	Ihre Spülmaschine ist {F1} meine.	besser als			adj.eq			Ihre Schreibmaschine ist {F1} meine.		
+9	CONV		5	2	Hier ist {F1} Verkehr {F2} auf der Autobahn.	weniger	als		adj.eq					
+9	CONV		6	2	Das weiße Hemd gefällt mir {F1} das farbige.	besser als			adj.eq			Das weisse Hemd gefällt mir {F1} das farbige.		
+9	CONV		7	2	Ist denn der Dom in Köln {F1} der in Frankfurt?	größer als			adj.eq			grösser als		
+9	CONV		8	2	Finden Sie diesen Stoff {F1} den anderen da?	besser als			adj.eq					
+9	CONV		9	2	Diese Zeitung ist {F1} die Frankfurter Allgemeine.	interessanter als			adj.eq					
+9	CONV		10	2	Dieser Brief ist augenblicklich {F1} Ihr Ferngespräch.	dringender und wichtiger als			adj.eq					
+9	CONV		11	2	Das Material dieses blauen Anzugs ist {F1} das des grauen.	leichter als			adj.eq					
+9	CONV		12	2	Wir fahren {F1} mit der Straßenbahn {F2} mit dem Autobus.	lieber	als		adj.eq			Wir fahren {F1} mit der Strassenbahn {F2} mit dem Autobus.		
+9	CONV		13	2	Er will {F1} von dem deutschen Wein {F2} von dem französischen kaufen.	mehr	als		adj.eq					
+9	CONV		14	2	Unsere Küche ist {F1} das Wohnzimmer.	gemütlicher als			adj.eq					
+9	CONV		15	2	In den neuen Etagenhäusern sind die Miete {F1} in den alten.	höher als			adj.eq					
+9	CONV		16	2	Wir sehen den Wagen des Konsuls {F1} den des Botschafters.	öfter als			adj.eq					
+9	CONV		17	2	In dieser Stadt gibt es {F1} Omnibusse {F2} Straßenbahnen.	mehr	als		adj.eq			In dieser Stadt gibt es {F1} Omnibusse {F2} Strassenbahnen.		
 10	SUB	1	1	2	Ich weiß nicht, {F1} Herr Meyer kommt.				conj	E		Ich weiss nicht, {F1} Herr Meyer kommt.		
 10	SUB	1	2	2	Wissen Sie, {F1} er nach England fährt?				conj	E				
 10	SUB	1	3	2	Das Konzert findet in {F1} statt.				time.pt	E				
@@ -288,14 +288,14 @@ Unit	Qtype	Qpart	Qnum	FillPatt	Pattern	ModF1	ModF2	ModF3	Rules	ModPrompt	Comment
 10	SUB	1	8	2	Wissen Sie, wann er gewöhnlich {F1}?				order.sub	E				
 10	SUB	1	9	2	Glauben Sie wirklich, dass Herr Jones {F1}?				order.sub	E				
 10	SUB	1	10	2	Wir wissen nicht, ob {F1}.				order.sub	E				
-10	SUB	2	1	3	Heute ist {F1}.				der.date.nom					
-10	SUB	2	2	3	Er kommt {F1}.				am.date					
-10	SUB	2	3	3	Ich freue mich auf {F1}.				der.date.acc					
-10	SUB	2	4	3	{F1} ist ein Mittwoch.				der.date.nom					
-10	SUB	2	5	3	{F1} wollen wir nach Bonn fahren.				am.date					
-10	SUB	2	6	3	Das Theater fängt um {F1} an.				time.form					
-10	SUB	2	7	3	Wir essen meistens um {F1}.				time.viertel					
-10	SUB	2	8	3	Es ist genau {F1}.				time.nachvor					
+10	SUB	2	1	2	Heute ist {F1}.				der.date.nom					
+10	SUB	2	2	2	Er kommt {F1}.				am.date					
+10	SUB	2	3	2	Ich freue mich auf {F1}.				der.date.acc					
+10	SUB	2	4	2	{F1} ist ein Mittwoch.				der.date.nom					
+10	SUB	2	5	2	{F1} wollen wir nach Bonn fahren.				am.date					
+10	SUB	2	6	2	Das Theater fängt um {F1} an.				time.form					
+10	SUB	2	7	2	Wir essen meistens um {F1}.				time.viertel					
+10	SUB	2	8	2	Es ist genau {F1}.				time.nachvor					
 10	CONV	1	1	5	Wir fahren {F1} in die Berge.	nächsten Monat			order					
 10	CONV	1	2	5	Die Sonne scheint {F1} sehr schön.	heute			order					
 10	CONV	1	3	5	Ich weiß nicht, {F1}.	was wir machen sollen			order			Ich weiss nicht, {F1}.		
