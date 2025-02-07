@@ -32,11 +32,12 @@
 # [20250207] Add KEEP_ORIGINAL_TEXT variable to easily switch back and forth.
 #   between original text from 1960 and the spelling updates / replacement of
 #   out-of-date words.
-# [20250207] Remove Model.Qparto column. This was used to override the value
-#   of Qpart after merge, but there's no reason Qpart can't be simply set
-#   to the right values in Model and Notes, and this change has been done.
-#   Use FillPatt as int, not str. Add check that FillPatt in [1,2,4,5,6].
-#   No change to generated output.
+# [20250207] (1) Remove Model.Qparto column. This was used to override the
+#   value of Qpart after merge, but there's no reason Qpart can't be simply
+#   set to the right values in Model and Notes, and this change has been done.
+#   (2) Use FillPatt as int, not str. Add check that FillPatt in [1,2,4,5,6].
+#   (3) Replace print("ERROR: ..."); exit(); with raise ValueError(...)
+#   None of (1)-(3) change the generated output. 
 #------------------------------------------------------------------------------
 import os
 import pandas as pd
@@ -156,29 +157,26 @@ else:
 #    print(nofill)
 invalid_pattern = modeldf[~modeldf['FillPatt'].isin([1, 2, 4, 5, 6])]
 if len(invalid_pattern):
-    print("ERROR: Model.FillPatt must be in [1, 2, 4, 5, 6]")
     print(invalid_pattern)
+    raise ValueError("Model.FillPatt must be in [1, 2, 4, 5, 6]")
 
 #------------------------------------------------------
 # 1a. Verify Unit+Qtype+Qnum are a unique key on modeldf
 #------------------------------------------------------
 dups = modeldf.duplicated(subset=['Unit','Qtype','Qpart','Qnum'])
 if dups.any():
-    print('ERROR: Duplicate rows in Model.txt')
     print(modeldf[dups])
-    exit()
+    raise ValueError('Duplicate rows in Model.txt')
 
 dups = predf.duplicated(subset=['R1'])
 if dups.any():
-    print('ERROR: Duplicate rows in ' + pattern_file)
     print(predf[dups])
-    exit()
+    raise ValueError('Duplicate rows in ' + pattern_file)
 
 dupnote = notesdf.duplicated(subset=['Id'])
 if dupnote.any():
-    print('ERROR: Duplicate rows in ' + notes_file)
     print(notesdf[dupnote])
-    exit()
+    raise ValueError('Duplicate rows in ' + notes_file)
 
 #------------------------------------------------------
 # 2. Merge the datasets and ensure there are no records
