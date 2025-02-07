@@ -10,20 +10,29 @@ License for text in input/ and output/ directories
 The Tags field (not present in the original course) is licensed under the
 Creative Commons Attribution 4.0 International (CC BY 4.0). This refers to
 both the Rules column in the Model.txt input file and the Tags column in
-the output file. Other fields are primarily derived from the original
-course (which I believe to be in the public domain in the United States)
-with what I believe to be trivial or mechanical modifications. The
-modifications made to these fields are released under Creative Commons CC0.
+the output file. 
+Many of the notes in this deck (approximately 10%) have been modified
+slightly from their original form to modernize the spelling or align with
+more modern usage. For example, ‘Fräulein X’ has been replaced with ‘Frau X’
+throughout. These slight modifications are released under the
+Creative Commons CC0 license.
 This deck is not affiliated with or endorsed by the author(s) of the
 original course or by the Foreign Service Institute.
 
 URL of a human-readable summary of the CC BY 4.0 license:
-    https://creativecommons.org/licenses/by/4.0/.
+    https://creativecommons.org/licenses/by/4.0
 
 URL of the license itself. The summary is not a substitute for the license:
-    https://creativecommons.org/licenses/by/4.0/legalcode.
+    https://creativecommons.org/licenses/by/4.0/legalcode
 
-The Tags field is © 2020-2024 by Ray Griner.
+URL of the CC0 summary. The summary is not a substitute for the legal text:
+    https://creativecommons.org/publicdomain/zero/1.0
+
+URL of the CC0 legal text:
+    https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The Tags field and slight modifications to the original notes are
+© 2020, 2025 by Ray Griner.
 
 ---------------------------------------------------------------------------
 

@@ -28,11 +28,22 @@
 #   answer created automatically to reduce the chance of typos.
 # Changes:
 # [No change history prior to 20250204]
-# [20250204] Minor clean-up for public repository. 
+# [20250204] Minor clean-up for public repository.
+# [20250207] Add KEEP_ORIGINAL_TEXT variable to easily switch back and forth.
+#   between original text from 1960 and the spelling updates / replacement of
+#   out-of-date words.
 #------------------------------------------------------------------------------
 import os
 import pandas as pd
 import numpy as np
+
+#------------------------------------------------------------------------------
+# Set to True to use the text from the original publication. Otherwise, the
+# columns containing spelling corrections and that replace the words
+# 'Fräulein', 'Taxe', 'Schreibmaschine' are used
+#------------------------------------------------------------------------------
+KEEP_ORIGINAL_TEXT = False
+#KEEP_ORIGINAL_TEXT = True
 
 notes_file = os.path.join('input','Notes.txt')
 model_file = os.path.join('input','Model.txt')
@@ -100,6 +111,35 @@ def fmtnum(x):
     if abs(x - int(x)) < 0.001: x=int(x)
     xstr=f'{x}'
     return xstr
+
+if KEEP_ORIGINAL_TEXT:
+    predf['R1'] = np.where(predf.Orig_R1 != '', predf.Orig_R1, predf.R1)
+    predf['PrePrompt'] = np.where(predf.Orig_PrePrompt != '',
+                                  predf.Orig_PrePrompt, predf.PrePrompt)
+    modeldf['Pattern'] = np.where(modeldf.Orig_Pattern != '',
+                                  modeldf.Orig_Pattern, modeldf.Pattern)
+    modeldf['ModF1'] = np.where(modeldf.Orig_ModF1 != '',
+                                  modeldf.Orig_ModF1, modeldf.ModF1)
+    modeldf['ModF2'] = np.where(modeldf.Orig_ModF2 != '',
+                                  modeldf.Orig_ModF2, modeldf.ModF2)
+    notesdf['Prompt2'] = np.where(notesdf.Orig_Prompt2 != '',
+                                  notesdf.Orig_Prompt2, notesdf.Prompt2)
+    notesdf['R1'] = np.where(notesdf.Orig_R1 != '',
+                             notesdf.Orig_R1, notesdf.R1)
+    notesdf['R2'] = np.where(notesdf.Orig_R2 != '',
+                             notesdf.Orig_R2, notesdf.R2)
+else:
+    predf['Pre_Modified'] = (predf.Orig_PrePrompt != '')
+    # ModF1 is always replaced by blanks when FillPatt == 1 below,
+    # so we should not mark the note as modified from the original if
+    # only this field has a modification.
+    modeldf['Model_Modified'] = ((  (modeldf.Orig_ModF1 != '')
+                                  & (modeldf.FillPatt != 1))
+                               | (modeldf.Orig_ModF2 != '')
+                               | (modeldf.Orig_Pattern != ''))
+    notesdf['Note_Modified'] = ((notesdf.Orig_Prompt2 != '')
+                              | (notesdf.Orig_R1 != '')
+                              | (notesdf.Orig_R2 != ''))
 
 #------------------------------------------------------
 # 0. Pre-processing
@@ -187,6 +227,8 @@ df['Tags'] = ('U' + df['Unit'].map('{:02}'.format) + ' '               # pylint:
 #-------------------------------------------------------------
 df = pd.merge(df.drop(columns='whichset'), predf, how='outer', on=['R1'],
               indicator='whichset')
+df['Tags'] = np.where(df.Note_Modified | df.Model_Modified | df.Pre_Modified,
+                      df.Tags + ' Modified', df.Tags)
 
 left_not_right_P1 = df[(df.whichset=='left_only') & (df.FillPatt=='1')]
 if len(left_not_right_P1):

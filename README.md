@@ -19,6 +19,18 @@ unit and grammar topic. Generally, one prompt in the course equals one
 card in the deck. This prompt can range from a single word (with a model
 sentence showing the position of the word) to a sentence (with English
 instructions describing the desired transformation). Audio is not included. 
+
+It is not recommended that users review all notes in the deck in order.
+Rather, users should use the Tags field to select a subset of cards for the
+grammar topic they want to review or study (e.g., adjective declension,
+passive voice, relative clauses, etc...).
+
+Many of the notes in this deck (approximately 10%) have been modified
+slightly from their original form to modernize the spelling or align with
+more modern usage. For example, ‘Fräulein X’ has been replaced with ‘Frau X’
+throughout. Documentation on these changes and other documentation for the
+deck is in the wiki.
+
 # Generation of Output Files
 
 To generate the output files, simply clone the repository and execute the
@@ -31,8 +43,8 @@ is available at: https://ankiweb.net/shared/info/1272878976.
 
 # Version
 
-The code in this repository corresponds to v1.3 of the Anki deck shared
-at the link above. Code for prior versions of the deck are not in this
+The code in this repository corresponds to v1.4 of the Anki deck shared
+at the link above. Code for decks prior to v1.3 is not stored in this
 repository.
 
 # Future Work

@@ -1,89 +1,89 @@
-R1	PrePrompt
-der	d-
-das	d-
-die	d-
-dem	d-
-	
-den	d-
-des	d-
-zum	zu d-
-ein	ein-
-sein	sein-
-dieses	dies-
-welchem	welch-
-eine der	ein- der
-im	in d-
-eine gute	ein- gut-
-Ihr	Ihr-
-eins der	ein- der
-ein gutes	ein- gut-
-mein	mein-
-unser	unser-
-Ihre	Ihr-
-welches	welch-
-Das	D-
-einem	ein-
-meine	mein-
-einer	ein-
-zur	zu d-
-dem alten	d- alt-
-welcher	welch-
-dieser	dies-
-einer der	ein- der
-den alten	d- alt-
-in der	in d-
-eines	ein-
-Der	D-
-ein guter	ein- gut-
-einen guten	ein- gut-
-das alte	d- alt-
-seine	sein-
-Ihrer	Ihr-
-das neue	d- neu-
-eines alten	ein- alt-
-Ihres	Ihr-
-keinen	kein-
-unserer	unser-
-unsere	unser-
-keine	kein-
-die neue	d- neu-
-der neue	d- neu-
-Ihren	Ihr-
-kein	kein-
-einen der	ein- der
-einer alten	ein- alt-
-einen	ein-
-die alte	d- alt-
-eine	ein-
-diesem	dies-
-der alten	d- alt-
-Die	D-
-unseres	unser-
-eine schöne grosse	ein- schön- gross-
-diese	dies-
-welche	welch-
-ein schöner grosser	ein- schön- gross-
-Dieser	Dies-
-welchen	welch-
-Diese	Dies-
-diesen	dies-
-Dieses	Dies-
-ein schönes grosses	ein- schön- gross-
-Einen	Ein-
-Eine	Ein-
-Ein	Ein-
-meinen	mein-
-ihr	ihr-
-ihren	ihr-
-unseren	unser-
-unserem	unser-
-seinem	sein-
-meiner	mein-
-ihrem	ihr-
-meinem	mein-
-ihrer	ihr-
-seinen	sein-
-Meine	Mein-
-Mein	Mein-
-Unser	Unser-
-Unsere	Unser-
+R1	PrePrompt	Orig_R1	Orig_PrePrompt
+der	d-		
+das	d-		
+die	d-		
+dem	d-		
+			
+den	d-		
+des	d-		
+zum	zu d-		
+ein	ein-		
+sein	sein-		
+dieses	dies-		
+welchem	welch-		
+eine der	ein- der		
+im	in d-		
+eine gute	ein- gut-		
+Ihr	Ihr-		
+eins der	ein- der		
+ein gutes	ein- gut-		
+mein	mein-		
+unser	unser-		
+Ihre	Ihr-		
+welches	welch-		
+Das	D-		
+einem	ein-		
+meine	mein-		
+einer	ein-		
+zur	zu d-		
+dem alten	d- alt-		
+welcher	welch-		
+dieser	dies-		
+einer der	ein- der		
+den alten	d- alt-		
+in der	in d-		
+eines	ein-		
+Der	D-		
+ein guter	ein- gut-		
+einen guten	ein- gut-		
+das alte	d- alt-		
+seine	sein-		
+Ihrer	Ihr-		
+das neue	d- neu-		
+eines alten	ein- alt-		
+Ihres	Ihr-		
+keinen	kein-		
+unserer	unser-		
+unsere	unser-		
+keine	kein-		
+die neue	d- neu-		
+der neue	d- neu-		
+Ihren	Ihr-		
+kein	kein-		
+einen der	ein- der		
+einer alten	ein- alt-		
+einen	ein-		
+die alte	d- alt-		
+eine	ein-		
+diesem	dies-		
+der alten	d- alt-		
+Die	D-		
+unseres	unser-		
+eine schöne große	ein- schön- groß-	eine schöne grosse	ein- schön- gross-
+diese	dies-		
+welche	welch-		
+ein schöner großer	ein- schön- groß-	ein schöner grosser	ein- schön- gross-
+Dieser	Dies-		
+welchen	welch-		
+Diese	Dies-		
+diesen	dies-		
+Dieses	Dies-		
+ein schönes großes	ein- schön- groß-	ein schönes grosses	ein- schön- gross-
+Einen	Ein-		
+Eine	Ein-		
+Ein	Ein-		
+meinen	mein-		
+ihr	ihr-		
+ihren	ihr-		
+unseren	unser-		
+unserem	unser-		
+seinem	sein-		
+meiner	mein-		
+ihrem	ihr-		
+meinem	mein-		
+ihrer	ihr-		
+seinen	sein-		
+Meine	Mein-		
+Mein	Mein-		
+Unser	Unser-		
+Unsere	Unser-		
