@@ -21,7 +21,7 @@ sentence showing the position of the word) to a sentence (with English
 instructions describing the desired transformation). Audio is not included. 
 
 It is not recommended that users review all notes in the deck in order.
-Rather, users should use the Tags field to select a subset of cards for the
+Rather, users should use the `Tags` field to select a subset of cards for the
 grammar topic they want to review or study (e.g., adjective declension,
 passive voice, relative clauses, etc...).
 
@@ -37,10 +37,10 @@ To generate the output files, simply clone the repository and execute the
 Python program. However, there is no need to generate the output files
 if the user is happy to use the pre-made Anki Deck at the link below. 
 
-# Additional Documentation and Anki Deck
+# Anki Deck
 
-Additional documentation and an Anki deck containing the generated output
-is available at: https://ankiweb.net/shared/info/1272878976.
+A pre-made Anki deck is available in the 'Releases' section of this 
+repository or at: https://ankiweb.net/shared/info/1272878976.
 
 # Version
 
